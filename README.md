@@ -1,53 +1,55 @@
-The content below is an example project proposal / requirements document. Replace the text below the lines marked "__TODO__" with details specific to your project. Remove the "TODO" lines.
-
-(__TODO__: your project name)
-
-# Shoppy Shoperson 
+# Corn Snake Morphs Handbook
 
 ## Overview
 
-(__TODO__: a brief one or two paragraph, high-level description of your project)
+__Corn snakes__ are some of the best pet snakes. The are doctile, don't mind being handled, and come in a variety of truly beaeutiful colors thanks to gene mutation and expression. In fact corn snake colarations (usually referred to as __morphs__) are so varied and prized that hobbyists and breeders have dedicated their lives to acquiting and breeding these snakes into over 900 recognized morphs. 
 
-Remembering what to buy at the grocery store is waaaaay too difficult. Also, shopping for groceries when you're hungry leads to regrettable purchases. Sooo... that's where Shoppy Shoperson comes in!
-
-Shoppy Shoperson is a web app that will allow users to keep track of multiple grocery lists. Users can register and login. Once they're logged in, they can create or view their grocery list. For every list that they have, they can add items to the list or cross off items.
-
+For those curious and interested in raising a corn snake, selecting from an unlimited collection of colors and patterns could be overwhelming. This handbook, documented with some of the most notable and popular morphs, allow you to navigate with filter, add your favorite morphs into collection with an account, as well as view the popularity ranking calculated from all uses's collections.
 
 ## Data Model
 
-(__TODO__: a description of your application's data and their relationships to each other) 
+Note that although there are over 900 corn snake morphs, there are only 5 wild-type genetic strains and 28 selected gene traits. Most of the morphs can be mada from combining these strains into double, triple, and all the way up to six traits. 
 
-The application will store Users, Lists and Items
+The application will store users, morphs, and traits.
 
-* users can have multiple lists (via references)
-* each list can have multiple items (by embedding)
-
-(__TODO__: sample documents)
+* Each user can have one collection, an array of morphs (via reference)
+* Each morph can have multiple traits (by embedding)
 
 An Example User:
-
 ```javascript
 {
-  username: "shannonshopper",
+  username: "foo",
   hash: // a password hash,
-  lists: // an array of references to List documents
+  collection: // an array of references to Morph object
 }
 ```
 
-An Example List with Embedded Items:
-
+An Example Morph:
 ```javascript
 {
-  user: // a reference to a User object
-  name: "Breakfast foods",
-  items: [
-    { name: "pancakes", quantity: "9876", checked: false},
-    { name: "ramen", quantity: "2", checked: true},
-  ],
-  createdAt: // timestamp
+  name: "Fire Stripe",
+  type: 3,
+  traits: ["Amelanistic", "Diffused", "Stripe"],
+  hatchling_img: ,
+  adult_img: ,
+  hits: 10 // number of users that add it into collection
 }
 ```
 
+type dictionary:
+```javascript
+{
+  0: "Wildtypes",
+  1: "Single Recessive",
+  2: "Double Trait",
+  3: "Triple Trait",
+  4: "Quad Trait",
+  5: "Five Trait",
+  6: "Six Trait",
+  7: "Singe Incomplete Dominant",
+  8: "Single Dominant"
+}
+```
 
 ## [Link to Commented First Draft Schema](db.mjs) 
 

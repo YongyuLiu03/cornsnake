@@ -30,13 +30,13 @@ An Example Morph:
   name: "Fire Stripe",
   type: 3,
   traits: ["Amelanistic", "Diffused", "Stripe"],
-  hatchling_img: ,
-  adult_img: ,
+  hatchlingImg: ,
+  adultImg: ,
   hits: 10 // number of users that add it into collection
 }
 ```
 
-type dictionary:
+types dictionary:
 ```javascript
 {
   0: "Wildtypes",
@@ -46,8 +46,20 @@ type dictionary:
   4: "Quad Trait",
   5: "Five Trait",
   6: "Six Trait",
-  7: "Singe Incomplete Dominant",
-  8: "Single Dominant"
+  7: "Singe Dominant",
+  9: "Selectively Bred"
+}
+```
+
+traits dictionary:
+```javascript
+{
+  wildtype: 
+    ['Alabama', 'Keys', 'Miami', 'Normal', 'Okeetee'], 
+  recessive: 
+    ['Lavender', 'Microscale', 'Motley', 'Red Coat', 'Scaleless', 'Strawberry', 'Stripe', 'Sunkissed', 'Sunrise', 'Terrazzo', 'Ultra', 'Amelanistic', 'Anerythristic', 'Caramel', 'Charcoal', 'Christmas', 'Cinder', 'Diffused', 'Dilute', 'Hypomelanistic', 'Kastanie', 'Lava'], 
+  dominant: 
+    ['Het Palmetto', 'Palmetto', 'Buf', 'Masque', 'Tessera', 'Caramel']
 }
 ```
 

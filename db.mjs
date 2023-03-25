@@ -2,23 +2,20 @@
 import mongoose from 'mongoose';
 
 // Morph
-// image storing and retrieval ref:
-// https://www.geeksforgeeks.org/upload-and-retrieve-image-on-mongodb-using-mongoose/
 const Morph = new mongoose.Schema({
-    _id: true,
     name: {type: String,},
-    type: {type: Numbe},
+    type: {type: Number},
     traits: [String],
-    hatchlingImg: {data: Buffer, contentType: string},
-    adultImg: {data: Buffer, contentType: string},
+    hatchlingImg: {data: Buffer, contentType: String},
+    adultImg: {data: Buffer, contentType: String},
     hits: {type: Number, default: 0}
-});
+},  {_id: true});
 
 // User
 const User = new mongoose.Schema({
     // username provided by authentication plugin
     // password hash provided by authentication plugin
-    collection:  [Morph]
+    collect: [{type: mongoose.Schema.Types.ObjectId, ref: 'Morph'}]
 });
 
 mongoose.model('Morph', Morph);

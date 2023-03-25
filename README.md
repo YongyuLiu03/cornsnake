@@ -65,29 +65,26 @@ traits dictionary:
 
 ## [Link to Commented First Draft Schema](db.mjs) 
 
-(__TODO__: create a first draft of your Schemas in db.mjs and link to it)
-
 ## Wireframes
 
-(__TODO__: wireframes for all of the pages on your site; they can be as simple as photos of drawings or you can use a tool like Balsamiq, Omnigraffle, etc.)
+/home - page shown first when user visit
+![list create](documentation/home.jpg)
 
-/list/create - page for creating a new shopping list
+/about - page for showing overview for the web app
+![list create](documentation/about.jpg)
 
-![list create](documentation/list-create.png)
+/morphs - page for showing all morphs
+![list create](documentation/morphs.jpg)
 
-/list - page for showing all shopping lists
+/rank - page for showing top ranking morphs
+![list create](documentation/rank.jpg)
 
-![list](documentation/list.png)
-
-/list/slug - page for showing specific shopping list
-
-![list](documentation/list-slug.png)
+/mine - page for showing users's collection 
+![list create](documentation/mine.jpg)
 
 ## Site map
 
-(__TODO__: draw out a site map that shows how pages are related to each other)
-
-Here's a [complex example from wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/20/Sitemap_google.jpg), but you can create one without the screenshots, drop shadows, etc. ... just names of pages and where they flow to.
+![site map](documentation/sitemap.jpg)
 
 ## User Stories or Use Cases
 

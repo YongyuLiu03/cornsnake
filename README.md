@@ -114,3 +114,18 @@ log in - pop up window for registering
 3. [jQuery](https://jquery.com/)
 4. [react.js](https://react.dev/)
 5. [bootstrap](https://getbootstrap.com/)
+
+
+## Milestone 2 log
+
+* Deployment on AWS EC2
+* SSL certificate with certbot
+* Hosted zone yyklc.com on Route 53, record cornsnake.yyklc.com route to EC2 instance
+* MongoDB Atlas set up
+
+TODO
+* Working form 
+* Upload toy sample to cloud db with images
+* Learn react.js, have basic index 
+* pm2 running in background 
+

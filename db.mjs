@@ -1,6 +1,8 @@
 // 1ST DRAFT DATA MODEL
 import mongoose from 'mongoose';
 
+const url = "mongodb+srv://yl8126:TVIOtiU6JRkg7jVE@cornsnake.qlxudo6.mongodb.net/?retryWrites=true&w=majority";
+
 // Morph
 const Morph = new mongoose.Schema({
     name: {type: String,},

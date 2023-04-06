@@ -1,5 +1,21 @@
 # Corn Snake Morphs Handbook
 
+## Milestone 2 log
+
+* Deployment on AWS EC2
+* SSL certificate with certbot
+* Hosted zone yyklc.com on Route 53, record cornsnake.yyklc.com route to EC2 instance
+* MongoDB Atlas set up
+
+TODO
+
+* Working form 
+* Upload toy sample to cloud db with images
+* Learn react.js, have basic index.html
+* pm2 running in background 
+
+===
+
 ## Overview
 
 __Corn snakes__ are some of the best pet snakes. The are doctile, don't mind being handled, and come in a variety of truly beaeutiful colors thanks to gene mutation and expression. In fact corn snake colarations (usually referred to as __morphs__) are so varied and prized that hobbyists and breeders have dedicated their lives to acquiting and breeding these snakes into over 900 recognized morphs. 
@@ -116,16 +132,5 @@ log in - pop up window for registering
 5. [bootstrap](https://getbootstrap.com/)
 
 
-## Milestone 2 log
 
-* Deployment on AWS EC2
-* SSL certificate with certbot
-* Hosted zone yyklc.com on Route 53, record cornsnake.yyklc.com route to EC2 instance
-* MongoDB Atlas set up
-
-TODO
-* Working form 
-* Upload toy sample to cloud db with images
-* Learn react.js, have basic index 
-* pm2 running in background 
 

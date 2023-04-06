@@ -3,3 +3,4 @@ node_modules
 *.swp
 *.ipynb
 .DS_store
+.ipynb_checkpoints

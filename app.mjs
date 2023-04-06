@@ -68,14 +68,32 @@ app.get('/secret', connectEnsureLogin.ensureLoggedIn(), (req, res) => {
 
 // Route to Log out
 app.get('/logout', function(req, res) {
-  req.logout();
-  res.redirect('/login');
+  req.logout(function(err) {
+    if (err) { return next(err);}
+    res.redirect('/');
+  });
 });
 
 // Post Route: /login
 app.post('/login', passport.authenticate('local', { failureRedirect: '/' }),  function(req, res) {
-	console.log(req.user)
+	console.log(req.user);
 	res.redirect('/dashboard');
+});
+
+app.get("/register", function(req, res) {
+  res.sendFile(__dirname + "/public/register.html");
+});
+
+app.post('/register', function(req, res, next) {
+  console.log('registering user');
+  User.register(new User({username: req.body.username}), req.body.password, function(err) {
+    if (err) {
+      console.log('error while user register!', err);
+      return next(err);
+    }
+    console.log('user registered!');
+    res.redirect('/');
+  });
 });
 
 

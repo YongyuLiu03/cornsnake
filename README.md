@@ -6,6 +6,8 @@
 * SSL certificate with certbot
 * Hosted zone yyklc.com on Route 53, record cornsnake.yyklc.com route to EC2 instance
 * MongoDB Atlas set up
+* Authentication by passport.js
+
 
 TODO
 
@@ -17,6 +19,7 @@ TODO
 Reference:
 
 1. [Authentication](https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs/)
+[passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
 
 ===
 

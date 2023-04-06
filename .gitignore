@@ -4,3 +4,4 @@ node_modules
 *.ipynb
 .DS_store
 .ipynb_checkpoints
+.env

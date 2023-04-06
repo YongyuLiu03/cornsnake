@@ -14,6 +14,10 @@ TODO
 * Learn react.js, have basic index.html
 * pm2 running in background 
 
+Reference:
+
+1. [Authentication](https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs/)
+
 ===
 
 ## Overview

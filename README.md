@@ -6,7 +6,15 @@
 * SSL certificate with certbot
 * Hosted zone yyklc.com on Route 53, record cornsnake.yyklc.com route to EC2 instance
 * MongoDB Atlas set up
-* Authentication by passport.js
+* Add comment schema 
+
+TODO
+
+* Upload image by GridFS to db 
+* Better Authentication
+* Frontend jquery, React, AJAX
+* Add more routes 
+
 
 Reference:
 

@@ -8,14 +8,6 @@
 * MongoDB Atlas set up
 * Authentication by passport.js
 
-
-TODO
-
-* Working form 
-* Upload toy sample to cloud db with images
-* Learn react.js, have basic index.html
-* pm2 running in background 
-
 Reference:
 
 1. [Authentication](https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs/)

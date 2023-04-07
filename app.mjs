@@ -3,6 +3,7 @@ dotenv.config();
 
 import express from 'express';
 const app = express();
+app.set('view engine', 'hbs');
 
 import mongoose from 'mongoose';
 import "./db.mjs";
@@ -11,10 +12,11 @@ await mongoose.connect(process.env.DB_URL || "mongodb://localhost/cornsnake")
     console.log("Connected to MongoDB");
   })
   .catch(()=>{
-    console.log("Couldn't connect to MongoDB");
+    console.log("Couldn't connect to MongoDB");              
   });
 const Morph = mongoose.model('Morph');
 const User = mongoose.model('User');
+const Comment = mongoose.model('Comment');
 
 import url from 'url';
 import path from 'path';
@@ -44,13 +46,28 @@ passport.deserializeUser(User.deserializeUser());
 
 
 // Route to Homepage
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/public/index.html');
+app.get('/', async (req, res) => {
+  const comments = await Comment.find({}).sort("-createdAt").exec();
+  const user = req.user ?? undefined;
+  res.render('index', {user: user, comments: comments});
 });
+
+app.post('/', async (req, res) => {
+  let username;
+  if (req.user) {
+    username = req.user.username;
+  }
+  const comment = new Comment({
+    username: username,
+    content: req.body.comment
+  })
+  await comment.save();
+  res.redirect('/');
+})
 
 // Route to Login Page
 app.get('/login', (req, res) => {
-  res.sendFile(__dirname + '/public/login.html');
+  res.render('login');
 });
 
 // Route to Dashboard
@@ -59,11 +76,6 @@ app.get('/dashboard', connectEnsureLogin.ensureLoggedIn(), (req, res) => {
   and your session expires in ${req.session.cookie.maxAge} 
   milliseconds.<br><br>
   <a href="/logout">Log Out</a><br><br><a href="/secret">Members Only</a>`);
-});
-
-// Route to Secret Page
-app.get('/secret', connectEnsureLogin.ensureLoggedIn(), (req, res) => {
-  res.sendFile(__dirname + '/public/secret-page.html');
 });
 
 // Route to Log out
@@ -77,11 +89,11 @@ app.get('/logout', function(req, res) {
 // Post Route: /login
 app.post('/login', passport.authenticate('local', { failureRedirect: '/' }),  function(req, res) {
 	console.log(req.user);
-	res.redirect('/dashboard');
+	res.redirect('/');
 });
 
 app.get("/register", function(req, res) {
-  res.sendFile(__dirname + "/public/register.html");
+  res.render('register');
 });
 
 app.post('/register', function(req, res, next) {
@@ -96,19 +108,11 @@ app.post('/register', function(req, res, next) {
   });
 });
 
+app.listen(process.env.PORT || 3000, () => console.log(`Listening on port ${process.env.PORT ?? 3000}`));
 
-import { fileURLToPath } from 'url';
 
 import fs from 'fs';
 
 import jQuery from 'jquery';
 import React from 'react';
 
-
-
-
-
-app.set('view engine', 'hbs');
-
-
-app.listen(process.env.PORT || 3000, () => console.log(`Listening on port ${process.env.PORT ?? 3000}`));

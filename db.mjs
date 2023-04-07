@@ -1,4 +1,3 @@
-// 1ST DRAFT DATA MODEL
 import mongoose from 'mongoose';
 import passportLocalMongoose from 'passport-local-mongoose';
 
@@ -20,6 +19,12 @@ const User = new mongoose.Schema({
 });
 User.plugin(passportLocalMongoose);
 
+// Comment 
+const Comment = new mongoose.Schema({
+    username: {type: String, required: false, default: undefined},
+    content: String
+}, {timestamps: {createdAt: true, updatedAt: false}});
+
 mongoose.model('Morph', Morph);
 mongoose.model('User', User);
-// TODO: add remainder of setup for slugs, connection, registering models, etc. below
+mongoose.model('Comment', Comment);

@@ -21,7 +21,7 @@ User.plugin(passportLocalMongoose);
 
 // Comment 
 const Comment = new mongoose.Schema({
-    username: {type: String, required: false, default: undefined},
+    username: {type: String, required: false, default: "Anonymous"},
     content: String
 }, {timestamps: {createdAt: true, updatedAt: false}});
 

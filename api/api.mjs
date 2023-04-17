@@ -3,7 +3,6 @@ dotenv.config();
 
 import express from 'express';
 const app = express();
-app.set('view engine', 'hbs');
 
 import mongoose from 'mongoose';
 import "./db.mjs";
@@ -11,7 +10,8 @@ await mongoose.connect(process.env.DB_URL || "mongodb://localhost/cornsnake")
   .then(()=>{
     console.log("Connected to MongoDB");
   })
-  .catch(()=>{
+  .catch((err)=>{
+    console.log(err);
     console.log("Couldn't connect to MongoDB");              
   });
 const Morph = mongoose.model('Morph');
@@ -25,6 +25,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
+
+import bodyParser from 'body-parser';
+app.use(bodyParser.urlencoded({extended: true}))
+
+import cors from 'cors';
+app.use(cors({credentials:true, origin:"http://localhost:3000"}));
 
 import session from 'express-session';
 import {v4 as uuidv4} from 'uuid';
@@ -44,26 +50,36 @@ passport.use(User.createStrategy());
 passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
+//req.isAuthenticated()
 
-// Route to Homepage
-app.get('/', async (req, res) => {
-  const comments = await Comment.find({}).sort("-createdAt").exec();
-  const user = req.user ?? undefined;
-  res.render('index', {user: user, comments: comments});
+app.get("/api/comment", async function(req, res) {
+  res.json(
+    await Comment.find()
+      .sort({createdAt: -1})
+  );
 });
 
-app.post('/', async (req, res) => {
-  let username;
-  if (req.user) {
-    username = req.user.username;
-  }
-  const comment = new Comment({
-    username: username,
-    content: req.body.comment
+app.post("/api/comment", async function(req, res) {
+  console.log(req.body)
+  const newComment = new Comment({
+    username: req.body.username,
+    content: req.body.content
   })
-  await comment.save();
-  res.redirect('/');
+  await newComment.save();
+  res.json(newComment);
 })
+
+app.get("/api/userinfo", function(req, res) {
+  console.log(req.user);
+  res.json(req.user);
+});
+
+app.get("/api/logout", function(req, res) {
+  req.logout(function(err) {
+    if (err) { throw err;}
+    res.json('ok');
+  });
+});
 
 // Route to Login Page
 app.get('/login', (req, res) => {
@@ -78,13 +94,6 @@ app.get('/dashboard', connectEnsureLogin.ensureLoggedIn(), (req, res) => {
   <a href="/logout">Log Out</a><br><br><a href="/secret">Members Only</a>`);
 });
 
-// Route to Log out
-app.get('/logout', function(req, res) {
-  req.logout(function(err) {
-    if (err) { return next(err);}
-    res.redirect('/');
-  });
-});
 
 // Post Route: /login
 app.post('/login', passport.authenticate('local', { failureRedirect: '/' }),  function(req, res) {

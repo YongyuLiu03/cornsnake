@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ghostmotleytessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/ghostmotleytessera-a.jpg"
+}

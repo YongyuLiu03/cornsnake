@@ -1,0 +1,10 @@
+{
+  "name": "Buf",
+  "type": 7,
+  "traits": [
+    "Buf"
+  ],
+  "thumbnail": "./thumbnails/buf-a.jpg",
+  "hatchlingImg": "./pics/buf-h.jpg",
+  "adultImg": "./pics/buf-a.jpg"
+}

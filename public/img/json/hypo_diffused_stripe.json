@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Diffused Stripe",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedstripe-a.jpg",
+  "hatchlingImg": "./pics/hypodiffusedstripe-h.jpg",
+  "adultImg": "./pics/hypodiffusedstripe-a.jpg"
+}

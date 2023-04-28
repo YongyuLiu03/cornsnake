@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Blizzard",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessblizzard-h.jpg",
+  "hatchlingImg": "./pics/scalelessblizzard-h.jpg",
+  "adultImg": ""
+}

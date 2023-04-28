@@ -1,0 +1,12 @@
+{
+  "name": "Ultramel Cinder",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelcinder-a.jpg",
+  "hatchlingImg": "./pics/ultramelcinder-h.jpg",
+  "adultImg": "./pics/ultramelcinder-a.jpg"
+}

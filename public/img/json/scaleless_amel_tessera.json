@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Amel Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelessameltessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/scalelessameltessera-a.jpg"
+}

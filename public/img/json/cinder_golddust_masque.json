@@ -1,0 +1,14 @@
+{
+  "name": "Cinder Golddust Masque",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Masque",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/cindergolddustmasque-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/cindergolddustmasque-a.jpg"
+}

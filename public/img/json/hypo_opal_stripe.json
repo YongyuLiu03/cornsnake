@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Opal Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypoopalstripe-a.jpg",
+  "hatchlingImg": "./pics/hypoopalstripe-h.jpg",
+  "adultImg": "./pics/hypoopalstripe-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Scaleless Snow Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelesssnowtessera-h.jpg",
+  "hatchlingImg": "./pics/scalelesssnowtessera-h.jpg",
+  "adultImg": ""
+}

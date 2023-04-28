@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ultramel Lavender",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramellavender-h.jpg",
+  "hatchlingImg": "./pics/diffusedultramellavender-h.jpg",
+  "adultImg": ""
+}

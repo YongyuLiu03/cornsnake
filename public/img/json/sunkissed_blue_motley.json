@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Blue Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedbluemotley-h.jpg",
+  "hatchlingImg": "./pics/sunkissedbluemotley-h.jpg",
+  "adultImg": ""
+}

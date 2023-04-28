@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Strawberry",
+  "type": 2,
+  "traits": [
+    "Strawberry",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedstrawberry-h.jpg",
+  "hatchlingImg": "./pics/sunkissedstrawberry-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Butter Charcoal",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Charcoal"
+  ],
+  "thumbnail": "./thumbnails/buttercharcoal-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/buttercharcoal-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Strawberry Tessera",
+  "type": 3,
+  "traits": [
+    "Tessera",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberrytessera-h.jpg",
+  "hatchlingImg": "./pics/hypostrawberrytessera-h.jpg",
+  "adultImg": ""
+}

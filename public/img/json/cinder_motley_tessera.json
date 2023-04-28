@@ -1,0 +1,12 @@
+{
+  "name": "Cinder Motley Tessera",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/cindermotleytessera-h.jpg",
+  "hatchlingImg": "./pics/cindermotleytessera-h.jpg",
+  "adultImg": ""
+}

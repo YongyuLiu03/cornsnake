@@ -1,0 +1,11 @@
+{
+  "name": "Amel Palmetto",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/amelpalmetto-h.jpg",
+  "hatchlingImg": "./pics/amelpalmetto-h.jpg",
+  "adultImg": ""
+}

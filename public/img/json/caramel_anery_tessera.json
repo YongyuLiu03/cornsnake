@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Anery Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/caramelanerytessera-h.jpg",
+  "hatchlingImg": "./pics/caramelanerytessera-h.jpg",
+  "adultImg": ""
+}

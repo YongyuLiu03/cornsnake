@@ -1,0 +1,13 @@
+{
+  "name": "Saffron Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/saffrontessera-h.jpg",
+  "hatchlingImg": "./pics/saffrontessera-h.jpg",
+  "adultImg": ""
+}

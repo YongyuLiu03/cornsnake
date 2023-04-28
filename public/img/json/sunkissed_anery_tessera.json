@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Anery Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/sunkissedanerytessera-h.jpg",
+  "hatchlingImg": "./pics/sunkissedanerytessera-h.jpg",
+  "adultImg": ""
+}

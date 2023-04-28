@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Caramel Tessera",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedcarameltessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedcarameltessera-h.jpg",
+  "adultImg": ""
+}

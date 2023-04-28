@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Mandarin",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/diffusedmandarin-a.jpg",
+  "hatchlingImg": "./pics/diffusedmandarin-h.jpg",
+  "adultImg": "./pics/diffusedmandarin-a.jpg"
+}

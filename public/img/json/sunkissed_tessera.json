@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Tessera",
+  "type": 2,
+  "traits": [
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/sunkissedtessera-h.jpg",
+  "hatchlingImg": "./pics/sunkissedtessera-h.jpg",
+  "adultImg": ""
+}

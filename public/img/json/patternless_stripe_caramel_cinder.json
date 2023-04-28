@@ -1,0 +1,12 @@
+{
+  "name": "Patternless Stripe Caramel Cinder",
+  "type": 8,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/patternlessstripecaramelcinder-h.jpg",
+  "hatchlingImg": "./pics/patternlessstripecaramelcinder-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Toffee Motley",
+  "type": 4,
+  "traits": [
+    "Motley",
+    "Toffee",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultrameltoffeemotley-h.jpg",
+  "hatchlingImg": "./pics/ultrameltoffeemotley-h.jpg",
+  "adultImg": ""
+}

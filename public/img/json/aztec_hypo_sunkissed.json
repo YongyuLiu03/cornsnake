@@ -1,0 +1,11 @@
+{
+  "name": "Aztec Hypo Sunkissed",
+  "type": 8,
+  "traits": [
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/aztechyposunkissed-h.jpg",
+  "hatchlingImg": "./pics/aztechyposunkissed-h.jpg",
+  "adultImg": ""
+}

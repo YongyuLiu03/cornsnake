@@ -1,0 +1,13 @@
+{
+  "name": "Amel Sunkissed Ghost",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/amelsunkissedghost-h.jpg",
+  "hatchlingImg": "./pics/amelsunkissedghost-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Ice",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/caramelice-h.jpg",
+  "hatchlingImg": "./pics/caramelice-h.jpg",
+  "adultImg": ""
+}

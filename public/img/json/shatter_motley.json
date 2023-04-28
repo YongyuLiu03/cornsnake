@@ -1,0 +1,12 @@
+{
+  "name": "Shatter Motley",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/shattermotley-h.jpg",
+  "hatchlingImg": "./pics/shattermotley-h.jpg",
+  "adultImg": ""
+}

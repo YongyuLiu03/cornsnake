@@ -1,0 +1,11 @@
+{
+  "name": "Crimson Tessera",
+  "type": 8,
+  "traits": [
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/crimsontessera-h.jpg",
+  "hatchlingImg": "./pics/crimsontessera-h.jpg",
+  "adultImg": ""
+}

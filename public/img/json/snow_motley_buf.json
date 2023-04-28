@@ -1,0 +1,13 @@
+{
+  "name": "Snow Motley Buf",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Buf",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/snowmotleybuf-h.jpg",
+  "hatchlingImg": "./pics/snowmotleybuf-h.jpg",
+  "adultImg": ""
+}

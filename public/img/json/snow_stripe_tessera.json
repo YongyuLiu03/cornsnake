@@ -1,0 +1,13 @@
+{
+  "name": "Snow Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/snowstripetessera-h.jpg",
+  "hatchlingImg": "./pics/snowstripetessera-h.jpg",
+  "adultImg": ""
+}

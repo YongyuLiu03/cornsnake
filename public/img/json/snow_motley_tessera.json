@@ -1,0 +1,13 @@
+{
+  "name": "Snow Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/snowmotleytessera-h.jpg",
+  "hatchlingImg": "./pics/snowmotleytessera-h.jpg",
+  "adultImg": ""
+}

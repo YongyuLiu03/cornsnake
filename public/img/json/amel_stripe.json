@@ -1,0 +1,11 @@
+{
+  "name": "Amel Stripe",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/amelstripe-a.jpg",
+  "hatchlingImg": "./pics/amelstripe-h.jpg",
+  "adultImg": "./pics/amelstripe-a.jpg"
+}

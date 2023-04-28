@@ -1,0 +1,12 @@
+{
+  "name": "Tessera Orchid",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/tesseraorchid-h.jpg",
+  "hatchlingImg": "./pics/tesseraorchid-h.jpg",
+  "adultImg": ""
+}

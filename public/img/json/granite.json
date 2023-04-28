@@ -1,0 +1,11 @@
+{
+  "name": "Granite",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/granite-a.jpg",
+  "hatchlingImg": "./pics/granite-h.jpg",
+  "adultImg": "./pics/granite-a.jpg"
+}

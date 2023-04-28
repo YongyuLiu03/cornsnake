@@ -1,0 +1,12 @@
+{
+  "name": "Phantom Stripe",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/phantomstripe-h.jpg",
+  "hatchlingImg": "./pics/phantomstripe-h.jpg",
+  "adultImg": ""
+}

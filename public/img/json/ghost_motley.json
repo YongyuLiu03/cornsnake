@@ -1,0 +1,12 @@
+{
+  "name": "Ghost Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/ghostmotley-a.jpg",
+  "hatchlingImg": "./pics/ghostmotley-h.jpg",
+  "adultImg": "./pics/ghostmotley-a.jpg"
+}

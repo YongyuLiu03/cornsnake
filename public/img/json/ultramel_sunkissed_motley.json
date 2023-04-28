@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Sunkissed Motley",
+  "type": 4,
+  "traits": [
+    "Motley",
+    "Sunkissed",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelsunkissedmotley-a.jpg",
+  "hatchlingImg": "./pics/ultramelsunkissedmotley-h.jpg",
+  "adultImg": "./pics/ultramelsunkissedmotley-a.jpg"
+}

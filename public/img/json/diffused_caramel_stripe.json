@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Caramel Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedcaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedcaramelstripe-h.jpg",
+  "adultImg": ""
+}

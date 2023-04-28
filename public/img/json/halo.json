@@ -1,0 +1,10 @@
+{
+  "name": "Halo",
+  "type": 7,
+  "traits": [
+    "Halo"
+  ],
+  "thumbnail": "./thumbnails/halo-a.jpg",
+  "hatchlingImg": "./pics/halo-h.jpg",
+  "adultImg": "./pics/halo-a.jpg"
+}

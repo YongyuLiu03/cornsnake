@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Plasma Motley",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypoplasmamotley-h.jpg",
+  "hatchlingImg": "./pics/hypoplasmamotley-h.jpg",
+  "adultImg": ""
+}

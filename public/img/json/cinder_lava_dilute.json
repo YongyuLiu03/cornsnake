@@ -1,0 +1,12 @@
+{
+  "name": "Cinder Lava Dilute",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Dilute",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/cinderlavadilute-h.jpg",
+  "hatchlingImg": "./pics/cinderlavadilute-h.jpg",
+  "adultImg": ""
+}

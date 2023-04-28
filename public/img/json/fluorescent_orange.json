@@ -1,0 +1,10 @@
+{
+  "name": "Fluorescent Orange",
+  "type": 8,
+  "traits": [
+    "Amelanistic"
+  ],
+  "thumbnail": "./thumbnails/fluorescentorange-a.jpg",
+  "hatchlingImg": "./pics/fluorescentorange-h.jpg",
+  "adultImg": "./pics/fluorescentorange-a.jpg"
+}

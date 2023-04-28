@@ -1,0 +1,11 @@
+{
+  "name": "Lavender Masque",
+  "type": 2,
+  "traits": [
+    "Lavender",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/lavendermasque-h.jpg",
+  "hatchlingImg": "./pics/lavendermasque-h.jpg",
+  "adultImg": ""
+}

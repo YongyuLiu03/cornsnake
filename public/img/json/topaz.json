@@ -1,0 +1,11 @@
+{
+  "name": "Topaz",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/topaz-a.jpg",
+  "hatchlingImg": "./pics/topaz-h.jpg",
+  "adultImg": "./pics/topaz-a.jpg"
+}

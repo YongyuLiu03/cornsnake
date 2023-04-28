@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Sunkissed Lava",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lava",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/diffusedsunkissedlava-h.jpg",
+  "hatchlingImg": "./pics/diffusedsunkissedlava-h.jpg",
+  "adultImg": ""
+}

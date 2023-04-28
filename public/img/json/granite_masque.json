@@ -1,0 +1,12 @@
+{
+  "name": "Granite Masque",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/granitemasque-e.jpg",
+  "hatchlingImg": "",
+  "adultImg": ""
+}

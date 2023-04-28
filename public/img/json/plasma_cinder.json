@@ -1,0 +1,12 @@
+{
+  "name": "Plasma Cinder",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/plasmacinder-h.jpg",
+  "hatchlingImg": "./pics/plasmacinder-h.jpg",
+  "adultImg": ""
+}

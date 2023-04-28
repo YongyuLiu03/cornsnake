@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Diamond",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/diffuseddiamond-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/diffuseddiamond-a.jpg"
+}

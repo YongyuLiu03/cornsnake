@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Terrazzo",
+  "type": 2,
+  "traits": [
+    "Sunkissed",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/sunkissedterrazzo-h.jpg",
+  "hatchlingImg": "./pics/sunkissedterrazzo-h.jpg",
+  "adultImg": ""
+}

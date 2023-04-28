@@ -1,0 +1,13 @@
+{
+  "name": "Strawberry Motley Plasma",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "Motley",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberrymotleyplasma-h.jpg",
+  "hatchlingImg": "./pics/strawberrymotleyplasma-h.jpg",
+  "adultImg": ""
+}

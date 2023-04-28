@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Cinder Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/caramelcinderstripetessera-h.jpg",
+  "hatchlingImg": "./pics/caramelcinderstripetessera-h.jpg",
+  "adultImg": ""
+}

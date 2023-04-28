@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Whiteout",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypowhiteout-h.jpg",
+  "hatchlingImg": "./pics/hypowhiteout-h.jpg",
+  "adultImg": ""
+}

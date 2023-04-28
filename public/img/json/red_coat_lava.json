@@ -1,0 +1,11 @@
+{
+  "name": "Red Coat Lava",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Red Coat"
+  ],
+  "thumbnail": "./thumbnails/redcoatlava-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/redcoatlava-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Lava",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/cinderlava-a.jpg",
+  "hatchlingImg": "./pics/cinderlava-h.jpg",
+  "adultImg": "./pics/cinderlava-a.jpg"
+}

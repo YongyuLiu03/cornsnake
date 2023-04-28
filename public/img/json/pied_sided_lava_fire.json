@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Lava Fire",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lava",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedlavafire-h.jpg",
+  "hatchlingImg": "./pics/piedsidedlavafire-h.jpg",
+  "adultImg": ""
+}

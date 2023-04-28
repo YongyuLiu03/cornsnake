@@ -1,0 +1,11 @@
+{
+  "name": "Diffused Miami Tessera",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedmiamitessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedmiamitessera-h.jpg",
+  "adultImg": ""
+}

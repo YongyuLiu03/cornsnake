@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Terrazzo",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/hypocinderterrazzo-a.jpg",
+  "hatchlingImg": "./pics/hypocinderterrazzo-h.jpg",
+  "adultImg": "./pics/hypocinderterrazzo-a.jpg"
+}

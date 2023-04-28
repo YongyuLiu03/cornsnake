@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Diffused Stripe Masque",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Masque",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedstripemasque-h.jpg",
+  "hatchlingImg": "./pics/hypodiffusedstripemasque-h.jpg",
+  "adultImg": ""
+}

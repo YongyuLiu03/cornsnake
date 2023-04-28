@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Diffused Cinder Patternless Stripe",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedcinderpatternlessstripe-a.jpg",
+  "hatchlingImg": "./pics/hypodiffusedcinderpatternlessstripe-h.jpg",
+  "adultImg": "./pics/hypodiffusedcinderpatternlessstripe-a.jpg"
+}

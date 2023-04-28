@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Pewter Motley",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypopewtermotley-h.jpg",
+  "hatchlingImg": "./pics/hypopewtermotley-h.jpg",
+  "adultImg": ""
+}

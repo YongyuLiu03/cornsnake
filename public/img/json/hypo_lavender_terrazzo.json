@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Lavender Terrazzo",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/hypolavenderterrazzo-h.jpg",
+  "hatchlingImg": "./pics/hypolavenderterrazzo-h.jpg",
+  "adultImg": ""
+}

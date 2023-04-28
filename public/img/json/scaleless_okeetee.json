@@ -1,0 +1,10 @@
+{
+  "name": "Scaleless Okeetee",
+  "type": 8,
+  "traits": [
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessokeetee-h.jpg",
+  "hatchlingImg": "./pics/scalelessokeetee-h.jpg",
+  "adultImg": ""
+}

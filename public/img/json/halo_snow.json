@@ -1,0 +1,12 @@
+{
+  "name": "Halo Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Halo"
+  ],
+  "thumbnail": "./thumbnails/halosnow-a.jpg",
+  "hatchlingImg": "./pics/halosnow-h.jpg",
+  "adultImg": "./pics/halosnow-a.jpg"
+}

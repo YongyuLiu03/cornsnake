@@ -1,0 +1,12 @@
+{
+  "name": "Opal Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/opalmotley-a.jpg",
+  "hatchlingImg": "./pics/opalmotley-h.jpg",
+  "adultImg": "./pics/opalmotley-a.jpg"
+}

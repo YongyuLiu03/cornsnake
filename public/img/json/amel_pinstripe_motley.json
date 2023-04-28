@@ -1,0 +1,11 @@
+{
+  "name": "Amel Pinstripe Motley",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/amelpinstripemotley-a.jpg",
+  "hatchlingImg": "./pics/amelpinstripemotley-h.jpg",
+  "adultImg": "./pics/amelpinstripemotley-a.jpg"
+}

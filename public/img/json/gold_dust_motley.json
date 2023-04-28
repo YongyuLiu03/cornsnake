@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Motley",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddustmotley-a.jpg",
+  "hatchlingImg": "./pics/golddustmotley-h.jpg",
+  "adultImg": "./pics/golddustmotley-a.jpg"
+}

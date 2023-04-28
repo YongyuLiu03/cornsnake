@@ -1,0 +1,11 @@
+{
+  "name": "Bloodred Stripe",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/bloodredstripe-a.jpg",
+  "hatchlingImg": "./pics/bloodredstripe-h.jpg",
+  "adultImg": "./pics/bloodredstripe-a.jpg"
+}

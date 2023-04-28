@@ -1,0 +1,13 @@
+{
+  "name": "Granite Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/granitestripetessera-h.jpg",
+  "hatchlingImg": "./pics/granitestripetessera-h.jpg",
+  "adultImg": ""
+}

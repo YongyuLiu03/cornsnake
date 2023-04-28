@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddusttessera-a.jpg",
+  "hatchlingImg": "./pics/golddusttessera-h.jpg",
+  "adultImg": "./pics/golddusttessera-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Butter",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedbutter-h.jpg",
+  "hatchlingImg": "./pics/sunkissedbutter-h.jpg",
+  "adultImg": ""
+}

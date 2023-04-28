@@ -1,0 +1,13 @@
+{
+  "name": "Green Blotch Avalanche",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Green Blotch"
+  ],
+  "thumbnail": "./thumbnails/greenblotchavalanche-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/greenblotchavalanche-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Avalanche Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/avalanchetessera-h.jpg",
+  "hatchlingImg": "./pics/avalanchetessera-h.jpg",
+  "adultImg": ""
+}

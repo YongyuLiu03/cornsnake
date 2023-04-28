@@ -1,0 +1,13 @@
+{
+  "name": "Etna",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lava",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/etna-h.jpg",
+  "hatchlingImg": "./pics/etna-h.jpg",
+  "adultImg": ""
+}

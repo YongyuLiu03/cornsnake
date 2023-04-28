@@ -1,0 +1,13 @@
+{
+  "name": "Lavamint Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavamintstripe-a.jpg",
+  "hatchlingImg": "./pics/lavamintstripe-h.jpg",
+  "adultImg": "./pics/lavamintstripe-a.jpg"
+}

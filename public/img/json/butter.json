@@ -1,0 +1,11 @@
+{
+  "name": "Butter",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Caramel"
+  ],
+  "thumbnail": "./thumbnails/butter-a.jpg",
+  "hatchlingImg": "./pics/butter-h.jpg",
+  "adultImg": "./pics/butter-a.jpg"
+}

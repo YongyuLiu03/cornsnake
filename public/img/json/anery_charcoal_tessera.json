@@ -1,0 +1,12 @@
+{
+  "name": "Anery Charcoal Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/anerycharcoaltessera-h.jpg",
+  "hatchlingImg": "./pics/anerycharcoaltessera-h.jpg",
+  "adultImg": ""
+}

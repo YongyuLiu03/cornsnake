@@ -1,0 +1,10 @@
+{
+  "name": "Caramel Okeetee",
+  "type": 8,
+  "traits": [
+    "Caramel"
+  ],
+  "thumbnail": "./thumbnails/caramelokeetee-a.jpg",
+  "hatchlingImg": "./pics/caramelokeetee-h.jpg",
+  "adultImg": "./pics/caramelokeetee-a.jpg"
+}

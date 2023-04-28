@@ -1,0 +1,12 @@
+{
+  "name": "Ultra Cinder Motley",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Motley",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultracindermotley-h.jpg",
+  "hatchlingImg": "./pics/ultracindermotley-h.jpg",
+  "adultImg": ""
+}

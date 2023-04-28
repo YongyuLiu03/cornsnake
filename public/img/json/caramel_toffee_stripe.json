@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Toffee Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Stripe",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/carameltoffeestripe-h.jpg",
+  "hatchlingImg": "./pics/carameltoffeestripe-h.jpg",
+  "adultImg": ""
+}

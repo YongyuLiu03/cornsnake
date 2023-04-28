@@ -1,0 +1,13 @@
+{
+  "name": "Iceberg",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Motley",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/iceberg-h.jpg",
+  "hatchlingImg": "./pics/iceberg-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Lavender",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddustlavender-h.jpg",
+  "hatchlingImg": "./pics/golddustlavender-h.jpg",
+  "adultImg": ""
+}

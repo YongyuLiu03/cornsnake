@@ -1,0 +1,13 @@
+{
+  "name": "Amber Opal",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/amberopal-h.jpg",
+  "hatchlingImg": "./pics/amberopal-h.jpg",
+  "adultImg": ""
+}

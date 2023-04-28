@@ -1,0 +1,13 @@
+{
+  "name": "Cinder Diffused Tessera Motley",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/cinderdiffusedtesseramotley-h.jpg",
+  "hatchlingImg": "./pics/cinderdiffusedtesseramotley-h.jpg",
+  "adultImg": ""
+}

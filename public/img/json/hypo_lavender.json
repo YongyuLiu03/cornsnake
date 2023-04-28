@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Lavender",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hypolavender-a.jpg",
+  "hatchlingImg": "./pics/hypolavender-h.jpg",
+  "adultImg": "./pics/hypolavender-a.jpg"
+}

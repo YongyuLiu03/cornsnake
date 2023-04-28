@@ -1,0 +1,11 @@
+{
+  "name": "Lavender Kastanie",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavenderkastanie-h.jpg",
+  "hatchlingImg": "./pics/lavenderkastanie-h.jpg",
+  "adultImg": ""
+}

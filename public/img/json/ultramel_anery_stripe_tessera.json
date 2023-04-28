@@ -1,0 +1,14 @@
+{
+  "name": "Ultramel Anery Stripe Tessera",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Stripe",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelanerystripetessera-a.jpg",
+  "hatchlingImg": "./pics/ultramelanerystripetessera-h.jpg",
+  "adultImg": "./pics/ultramelanerystripetessera-a.jpg"
+}

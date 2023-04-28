@@ -1,0 +1,11 @@
+{
+  "name": "Anerythristic Caramel",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Caramel"
+  ],
+  "thumbnail": "./thumbnails/anerythristiccaramel-h.jpg",
+  "hatchlingImg": "./pics/anerythristiccaramel-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Anery",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedanery-a.jpg",
+  "hatchlingImg": "./pics/sunkissedanery-h.jpg",
+  "adultImg": "./pics/sunkissedanery-a.jpg"
+}

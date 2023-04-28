@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Amel",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessamel-a.jpg",
+  "hatchlingImg": "./pics/scalelessamel-h.jpg",
+  "adultImg": "./pics/scalelessamel-a.jpg"
+}

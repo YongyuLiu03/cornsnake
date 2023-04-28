@@ -1,0 +1,13 @@
+{
+  "name": "Lavalanche",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavalanche-h.jpg",
+  "hatchlingImg": "./pics/lavalanche-h.jpg",
+  "adultImg": ""
+}

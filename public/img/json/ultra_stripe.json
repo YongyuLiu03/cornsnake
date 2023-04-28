@@ -1,0 +1,11 @@
+{
+  "name": "Ultra Stripe",
+  "type": 2,
+  "traits": [
+    "Stripe",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultrastripe-h.jpg",
+  "hatchlingImg": "./pics/ultrastripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Honey",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/diffusedhoney-a.jpg",
+  "hatchlingImg": "./pics/diffusedhoney-h.jpg",
+  "adultImg": "./pics/diffusedhoney-a.jpg"
+}

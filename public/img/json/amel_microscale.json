@@ -1,0 +1,11 @@
+{
+  "name": "Amel Microscale",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Microscale"
+  ],
+  "thumbnail": "./thumbnails/amelmicroscale-h.jpg",
+  "hatchlingImg": "./pics/amelmicroscale-h.jpg",
+  "adultImg": ""
+}

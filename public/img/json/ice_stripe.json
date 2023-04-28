@@ -1,0 +1,12 @@
+{
+  "name": "Ice Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/icestripe-h.jpg",
+  "hatchlingImg": "./pics/icestripe-h.jpg",
+  "adultImg": ""
+}

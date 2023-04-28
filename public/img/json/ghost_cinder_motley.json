@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Cinder Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Cinder",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/ghostcindermotley-h.jpg",
+  "hatchlingImg": "./pics/ghostcindermotley-h.jpg",
+  "adultImg": ""
+}

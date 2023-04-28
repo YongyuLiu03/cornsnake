@@ -1,0 +1,13 @@
+{
+  "name": "Scaleless Butter Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelessbuttertessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/scalelessbuttertessera-a.jpg"
+}

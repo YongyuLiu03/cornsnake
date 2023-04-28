@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Opal Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedopalstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedopalstripe-h.jpg",
+  "adultImg": ""
+}

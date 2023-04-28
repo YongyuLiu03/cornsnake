@@ -1,0 +1,13 @@
+{
+  "name": "Butter Tessera Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/buttertesseramotley-h.jpg",
+  "hatchlingImg": "./pics/buttertesseramotley-h.jpg",
+  "adultImg": ""
+}

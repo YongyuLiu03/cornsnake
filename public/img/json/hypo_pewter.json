@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Pewter",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypopewter-a.jpg",
+  "hatchlingImg": "./pics/hypopewter-h.jpg",
+  "adultImg": "./pics/hypopewter-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kastanie Terrazzo",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/kastanieterrazzo-h.jpg",
+  "hatchlingImg": "./pics/kastanieterrazzo-h.jpg",
+  "adultImg": ""
+}

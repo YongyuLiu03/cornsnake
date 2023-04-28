@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Shatter",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/caramelshatter-h.jpg",
+  "hatchlingImg": "./pics/caramelshatter-h.jpg",
+  "adultImg": ""
+}

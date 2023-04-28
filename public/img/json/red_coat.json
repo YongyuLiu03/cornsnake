@@ -1,0 +1,10 @@
+{
+  "name": "Red Coat",
+  "type": 1,
+  "traits": [
+    "Red Coat"
+  ],
+  "thumbnail": "./thumbnails/redcoat-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/redcoat-a.jpg"
+}

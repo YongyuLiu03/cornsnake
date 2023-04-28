@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Strawberry Lavender",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberrylavender-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/hypostrawberrylavender-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Candycane Tessera",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/candycanetessera-h.jpg",
+  "hatchlingImg": "./pics/candycanetessera-h.jpg",
+  "adultImg": ""
+}

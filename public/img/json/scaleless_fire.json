@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Fire",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessfire-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/scalelessfire-a.jpg"
+}

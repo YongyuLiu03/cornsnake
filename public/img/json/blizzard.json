@@ -1,0 +1,11 @@
+{
+  "name": "Blizzard",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Charcoal"
+  ],
+  "thumbnail": "./thumbnails/blizzard-a.jpg",
+  "hatchlingImg": "./pics/blizzard-h.jpg",
+  "adultImg": "./pics/blizzard-a.jpg"
+}

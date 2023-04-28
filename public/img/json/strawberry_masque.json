@@ -1,0 +1,11 @@
+{
+  "name": "Strawberry Masque",
+  "type": 2,
+  "traits": [
+    "Masque",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberrymasque-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/strawberrymasque-a.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fire Amaretto",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/fireamaretto-h.jpg",
+  "hatchlingImg": "./pics/fireamaretto-h.jpg",
+  "adultImg": ""
+}

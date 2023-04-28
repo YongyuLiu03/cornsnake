@@ -1,0 +1,10 @@
+{
+  "name": "Scaleless Aztec",
+  "type": 8,
+  "traits": [
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessaztec-h.jpg",
+  "hatchlingImg": "./pics/scalelessaztec-h.jpg",
+  "adultImg": ""
+}

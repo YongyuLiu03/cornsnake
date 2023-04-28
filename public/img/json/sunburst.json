@@ -1,0 +1,12 @@
+{
+  "name": "Sunburst",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Sunrise"
+  ],
+  "thumbnail": "./thumbnails/sunburst-h.jpg",
+  "hatchlingImg": "./pics/sunburst-h.jpg",
+  "adultImg": ""
+}

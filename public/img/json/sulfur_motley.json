@@ -1,0 +1,13 @@
+{
+  "name": "Sulfur Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/sulfurmotley-h.jpg",
+  "hatchlingImg": "./pics/sulfurmotley-h.jpg",
+  "adultImg": ""
+}

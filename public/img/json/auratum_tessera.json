@@ -1,0 +1,12 @@
+{
+  "name": "Auratum Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Tessera",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/auratumtessera-a.jpg",
+  "hatchlingImg": "./pics/auratumtessera-h.jpg",
+  "adultImg": "./pics/auratumtessera-a.jpg"
+}

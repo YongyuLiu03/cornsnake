@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Amel",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypoamel-a.jpg",
+  "hatchlingImg": "./pics/hypoamel-h.jpg",
+  "adultImg": "./pics/hypoamel-a.jpg"
+}

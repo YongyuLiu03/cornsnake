@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Pied Sided Diffused",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Pied Sided",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesspiedsideddiffused-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/scalelesspiedsideddiffused-a.jpg"
+}

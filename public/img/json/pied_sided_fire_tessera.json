@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Fire Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Pied Sided",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/piedsidedfiretessera-h.jpg",
+  "hatchlingImg": "./pics/piedsidedfiretessera-h.jpg",
+  "adultImg": ""
+}

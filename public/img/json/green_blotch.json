@@ -1,0 +1,10 @@
+{
+  "name": "Green Blotch",
+  "type": 7,
+  "traits": [
+    "Green Blotch"
+  ],
+  "thumbnail": "./thumbnails/greenblotch-a.jpg",
+  "hatchlingImg": "./pics/greenblotch-h.jpg",
+  "adultImg": "./pics/greenblotch-a.jpg"
+}

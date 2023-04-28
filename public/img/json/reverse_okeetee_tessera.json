@@ -1,0 +1,11 @@
+{
+  "name": "Reverse Okeetee Tessera",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/reverseokeeteetessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/reverseokeeteetessera-a.jpg"
+}

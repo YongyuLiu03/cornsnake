@@ -1,0 +1,12 @@
+{
+  "name": "Lava Bloodred Stripe",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavabloodredstripe-h.jpg",
+  "hatchlingImg": "./pics/lavabloodredstripe-h.jpg",
+  "adultImg": ""
+}

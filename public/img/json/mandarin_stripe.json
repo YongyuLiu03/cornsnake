@@ -1,0 +1,12 @@
+{
+  "name": "Mandarin Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/mandarinstripe-h.jpg",
+  "hatchlingImg": "./pics/mandarinstripe-h.jpg",
+  "adultImg": ""
+}

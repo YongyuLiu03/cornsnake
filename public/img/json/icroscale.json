@@ -1,0 +1,10 @@
+{
+  "name": "Microscale",
+  "type": 1,
+  "traits": [
+    "Microscale"
+  ],
+  "thumbnail": "./thumbnails/microscale-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": ""
+}

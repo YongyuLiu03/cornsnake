@@ -1,0 +1,13 @@
+{
+  "name": "Sulfur Masque",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/sulfurmasque-h.jpg",
+  "hatchlingImg": "./pics/sulfurmasque-h.jpg",
+  "adultImg": ""
+}

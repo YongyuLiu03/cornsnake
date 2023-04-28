@@ -1,0 +1,13 @@
+{
+  "name": "Ice Pewter",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/icepewter-a.jpg",
+  "hatchlingImg": "./pics/icepewter-h.jpg",
+  "adultImg": "./pics/icepewter-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Diffused",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypodiffused-a.jpg",
+  "hatchlingImg": "./pics/hypodiffused-h.jpg",
+  "adultImg": "./pics/hypodiffused-a.jpg"
+}

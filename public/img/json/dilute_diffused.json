@@ -1,0 +1,11 @@
+{
+  "name": "Dilute Diffused",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Dilute"
+  ],
+  "thumbnail": "./thumbnails/dilutediffused-a.jpg",
+  "hatchlingImg": "./pics/dilutediffused-h.jpg",
+  "adultImg": "./pics/dilutediffused-a.jpg"
+}

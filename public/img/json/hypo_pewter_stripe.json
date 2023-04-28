@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Pewter Stripe",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypopewterstripe-h.jpg",
+  "hatchlingImg": "./pics/hypopewterstripe-h.jpg",
+  "adultImg": ""
+}

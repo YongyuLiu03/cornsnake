@@ -1,0 +1,13 @@
+{
+  "name": "Sulfur Toffee",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/sulfurtoffee-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/sulfurtoffee-a.jpg"
+}

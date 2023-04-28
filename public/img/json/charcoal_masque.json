@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Masque",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/charcoalmasque-a.jpg",
+  "hatchlingImg": "./pics/charcoalmasque-h.jpg",
+  "adultImg": "./pics/charcoalmasque-a.jpg"
+}

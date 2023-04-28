@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Ultra Anery",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultraanery-h.jpg",
+  "hatchlingImg": "./pics/diffusedultraanery-h.jpg",
+  "adultImg": ""
+}

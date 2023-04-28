@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Stripe",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypostripe-a.jpg",
+  "hatchlingImg": "./pics/hypostripe-h.jpg",
+  "adultImg": "./pics/hypostripe-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Strawberry",
+  "type": 2,
+  "traits": [
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberry-h.jpg",
+  "hatchlingImg": "./pics/hypostrawberry-h.jpg",
+  "adultImg": ""
+}

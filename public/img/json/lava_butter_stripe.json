@@ -1,0 +1,13 @@
+{
+  "name": "Lava Butter Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavabutterstripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/lavabutterstripe-a.jpg"
+}

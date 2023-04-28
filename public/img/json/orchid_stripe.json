@@ -1,0 +1,12 @@
+{
+  "name": "Orchid Stripe",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/orchidstripe-h.jpg",
+  "hatchlingImg": "./pics/orchidstripe-h.jpg",
+  "adultImg": ""
+}

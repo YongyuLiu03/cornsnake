@@ -1,0 +1,10 @@
+{
+  "name": "Ultra",
+  "type": 1,
+  "traits": [
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultra-a.jpg",
+  "hatchlingImg": "./pics/ultra-h.jpg",
+  "adultImg": "./pics/ultra-a.jpg"
+}

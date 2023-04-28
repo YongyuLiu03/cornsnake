@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Orchid",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/ghostorchid-h.jpg",
+  "hatchlingImg": "./pics/ghostorchid-h.jpg",
+  "adultImg": ""
+}

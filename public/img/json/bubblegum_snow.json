@@ -1,0 +1,11 @@
+{
+  "name": "Bubblegum Snow",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic"
+  ],
+  "thumbnail": "./thumbnails/bubblegumsnow-a.jpg",
+  "hatchlingImg": "./pics/bubblegumsnow-h.jpg",
+  "adultImg": "./pics/bubblegumsnow-a.jpg"
+}

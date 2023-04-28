@@ -1,0 +1,11 @@
+{
+  "name": "Hazel",
+  "type": 2,
+  "traits": [
+    "Sunkissed",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/hazel-h.jpg",
+  "hatchlingImg": "./pics/hazel-h.jpg",
+  "adultImg": ""
+}

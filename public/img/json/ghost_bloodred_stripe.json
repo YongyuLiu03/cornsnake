@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Bloodred Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/ghostbloodredstripe-a.jpg",
+  "hatchlingImg": "./pics/ghostbloodredstripe-h.jpg",
+  "adultImg": "./pics/ghostbloodredstripe-a.jpg"
+}

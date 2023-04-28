@@ -1,0 +1,10 @@
+{
+  "name": "Lavender",
+  "type": 1,
+  "traits": [
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavender-a.jpg",
+  "hatchlingImg": "./pics/lavender-h.jpg",
+  "adultImg": "./pics/lavender-a.jpg"
+}

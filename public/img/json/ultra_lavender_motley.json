@@ -1,0 +1,12 @@
+{
+  "name": "Ultra Lavender Motley",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "Motley",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultralavendermotley-h.jpg",
+  "hatchlingImg": "./pics/ultralavendermotley-h.jpg",
+  "adultImg": ""
+}

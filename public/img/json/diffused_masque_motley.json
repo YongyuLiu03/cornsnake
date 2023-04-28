@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Masque Motley",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Masque",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diffusedmasquemotley-h.jpg",
+  "hatchlingImg": "./pics/diffusedmasquemotley-h.jpg",
+  "adultImg": ""
+}

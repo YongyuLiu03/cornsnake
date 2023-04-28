@@ -1,0 +1,10 @@
+{
+  "name": "Tiger",
+  "type": 8,
+  "traits": [
+    "Buf"
+  ],
+  "thumbnail": "./thumbnails/tiger-h.jpg",
+  "hatchlingImg": "./pics/tiger-h.jpg",
+  "adultImg": ""
+}

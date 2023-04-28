@@ -1,0 +1,12 @@
+{
+  "name": "Lavamel Cinder",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavamelcinder-h.jpg",
+  "hatchlingImg": "./pics/lavamelcinder-h.jpg",
+  "adultImg": ""
+}

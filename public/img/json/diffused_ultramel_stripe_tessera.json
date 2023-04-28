@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Ultramel Stripe Tessera",
+  "type": 5,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramelstripetessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedultramelstripetessera-h.jpg",
+  "adultImg": ""
+}

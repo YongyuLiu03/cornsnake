@@ -1,0 +1,10 @@
+{
+  "name": "Terrazzo",
+  "type": 1,
+  "traits": [
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/terrazzo-a.jpg",
+  "hatchlingImg": "./pics/terrazzo-h.jpg",
+  "adultImg": "./pics/terrazzo-a.jpg"
+}

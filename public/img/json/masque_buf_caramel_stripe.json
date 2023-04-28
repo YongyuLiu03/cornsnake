@@ -1,0 +1,13 @@
+{
+  "name": "Masque Buf Caramel Stripe",
+  "type": 4,
+  "traits": [
+    "Buf",
+    "Caramel",
+    "Masque",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/masquebufcaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/masquebufcaramelstripe-h.jpg",
+  "adultImg": ""
+}

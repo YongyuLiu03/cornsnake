@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Cinder",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedcinder-a.jpg",
+  "hatchlingImg": "./pics/sunkissedcinder-h.jpg",
+  "adultImg": "./pics/sunkissedcinder-a.jpg"
+}

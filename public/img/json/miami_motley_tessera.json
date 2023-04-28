@@ -1,0 +1,11 @@
+{
+  "name": "Miami Motley Tessera",
+  "type": 8,
+  "traits": [
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/miamimotleytessera-h.jpg",
+  "hatchlingImg": "./pics/miamimotleytessera-h.jpg",
+  "adultImg": ""
+}

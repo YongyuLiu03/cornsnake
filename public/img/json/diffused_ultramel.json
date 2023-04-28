@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Ultramel",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramel-a.jpg",
+  "hatchlingImg": "./pics/diffusedultramel-h.jpg",
+  "adultImg": "./pics/diffusedultramel-a.jpg"
+}

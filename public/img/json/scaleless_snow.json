@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesssnow-a.jpg",
+  "hatchlingImg": "./pics/scalelesssnow-h.jpg",
+  "adultImg": "./pics/scalelesssnow-a.jpg"
+}

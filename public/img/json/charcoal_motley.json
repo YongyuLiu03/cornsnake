@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Motley",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/charcoalmotley-a.jpg",
+  "hatchlingImg": "./pics/charcoalmotley-h.jpg",
+  "adultImg": "./pics/charcoalmotley-a.jpg"
+}

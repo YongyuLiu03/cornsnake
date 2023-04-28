@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Pied Sided Bloodred Stripe",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypopiedsidedbloodredstripe-h.jpg",
+  "hatchlingImg": "./pics/hypopiedsidedbloodredstripe-h.jpg",
+  "adultImg": ""
+}

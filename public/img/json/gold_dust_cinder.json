@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Cinder",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddustcinder-h.jpg",
+  "hatchlingImg": "./pics/golddustcinder-h.jpg",
+  "adultImg": ""
+}

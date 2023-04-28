@@ -1,0 +1,13 @@
+{
+  "name": "Dilute Ghost Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diluteghoststripe-h.jpg",
+  "hatchlingImg": "./pics/diluteghoststripe-h.jpg",
+  "adultImg": ""
+}

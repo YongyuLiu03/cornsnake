@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Cinder Tessera",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/sunkissedcindertessera-h.jpg",
+  "hatchlingImg": "./pics/sunkissedcindertessera-h.jpg",
+  "adultImg": ""
+}

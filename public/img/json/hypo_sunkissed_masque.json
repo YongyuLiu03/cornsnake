@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Sunkissed Masque",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Masque",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissedmasque-h.jpg",
+  "hatchlingImg": "./pics/hyposunkissedmasque-h.jpg",
+  "adultImg": ""
+}

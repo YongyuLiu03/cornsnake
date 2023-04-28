@@ -1,0 +1,10 @@
+{
+  "name": "Palmetto",
+  "type": 7,
+  "traits": [
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/palmetto-a.jpg",
+  "hatchlingImg": "./pics/palmetto-h.jpg",
+  "adultImg": "./pics/palmetto-a.jpg"
+}

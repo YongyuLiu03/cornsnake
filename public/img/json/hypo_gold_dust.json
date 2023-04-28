@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Gold Dust",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/hypogolddust-a.jpg",
+  "hatchlingImg": "./pics/hypogolddust-h.jpg",
+  "adultImg": "./pics/hypogolddust-a.jpg"
+}

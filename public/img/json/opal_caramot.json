@@ -1,0 +1,13 @@
+{
+  "name": "Opal Caramot",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/opalcaramot-h.jpg",
+  "hatchlingImg": "./pics/opalcaramot-h.jpg",
+  "adultImg": ""
+}

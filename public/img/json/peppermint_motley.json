@@ -1,0 +1,12 @@
+{
+  "name": "Peppermint Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/peppermintmotley-a.jpg",
+  "hatchlingImg": "./pics/peppermintmotley-h.jpg",
+  "adultImg": "./pics/peppermintmotley-a.jpg"
+}

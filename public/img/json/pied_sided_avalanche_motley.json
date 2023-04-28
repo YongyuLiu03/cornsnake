@@ -1,0 +1,14 @@
+{
+  "name": "Pied Sided Avalanche Motley",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Motley",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedavalanchemotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/piedsidedavalanchemotley-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Sunkissed Tessera",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissedtessera-h.jpg",
+  "hatchlingImg": "./pics/hyposunkissedtessera-h.jpg",
+  "adultImg": ""
+}

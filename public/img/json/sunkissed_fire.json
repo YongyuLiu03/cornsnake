@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Fire",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedfire-h.jpg",
+  "hatchlingImg": "./pics/sunkissedfire-h.jpg",
+  "adultImg": ""
+}

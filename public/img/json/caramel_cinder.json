@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Cinder",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Cinder"
+  ],
+  "thumbnail": "./thumbnails/caramelcinder-h.jpg",
+  "hatchlingImg": "./pics/caramelcinder-h.jpg",
+  "adultImg": ""
+}

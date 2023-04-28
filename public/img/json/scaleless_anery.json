@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Anery",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessanery-a.jpg",
+  "hatchlingImg": "./pics/scalelessanery-h.jpg",
+  "adultImg": "./pics/scalelessanery-a.jpg"
+}

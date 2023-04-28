@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Palmetto",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/hypopalmetto-a.jpg",
+  "hatchlingImg": "./pics/hypopalmetto-h.jpg",
+  "adultImg": "./pics/hypopalmetto-a.jpg"
+}

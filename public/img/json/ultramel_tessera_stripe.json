@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Tessera Stripe",
+  "type": 4,
+  "traits": [
+    "Stripe",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultrameltesserastripe-h.jpg",
+  "hatchlingImg": "./pics/ultrameltesserastripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Avalanche",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypoavalanche-a.jpg",
+  "hatchlingImg": "./pics/hypoavalanche-h.jpg",
+  "adultImg": "./pics/hypoavalanche-a.jpg"
+}

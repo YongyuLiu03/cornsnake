@@ -1,0 +1,13 @@
+{
+  "name": "Sundust",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Sunkissed",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/sundust-h.jpg",
+  "hatchlingImg": "./pics/sundust-h.jpg",
+  "adultImg": ""
+}

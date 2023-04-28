@@ -1,0 +1,14 @@
+{
+  "name": "Sulfur Stripe Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/sulfurstripetessera-h.jpg",
+  "hatchlingImg": "./pics/sulfurstripetessera-h.jpg",
+  "adultImg": ""
+}

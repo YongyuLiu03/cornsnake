@@ -1,0 +1,13 @@
+{
+  "name": "Lemon Stripe",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/lemonstripe-h.jpg",
+  "hatchlingImg": "./pics/lemonstripe-h.jpg",
+  "adultImg": ""
+}

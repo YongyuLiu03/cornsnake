@@ -1,0 +1,10 @@
+{
+  "name": "Crimson",
+  "type": 8,
+  "traits": [
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/crimson-a.jpg",
+  "hatchlingImg": "./pics/crimson-h.jpg",
+  "adultImg": "./pics/crimson-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Tessera Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Motley",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddusttesseramotley-a.jpg",
+  "hatchlingImg": "./pics/golddusttesseramotley-h.jpg",
+  "adultImg": "./pics/golddusttesseramotley-a.jpg"
+}

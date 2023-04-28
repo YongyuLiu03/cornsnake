@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Terrazzo",
+  "type": 2,
+  "traits": [
+    "Scaleless",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/scalelessterrazzo-h.jpg",
+  "hatchlingImg": "./pics/scalelessterrazzo-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diffused Masque",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/diffusedmasque-h.jpg",
+  "hatchlingImg": "./pics/diffusedmasque-h.jpg",
+  "adultImg": ""
+}

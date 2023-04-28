@@ -1,0 +1,12 @@
+{
+  "name": "Kastanie Terrazzo Motley",
+  "type": 3,
+  "traits": [
+    "Kastanie",
+    "Motley",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/kastanieterrazzomotley-h.jpg",
+  "hatchlingImg": "./pics/kastanieterrazzomotley-h.jpg",
+  "adultImg": ""
+}

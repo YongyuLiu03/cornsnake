@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Ghost Bloodred",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedghostbloodred-a.jpg",
+  "hatchlingImg": "./pics/piedsidedghostbloodred-h.jpg",
+  "adultImg": "./pics/piedsidedghostbloodred-a.jpg"
+}

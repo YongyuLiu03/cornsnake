@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Caramel Tessera",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelesscarameltessera-h.jpg",
+  "hatchlingImg": "./pics/scalelesscarameltessera-h.jpg",
+  "adultImg": ""
+}

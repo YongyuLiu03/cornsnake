@@ -1,0 +1,14 @@
+{
+  "name": "Ultramel Pewter Motley",
+  "type": 5,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Motley",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelpewtermotley-h.jpg",
+  "hatchlingImg": "./pics/ultramelpewtermotley-h.jpg",
+  "adultImg": ""
+}

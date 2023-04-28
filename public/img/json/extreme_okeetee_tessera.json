@@ -1,0 +1,10 @@
+{
+  "name": "Extreme Okeetee Tessera",
+  "type": 8,
+  "traits": [
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/extremeokeeteetessera-a.jpg",
+  "hatchlingImg": "./pics/extremeokeeteetessera-h.jpg",
+  "adultImg": "./pics/extremeokeeteetessera-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Mandarin Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Kastanie",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/caramelmandarinmotley-a.jpg",
+  "hatchlingImg": "./pics/caramelmandarinmotley-h.jpg",
+  "adultImg": "./pics/caramelmandarinmotley-a.jpg"
+}

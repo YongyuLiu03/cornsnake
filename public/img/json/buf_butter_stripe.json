@@ -1,0 +1,13 @@
+{
+  "name": "Buf Butter Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Caramel",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/bufbutterstripe-h.jpg",
+  "hatchlingImg": "./pics/bufbutterstripe-h.jpg",
+  "adultImg": ""
+}

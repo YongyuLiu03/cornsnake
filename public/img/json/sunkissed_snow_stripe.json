@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Snow Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedsnowstripe-h.jpg",
+  "hatchlingImg": "./pics/sunkissedsnowstripe-h.jpg",
+  "adultImg": ""
+}

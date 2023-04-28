@@ -1,0 +1,14 @@
+{
+  "name": "Sulfur Ghost",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/sulfurghost-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/sulfurghost-a.jpg"
+}

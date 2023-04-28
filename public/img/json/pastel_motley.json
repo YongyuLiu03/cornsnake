@@ -1,0 +1,12 @@
+{
+  "name": "Pastel Motley",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/pastelmotley-a.jpg",
+  "hatchlingImg": "./pics/pastelmotley-h.jpg",
+  "adultImg": "./pics/pastelmotley-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dilute Cinder",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Dilute"
+  ],
+  "thumbnail": "./thumbnails/dilutecinder-a.jpg",
+  "hatchlingImg": "./pics/dilutecinder-h.jpg",
+  "adultImg": "./pics/dilutecinder-a.jpg"
+}

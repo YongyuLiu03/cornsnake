@@ -1,0 +1,11 @@
+{
+  "name": "Pied Sided Bloodred",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedbloodred-a.jpg",
+  "hatchlingImg": "./pics/piedsidedbloodred-h.jpg",
+  "adultImg": "./pics/piedsidedbloodred-a.jpg"
+}

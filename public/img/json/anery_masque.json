@@ -1,0 +1,11 @@
+{
+  "name": "Anery Masque",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/anerymasque-h.jpg",
+  "hatchlingImg": "./pics/anerymasque-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Diffused Masque",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedmasque-a.jpg",
+  "hatchlingImg": "./pics/hypodiffusedmasque-h.jpg",
+  "adultImg": "./pics/hypodiffusedmasque-a.jpg"
+}

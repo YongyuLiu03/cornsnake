@@ -1,0 +1,10 @@
+{
+  "name": "Tessera Abbotts Okeetee",
+  "type": 8,
+  "traits": [
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/tesseraabbottsokeetee-h.jpg",
+  "hatchlingImg": "./pics/tesseraabbottsokeetee-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Diffused Ultramel",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Pied Sided",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/piedsideddiffusedultramel-h.jpg",
+  "hatchlingImg": "./pics/piedsideddiffusedultramel-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dilute Snow Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Dilute",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/dilutesnowmotley-a.jpg",
+  "hatchlingImg": "./pics/dilutesnowmotley-h.jpg",
+  "adultImg": "./pics/dilutesnowmotley-a.jpg"
+}

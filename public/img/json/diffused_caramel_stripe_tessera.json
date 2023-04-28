@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Caramel Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedcaramelstripetessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedcaramelstripetessera-h.jpg",
+  "adultImg": ""
+}

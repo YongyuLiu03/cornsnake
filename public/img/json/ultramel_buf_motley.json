@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Buf Motley",
+  "type": 4,
+  "traits": [
+    "Buf",
+    "Motley",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelbufmotley-h.jpg",
+  "hatchlingImg": "./pics/ultramelbufmotley-h.jpg",
+  "adultImg": ""
+}

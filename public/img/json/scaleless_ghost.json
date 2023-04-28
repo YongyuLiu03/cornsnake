@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Ghost",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessghost-a.jpg",
+  "hatchlingImg": "./pics/scalelessghost-h.jpg",
+  "adultImg": "./pics/scalelessghost-a.jpg"
+}

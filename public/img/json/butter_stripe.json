@@ -1,0 +1,12 @@
+{
+  "name": "Butter Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/butterstripe-a.jpg",
+  "hatchlingImg": "./pics/butterstripe-h.jpg",
+  "adultImg": "./pics/butterstripe-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Coral Ghost",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/coralghost-a.jpg",
+  "hatchlingImg": "./pics/coralghost-h.jpg",
+  "adultImg": "./pics/coralghost-a.jpg"
+}

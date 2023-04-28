@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Butter",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessbutter-a.jpg",
+  "hatchlingImg": "./pics/scalelessbutter-h.jpg",
+  "adultImg": "./pics/scalelessbutter-a.jpg"
+}

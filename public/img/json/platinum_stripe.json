@@ -1,0 +1,13 @@
+{
+  "name": "Platinum Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/platinumstripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/platinumstripe-a.jpg"
+}

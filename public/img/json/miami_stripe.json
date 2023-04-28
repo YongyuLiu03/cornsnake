@@ -1,0 +1,10 @@
+{
+  "name": "Miami Stripe",
+  "type": 8,
+  "traits": [
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/miamistripe-h.jpg",
+  "hatchlingImg": "./pics/miamistripe-h.jpg",
+  "adultImg": ""
+}

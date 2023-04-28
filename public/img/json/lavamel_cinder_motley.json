@@ -1,0 +1,13 @@
+{
+  "name": "Lavamel Cinder Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Lava",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/lavamelcindermotley-h.jpg",
+  "hatchlingImg": "./pics/lavamelcindermotley-h.jpg",
+  "adultImg": ""
+}

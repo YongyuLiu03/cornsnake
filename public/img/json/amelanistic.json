@@ -1,0 +1,10 @@
+{
+  "name": "Amelanistic",
+  "type": 1,
+  "traits": [
+    "Amelanistic"
+  ],
+  "thumbnail": "./thumbnails/amelanistic-a.jpg",
+  "hatchlingImg": "./pics/amelanistic-h.jpg",
+  "adultImg": "./pics/amelanistic-a.jpg"
+}

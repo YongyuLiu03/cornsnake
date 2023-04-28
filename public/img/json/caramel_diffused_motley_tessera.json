@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Diffused Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/carameldiffusedmotleytessera-h.jpg",
+  "hatchlingImg": "./pics/carameldiffusedmotleytessera-h.jpg",
+  "adultImg": ""
+}

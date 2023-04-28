@@ -1,0 +1,13 @@
+{
+  "name": "Lavamel Cinder Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavamelcinderstripe-h.jpg",
+  "hatchlingImg": "./pics/lavamelcinderstripe-h.jpg",
+  "adultImg": ""
+}

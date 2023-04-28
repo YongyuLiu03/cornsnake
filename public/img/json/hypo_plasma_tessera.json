@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Plasma Tessera",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypoplasmatessera-h.jpg",
+  "hatchlingImg": "./pics/hypoplasmatessera-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Lava",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedlava-a.jpg",
+  "hatchlingImg": "./pics/sunkissedlava-h.jpg",
+  "adultImg": "./pics/sunkissedlava-a.jpg"
+}

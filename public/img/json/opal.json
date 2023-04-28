@@ -1,0 +1,11 @@
+{
+  "name": "Opal",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/opal-a.jpg",
+  "hatchlingImg": "./pics/opal-h.jpg",
+  "adultImg": "./pics/opal-a.jpg"
+}

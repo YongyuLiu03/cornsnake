@@ -1,0 +1,12 @@
+{
+  "name": "Amber Palmetto",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/amberpalmetto-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/amberpalmetto-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ultramel Anery",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramelanery-h.jpg",
+  "hatchlingImg": "./pics/diffusedultramelanery-h.jpg",
+  "adultImg": ""
+}

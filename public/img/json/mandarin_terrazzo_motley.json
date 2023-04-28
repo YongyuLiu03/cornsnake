@@ -1,0 +1,13 @@
+{
+  "name": "Mandarin Terrazzo Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Motley",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/mandarinterrazzomotley-a.jpg",
+  "hatchlingImg": "./pics/mandarinterrazzomotley-h.jpg",
+  "adultImg": "./pics/mandarinterrazzomotley-a.jpg"
+}

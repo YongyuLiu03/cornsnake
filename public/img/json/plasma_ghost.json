@@ -1,0 +1,13 @@
+{
+  "name": "Plasma Ghost",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/plasmaghost-h.jpg",
+  "hatchlingImg": "./pics/plasmaghost-h.jpg",
+  "adultImg": ""
+}

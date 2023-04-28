@@ -1,0 +1,10 @@
+{
+  "name": "Alabama Tessera",
+  "type": 8,
+  "traits": [
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/alabamatessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/alabamatessera-a.jpg"
+}

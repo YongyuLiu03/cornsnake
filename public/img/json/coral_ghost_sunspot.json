@@ -1,0 +1,12 @@
+{
+  "name": "Coral Ghost Sunspot",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Strawberry",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/coralghostsunspot-h.jpg",
+  "hatchlingImg": "./pics/coralghostsunspot-h.jpg",
+  "adultImg": ""
+}

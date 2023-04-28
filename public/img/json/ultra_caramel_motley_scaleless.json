@@ -1,0 +1,13 @@
+{
+  "name": "Ultra Caramel Motley Scaleless",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Motley",
+    "Scaleless",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultracaramelmotleyscaleless-h.jpg",
+  "hatchlingImg": "./pics/ultracaramelmotleyscaleless-h.jpg",
+  "adultImg": ""
+}

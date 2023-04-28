@@ -1,0 +1,15 @@
+{
+  "name": "Ultramel Ghost Stripe Tessera",
+  "type": 6,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelghoststripetessera-h.jpg",
+  "hatchlingImg": "./pics/ultramelghoststripetessera-h.jpg",
+  "adultImg": ""
+}

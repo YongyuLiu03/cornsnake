@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Cinder Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Cinder",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/ghostcinderstripe-a.jpg",
+  "hatchlingImg": "./pics/ghostcinderstripe-h.jpg",
+  "adultImg": "./pics/ghostcinderstripe-a.jpg"
+}

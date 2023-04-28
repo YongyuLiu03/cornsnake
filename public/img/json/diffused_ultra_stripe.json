@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Ultra Stripe",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultrastripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedultrastripe-h.jpg",
+  "adultImg": ""
+}

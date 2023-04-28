@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Ghost Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/caramelghostmotley-h.jpg",
+  "hatchlingImg": "./pics/caramelghostmotley-h.jpg",
+  "adultImg": ""
+}

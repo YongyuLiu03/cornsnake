@@ -1,0 +1,12 @@
+{
+  "name": "Amel Motley Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/amelmotleytessera-a.jpg",
+  "hatchlingImg": "./pics/amelmotleytessera-h.jpg",
+  "adultImg": "./pics/amelmotleytessera-a.jpg"
+}

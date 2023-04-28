@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Sunkissed",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissed-a.jpg",
+  "hatchlingImg": "./pics/hyposunkissed-h.jpg",
+  "adultImg": "./pics/hyposunkissed-a.jpg"
+}

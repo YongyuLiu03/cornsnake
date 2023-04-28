@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Diffused Stripe",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkisseddiffusedstripe-h.jpg",
+  "hatchlingImg": "./pics/sunkisseddiffusedstripe-h.jpg",
+  "adultImg": ""
+}

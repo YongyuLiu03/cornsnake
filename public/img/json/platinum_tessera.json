@@ -1,0 +1,13 @@
+{
+  "name": "Platinum Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/platinumtessera-h.jpg",
+  "hatchlingImg": "./pics/platinumtessera-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Amber Tessera",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ambertessera-a.jpg",
+  "hatchlingImg": "./pics/ambertessera-h.jpg",
+  "adultImg": "./pics/ambertessera-a.jpg"
+}

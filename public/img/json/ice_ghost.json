@@ -1,0 +1,11 @@
+{
+  "name": "Ice Ghost",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/iceghost-a.jpg",
+  "hatchlingImg": "./pics/iceghost-h.jpg",
+  "adultImg": "./pics/iceghost-a.jpg"
+}

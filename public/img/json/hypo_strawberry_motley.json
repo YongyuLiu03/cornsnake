@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Strawberry Motley",
+  "type": 3,
+  "traits": [
+    "Motley",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberrymotley-h.jpg",
+  "hatchlingImg": "./pics/hypostrawberrymotley-h.jpg",
+  "adultImg": ""
+}

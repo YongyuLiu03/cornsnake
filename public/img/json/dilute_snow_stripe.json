@@ -1,0 +1,13 @@
+{
+  "name": "Dilute Snow Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Dilute",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/dilutesnowstripe-h.jpg",
+  "hatchlingImg": "./pics/dilutesnowstripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Buttermint",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Cinder"
+  ],
+  "thumbnail": "./thumbnails/buttermint-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/buttermint-a.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Amel Caramel Diffused Lavender Stripe",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/amelcarameldiffusedlavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/amelcarameldiffusedlavenderstripe-h.jpg",
+  "adultImg": ""
+}

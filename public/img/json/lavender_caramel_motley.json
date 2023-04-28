@@ -1,0 +1,12 @@
+{
+  "name": "Lavender Caramel Motley",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/lavendercaramelmotley-h.jpg",
+  "hatchlingImg": "./pics/lavendercaramelmotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Amber Lavender",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/amberlavender-a.jpg",
+  "hatchlingImg": "./pics/amberlavender-h.jpg",
+  "adultImg": "./pics/amberlavender-a.jpg"
+}

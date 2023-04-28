@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Kastanie Terrazzo Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Kastanie",
+    "Motley",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/caramelkastanieterrazzomotley-a.jpg",
+  "hatchlingImg": "./pics/caramelkastanieterrazzomotley-h.jpg",
+  "adultImg": "./pics/caramelkastanieterrazzomotley-a.jpg"
+}

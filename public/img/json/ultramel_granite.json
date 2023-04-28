@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Granite",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelgranite-a.jpg",
+  "hatchlingImg": "./pics/ultramelgranite-h.jpg",
+  "adultImg": "./pics/ultramelgranite-a.jpg"
+}

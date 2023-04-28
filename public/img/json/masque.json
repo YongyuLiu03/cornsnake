@@ -1,0 +1,10 @@
+{
+  "name": "Masque",
+  "type": 7,
+  "traits": [
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/masque-h.jpg",
+  "hatchlingImg": "./pics/masque-h.jpg",
+  "adultImg": ""
+}

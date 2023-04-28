@@ -1,0 +1,12 @@
+{
+  "name": "Pied Sided Pewter",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedpewter-a.jpg",
+  "hatchlingImg": "./pics/piedsidedpewter-h.jpg",
+  "adultImg": "./pics/piedsidedpewter-a.jpg"
+}

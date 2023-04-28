@@ -1,0 +1,11 @@
+{
+  "name": "Amel Cinder",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Cinder"
+  ],
+  "thumbnail": "./thumbnails/amelcinder-a.jpg",
+  "hatchlingImg": "./pics/amelcinder-h.jpg",
+  "adultImg": "./pics/amelcinder-a.jpg"
+}

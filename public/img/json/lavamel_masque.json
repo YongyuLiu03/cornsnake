@@ -1,0 +1,12 @@
+{
+  "name": "Lavamel Masque",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lava",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/lavamelmasque-h.jpg",
+  "hatchlingImg": "./pics/lavamelmasque-h.jpg",
+  "adultImg": ""
+}

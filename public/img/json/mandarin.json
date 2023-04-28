@@ -1,0 +1,11 @@
+{
+  "name": "Mandarin",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/mandarin-a.jpg",
+  "hatchlingImg": "./pics/mandarin-h.jpg",
+  "adultImg": "./pics/mandarin-a.jpg"
+}

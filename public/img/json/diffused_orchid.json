@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Orchid",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/diffusedorchid-a.jpg",
+  "hatchlingImg": "./pics/diffusedorchid-h.jpg",
+  "adultImg": "./pics/diffusedorchid-a.jpg"
+}

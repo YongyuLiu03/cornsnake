@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Orchid Stripe",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/caramelorchidstripe-h.jpg",
+  "hatchlingImg": "./pics/caramelorchidstripe-h.jpg",
+  "adultImg": ""
+}

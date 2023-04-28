@@ -1,0 +1,13 @@
+{
+  "name": "Auratum Caramel Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Stripe",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/auratumcaramelstripe-a.jpg",
+  "hatchlingImg": "./pics/auratumcaramelstripe-h.jpg",
+  "adultImg": "./pics/auratumcaramelstripe-a.jpg"
+}

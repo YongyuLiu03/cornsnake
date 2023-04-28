@@ -1,0 +1,11 @@
+{
+  "name": "Amel Terrazzo",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/amelterrazzo-h.jpg",
+  "hatchlingImg": "./pics/amelterrazzo-h.jpg",
+  "adultImg": ""
+}

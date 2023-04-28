@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Pewter",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/caramelpewter-h.jpg",
+  "hatchlingImg": "./pics/caramelpewter-h.jpg",
+  "adultImg": ""
+}

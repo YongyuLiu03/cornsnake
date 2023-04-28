@@ -1,0 +1,10 @@
+{
+  "name": "Hypomelanistic",
+  "type": 1,
+  "traits": [
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypomelanistic-a.jpg",
+  "hatchlingImg": "./pics/hypomelanistic-h.jpg",
+  "adultImg": "./pics/hypomelanistic-a.jpg"
+}

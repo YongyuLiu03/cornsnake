@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Pied Sided Bloodred",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Pied Sided",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedpiedsidedbloodred-h.jpg",
+  "hatchlingImg": "./pics/sunkissedpiedsidedbloodred-h.jpg",
+  "adultImg": ""
+}

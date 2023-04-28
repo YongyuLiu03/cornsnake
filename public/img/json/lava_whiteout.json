@@ -1,0 +1,13 @@
+{
+  "name": "Lava Whiteout",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavawhiteout-h.jpg",
+  "hatchlingImg": "./pics/lavawhiteout-h.jpg",
+  "adultImg": ""
+}

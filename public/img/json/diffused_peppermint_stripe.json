@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Peppermint Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedpeppermintstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedpeppermintstripe-h.jpg",
+  "adultImg": ""
+}

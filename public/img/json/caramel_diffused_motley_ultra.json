@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Diffused Motley Ultra",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Motley",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/carameldiffusedmotleyultra-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/carameldiffusedmotleyultra-a.jpg"
+}

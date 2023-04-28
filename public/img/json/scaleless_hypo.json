@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Hypo",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesshypo-a.jpg",
+  "hatchlingImg": "./pics/scalelesshypo-h.jpg",
+  "adultImg": "./pics/scalelesshypo-a.jpg"
+}

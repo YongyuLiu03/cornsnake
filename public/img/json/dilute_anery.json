@@ -1,0 +1,11 @@
+{
+  "name": "Dilute Anery",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Dilute"
+  ],
+  "thumbnail": "./thumbnails/diluteanery-a.jpg",
+  "hatchlingImg": "./pics/diluteanery-h.jpg",
+  "adultImg": "./pics/diluteanery-a.jpg"
+}

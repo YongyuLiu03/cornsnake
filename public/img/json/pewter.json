@@ -1,0 +1,11 @@
+{
+  "name": "Pewter",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/pewter-a.jpg",
+  "hatchlingImg": "./pics/pewter-h.jpg",
+  "adultImg": "./pics/pewter-a.jpg"
+}

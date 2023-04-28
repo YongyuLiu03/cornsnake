@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Motley",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/cindermotley-a.jpg",
+  "hatchlingImg": "./pics/cindermotley-h.jpg",
+  "adultImg": "./pics/cindermotley-a.jpg"
+}

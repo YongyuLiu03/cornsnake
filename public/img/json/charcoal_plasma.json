@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal Plasma",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/charcoalplasma-a.jpg",
+  "hatchlingImg": "./pics/charcoalplasma-h.jpg",
+  "adultImg": "./pics/charcoalplasma-a.jpg"
+}

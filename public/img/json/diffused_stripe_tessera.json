@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Stripe Tessera",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedstripetessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedstripetessera-h.jpg",
+  "adultImg": ""
+}

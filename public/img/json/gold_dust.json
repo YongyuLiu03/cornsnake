@@ -1,0 +1,12 @@
+{
+  "name": "Gold Dust",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddust-a.jpg",
+  "hatchlingImg": "./pics/golddust-h.jpg",
+  "adultImg": "./pics/golddust-a.jpg"
+}

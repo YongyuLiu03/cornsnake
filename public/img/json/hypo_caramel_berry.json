@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Caramel Berry",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypocaramelberry-h.jpg",
+  "hatchlingImg": "./pics/hypocaramelberry-h.jpg",
+  "adultImg": ""
+}

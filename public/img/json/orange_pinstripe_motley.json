@@ -1,0 +1,12 @@
+{
+  "name": "Orange Pinstripe Motley",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/orangepinstripemotley-h.jpg",
+  "hatchlingImg": "./pics/orangepinstripemotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Toffee Granite",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeegranite-h.jpg",
+  "hatchlingImg": "./pics/toffeegranite-h.jpg",
+  "adultImg": ""
+}

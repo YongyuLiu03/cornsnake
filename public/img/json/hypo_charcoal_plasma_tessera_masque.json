@@ -1,0 +1,15 @@
+{
+  "name": "Hypo Charcoal Plasma Tessera Masque",
+  "type": 6,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Masque",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypocharcoalplasmatesseramasque-h.jpg",
+  "hatchlingImg": "./pics/hypocharcoalplasmatesseramasque-h.jpg",
+  "adultImg": ""
+}

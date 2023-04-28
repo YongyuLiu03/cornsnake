@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Sulfur",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hyposulfur-a.jpg",
+  "hatchlingImg": "./pics/hyposulfur-h.jpg",
+  "adultImg": "./pics/hyposulfur-a.jpg"
+}

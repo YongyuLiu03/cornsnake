@@ -1,0 +1,10 @@
+{
+  "name": "Caramel Upper Keys",
+  "type": 8,
+  "traits": [
+    "Caramel"
+  ],
+  "thumbnail": "./thumbnails/caramelupperkeys-a.jpg",
+  "hatchlingImg": "./pics/caramelupperkeys-h.jpg",
+  "adultImg": "./pics/caramelupperkeys-a.jpg"
+}

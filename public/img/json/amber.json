@@ -1,0 +1,11 @@
+{
+  "name": "Amber",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/amber-a.jpg",
+  "hatchlingImg": "./pics/amber-h.jpg",
+  "adultImg": "./pics/amber-a.jpg"
+}

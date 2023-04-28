@@ -1,0 +1,10 @@
+{
+  "name": "Miami Motley",
+  "type": 8,
+  "traits": [
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/miamimotley-a.jpg",
+  "hatchlingImg": "./pics/miamimotley-h.jpg",
+  "adultImg": "./pics/miamimotley-a.jpg"
+}

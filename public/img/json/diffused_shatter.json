@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Shatter",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/diffusedshatter-h.jpg",
+  "hatchlingImg": "./pics/diffusedshatter-h.jpg",
+  "adultImg": ""
+}

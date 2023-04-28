@@ -1,0 +1,13 @@
+{
+  "name": "Ice Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Lava",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/icestripetessera-h.jpg",
+  "hatchlingImg": "./pics/icestripetessera-h.jpg",
+  "adultImg": ""
+}

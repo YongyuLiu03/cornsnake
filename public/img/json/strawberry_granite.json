@@ -1,0 +1,12 @@
+{
+  "name": "Strawberry Granite",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberrygranite-h.jpg",
+  "hatchlingImg": "./pics/strawberrygranite-h.jpg",
+  "adultImg": ""
+}

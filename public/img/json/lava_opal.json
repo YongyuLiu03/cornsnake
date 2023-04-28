@@ -1,0 +1,12 @@
+{
+  "name": "Lava Opal",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lava",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavaopal-h.jpg",
+  "hatchlingImg": "./pics/lavaopal-h.jpg",
+  "adultImg": ""
+}

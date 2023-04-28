@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Saffron",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposaffron-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/hyposaffron-a.jpg"
+}

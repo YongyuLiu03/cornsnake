@@ -139,5 +139,3 @@ log in - pop up window for registering
 5. [bootstrap](https://getbootstrap.com/)
 
 
-
-

@@ -1,0 +1,12 @@
+{
+  "name": "Anery Pewter",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/anerypewter-a.jpg",
+  "hatchlingImg": "./pics/anerypewter-h.jpg",
+  "adultImg": "./pics/anerypewter-a.jpg"
+}

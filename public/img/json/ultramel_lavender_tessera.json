@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Lavender Tessera",
+  "type": 4,
+  "traits": [
+    "Lavender",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramellavendertessera-h.jpg",
+  "hatchlingImg": "./pics/ultramellavendertessera-h.jpg",
+  "adultImg": ""
+}

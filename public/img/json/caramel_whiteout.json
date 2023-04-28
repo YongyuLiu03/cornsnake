@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Whiteout",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/caramelwhiteout-h.jpg",
+  "hatchlingImg": "./pics/caramelwhiteout-h.jpg",
+  "adultImg": ""
+}

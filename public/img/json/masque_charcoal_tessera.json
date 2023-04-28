@@ -1,0 +1,12 @@
+{
+  "name": "Masque Charcoal Tessera",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Masque",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/masquecharcoaltessera-h.jpg",
+  "hatchlingImg": "./pics/masquecharcoaltessera-h.jpg",
+  "adultImg": ""
+}

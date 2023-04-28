@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Pewter Tessera",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypopewtertessera-h.jpg",
+  "hatchlingImg": "./pics/hypopewtertessera-h.jpg",
+  "adultImg": ""
+}

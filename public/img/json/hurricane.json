@@ -1,0 +1,10 @@
+{
+  "name": "Hurricane",
+  "type": 8,
+  "traits": [
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hurricane-a.jpg",
+  "hatchlingImg": "./pics/hurricane-h.jpg",
+  "adultImg": "./pics/hurricane-a.jpg"
+}

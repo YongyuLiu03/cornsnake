@@ -1,0 +1,11 @@
+{
+  "name": "Strawberry Charcoal",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberrycharcoal-h.jpg",
+  "hatchlingImg": "./pics/strawberrycharcoal-h.jpg",
+  "adultImg": ""
+}

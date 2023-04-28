@@ -1,0 +1,13 @@
+{
+  "name": "Anery Caramel Ultramel",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/anerycaramelultramel-a.jpg",
+  "hatchlingImg": "./pics/anerycaramelultramel-h.jpg",
+  "adultImg": "./pics/anerycaramelultramel-a.jpg"
+}

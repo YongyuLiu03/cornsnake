@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Diamond",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Lava",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkisseddiamond-h.jpg",
+  "hatchlingImg": "./pics/sunkisseddiamond-h.jpg",
+  "adultImg": ""
+}

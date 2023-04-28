@@ -1,0 +1,12 @@
+{
+  "name": "Granite Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/granitemotley-h.jpg",
+  "hatchlingImg": "./pics/granitemotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Buf Granite Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Buf",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/bufgranitemotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/bufgranitemotley-a.jpg"
+}

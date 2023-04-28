@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Charcoal Lavender",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hypocharcoallavender-e.jpg",
+  "hatchlingImg": "",
+  "adultImg": ""
+}

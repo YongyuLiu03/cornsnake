@@ -1,0 +1,12 @@
+{
+  "name": "Coral Ghost Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Strawberry",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/coralghosttessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/coralghosttessera-a.jpg"
+}

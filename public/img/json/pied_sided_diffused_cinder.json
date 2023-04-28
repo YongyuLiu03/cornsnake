@@ -1,0 +1,12 @@
+{
+  "name": "Pied Sided Diffused Cinder",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsideddiffusedcinder-h.jpg",
+  "hatchlingImg": "./pics/piedsideddiffusedcinder-h.jpg",
+  "adultImg": ""
+}

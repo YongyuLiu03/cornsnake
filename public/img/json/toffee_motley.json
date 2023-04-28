@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Motley",
+  "type": 2,
+  "traits": [
+    "Motley",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeemotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/toffeemotley-a.jpg"
+}

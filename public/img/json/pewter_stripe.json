@@ -1,0 +1,12 @@
+{
+  "name": "Pewter Stripe",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/pewterstripe-h.jpg",
+  "hatchlingImg": "./pics/pewterstripe-h.jpg",
+  "adultImg": ""
+}

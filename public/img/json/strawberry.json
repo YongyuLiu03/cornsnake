@@ -1,0 +1,10 @@
+{
+  "name": "Strawberry",
+  "type": 1,
+  "traits": [
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberry-a.jpg",
+  "hatchlingImg": "./pics/strawberry-h.jpg",
+  "adultImg": "./pics/strawberry-a.jpg"
+}

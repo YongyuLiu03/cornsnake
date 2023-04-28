@@ -1,0 +1,12 @@
+{
+  "name": "Pastel Bloodred",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/pastelbloodred-a.jpg",
+  "hatchlingImg": "./pics/pastelbloodred-h.jpg",
+  "adultImg": "./pics/pastelbloodred-a.jpg"
+}

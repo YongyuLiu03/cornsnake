@@ -1,0 +1,12 @@
+{
+  "name": "Dilute Caramel Motley",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Dilute",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/dilutecaramelmotley-h.jpg",
+  "hatchlingImg": "./pics/dilutecaramelmotley-h.jpg",
+  "adultImg": ""
+}

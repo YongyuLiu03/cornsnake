@@ -1,0 +1,10 @@
+{
+  "name": "Miami Tessera",
+  "type": 8,
+  "traits": [
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/miamitessera-h.jpg",
+  "hatchlingImg": "./pics/miamitessera-h.jpg",
+  "adultImg": ""
+}

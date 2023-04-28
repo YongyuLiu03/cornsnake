@@ -1,0 +1,13 @@
+{
+  "name": "Amel Caramel Diffused Lavender",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/amelcarameldiffusedlavender-h.jpg",
+  "hatchlingImg": "./pics/amelcarameldiffusedlavender-h.jpg",
+  "adultImg": ""
+}

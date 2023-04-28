@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Masque Lemon",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Masque",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/diffusedmasquelemon-a.jpg",
+  "hatchlingImg": "./pics/diffusedmasquelemon-h.jpg",
+  "adultImg": "./pics/diffusedmasquelemon-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Snopal",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hyposnopal-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/hyposnopal-a.jpg"
+}

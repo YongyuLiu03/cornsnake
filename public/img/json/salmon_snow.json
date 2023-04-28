@@ -1,0 +1,12 @@
+{
+  "name": "Salmon Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/salmonsnow-a.jpg",
+  "hatchlingImg": "./pics/salmonsnow-h.jpg",
+  "adultImg": "./pics/salmonsnow-a.jpg"
+}

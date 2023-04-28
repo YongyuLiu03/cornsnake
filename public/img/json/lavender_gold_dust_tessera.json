@@ -1,0 +1,14 @@
+{
+  "name": "Lavender Gold Dust Tessera",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/lavendergolddusttessera-a.jpg",
+  "hatchlingImg": "./pics/lavendergolddusttessera-h.jpg",
+  "adultImg": "./pics/lavendergolddusttessera-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Motley",
+  "type": 2,
+  "traits": [
+    "Motley",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessmotley-a.jpg",
+  "hatchlingImg": "./pics/scalelessmotley-h.jpg",
+  "adultImg": "./pics/scalelessmotley-a.jpg"
+}

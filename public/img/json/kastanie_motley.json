@@ -1,0 +1,11 @@
+{
+  "name": "Kastanie Motley",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/kastaniemotley-a.jpg",
+  "hatchlingImg": "./pics/kastaniemotley-h.jpg",
+  "adultImg": "./pics/kastaniemotley-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Mandarin",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedmandarin-h.jpg",
+  "hatchlingImg": "./pics/sunkissedmandarin-h.jpg",
+  "adultImg": ""
+}

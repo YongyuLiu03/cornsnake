@@ -1,0 +1,12 @@
+{
+  "name": "Bloodred Lava Tessera",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Lava",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/bloodredlavatessera-h.jpg",
+  "hatchlingImg": "./pics/bloodredlavatessera-h.jpg",
+  "adultImg": ""
+}

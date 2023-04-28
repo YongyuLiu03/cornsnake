@@ -1,0 +1,11 @@
+{
+  "name": "Diffused Motley",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diffusedmotley-a.jpg",
+  "hatchlingImg": "./pics/diffusedmotley-h.jpg",
+  "adultImg": "./pics/diffusedmotley-a.jpg"
+}

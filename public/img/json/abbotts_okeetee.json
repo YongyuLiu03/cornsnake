@@ -1,0 +1,10 @@
+{
+  "name": "Abbotts Okeetee",
+  "type": 8,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/abbottsokeetee-a.jpg",
+  "hatchlingImg": "./pics/abbottsokeetee-h.jpg",
+  "adultImg": "./pics/abbottsokeetee-a.jpg"
+}

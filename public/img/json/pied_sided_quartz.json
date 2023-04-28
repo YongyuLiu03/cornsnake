@@ -1,0 +1,14 @@
+{
+  "name": "Pied Sided Quartz",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedquartz-h.jpg",
+  "hatchlingImg": "./pics/piedsidedquartz-h.jpg",
+  "adultImg": ""
+}

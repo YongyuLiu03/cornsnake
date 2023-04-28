@@ -1,0 +1,11 @@
+{
+  "name": "Rosy Bloodred",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/rosybloodred-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/rosybloodred-a.jpg"
+}

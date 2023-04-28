@@ -1,0 +1,12 @@
+{
+  "name": "Anery Caramel Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/anerycaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/anerycaramelstripe-h.jpg",
+  "adultImg": ""
+}

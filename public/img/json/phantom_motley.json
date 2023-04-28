@@ -1,0 +1,12 @@
+{
+  "name": "Phantom Motley",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/phantommotley-h.jpg",
+  "hatchlingImg": "./pics/phantommotley-h.jpg",
+  "adultImg": ""
+}

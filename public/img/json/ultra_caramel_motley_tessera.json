@@ -1,0 +1,13 @@
+{
+  "name": "Ultra Caramel Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Motley",
+    "Tessera",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultracaramelmotleytessera-h.jpg",
+  "hatchlingImg": "./pics/ultracaramelmotleytessera-h.jpg",
+  "adultImg": ""
+}

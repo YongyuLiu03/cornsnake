@@ -1,0 +1,13 @@
+{
+  "name": "Whiteout Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/whiteoutstripe-h.jpg",
+  "hatchlingImg": "./pics/whiteoutstripe-h.jpg",
+  "adultImg": ""
+}

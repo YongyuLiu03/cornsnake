@@ -1,0 +1,13 @@
+{
+  "name": "Shatter Tessera Stripe",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Stripe",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/shattertesserastripe-h.jpg",
+  "hatchlingImg": "./pics/shattertesserastripe-h.jpg",
+  "adultImg": ""
+}

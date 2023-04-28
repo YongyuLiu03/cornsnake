@@ -1,0 +1,13 @@
+{
+  "name": "Whiteout Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/whiteoutmotley-h.jpg",
+  "hatchlingImg": "./pics/whiteoutmotley-h.jpg",
+  "adultImg": ""
+}

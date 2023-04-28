@@ -1,0 +1,12 @@
+{
+  "name": "Anery Tessera Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/anerytesseramotley-a.jpg",
+  "hatchlingImg": "./pics/anerytesseramotley-h.jpg",
+  "adultImg": "./pics/anerytesseramotley-a.jpg"
+}

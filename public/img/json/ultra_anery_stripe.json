@@ -1,0 +1,12 @@
+{
+  "name": "Ultra Anery Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Stripe",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultraanerystripe-a.jpg",
+  "hatchlingImg": "./pics/ultraanerystripe-h.jpg",
+  "adultImg": "./pics/ultraanerystripe-a.jpg"
+}

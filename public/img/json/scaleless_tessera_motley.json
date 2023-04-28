@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Tessera Motley",
+  "type": 3,
+  "traits": [
+    "Motley",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelesstesseramotley-h.jpg",
+  "hatchlingImg": "./pics/scalelesstesseramotley-h.jpg",
+  "adultImg": ""
+}

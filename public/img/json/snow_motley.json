@@ -1,0 +1,12 @@
+{
+  "name": "Snow Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/snowmotley-a.jpg",
+  "hatchlingImg": "./pics/snowmotley-h.jpg",
+  "adultImg": "./pics/snowmotley-a.jpg"
+}

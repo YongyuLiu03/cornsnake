@@ -1,0 +1,11 @@
+{
+  "name": "Masque Cinder",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/masquecinder-h.jpg",
+  "hatchlingImg": "./pics/masquecinder-h.jpg",
+  "adultImg": ""
+}

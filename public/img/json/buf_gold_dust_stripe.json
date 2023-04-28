@@ -1,0 +1,14 @@
+{
+  "name": "Buf Gold Dust Stripe",
+  "type": 5,
+  "traits": [
+    "Buf",
+    "Caramel",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/bufgoldduststripe-h.jpg",
+  "hatchlingImg": "./pics/bufgoldduststripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Orchid",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hypoorchid-a.jpg",
+  "hatchlingImg": "./pics/hypoorchid-h.jpg",
+  "adultImg": "./pics/hypoorchid-a.jpg"
+}

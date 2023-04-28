@@ -1,0 +1,11 @@
+{
+  "name": "Anery Palmetto",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/anerypalmetto-a.jpg",
+  "hatchlingImg": "./pics/anerypalmetto-h.jpg",
+  "adultImg": "./pics/anerypalmetto-a.jpg"
+}

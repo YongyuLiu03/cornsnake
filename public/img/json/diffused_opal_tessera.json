@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Opal Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedopaltessera-a.jpg",
+  "hatchlingImg": "./pics/diffusedopaltessera-h.jpg",
+  "adultImg": "./pics/diffusedopaltessera-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Caramel",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesscaramel-a.jpg",
+  "hatchlingImg": "./pics/scalelesscaramel-h.jpg",
+  "adultImg": "./pics/scalelesscaramel-a.jpg"
+}

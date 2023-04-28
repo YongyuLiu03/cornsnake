@@ -1,0 +1,12 @@
+{
+  "name": "Bloodred Stripe Tessera",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/bloodredstripetessera-h.jpg",
+  "hatchlingImg": "./pics/bloodredstripetessera-h.jpg",
+  "adultImg": ""
+}

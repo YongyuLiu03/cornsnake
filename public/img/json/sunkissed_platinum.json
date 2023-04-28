@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Platinum",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedplatinum-h.jpg",
+  "hatchlingImg": "./pics/sunkissedplatinum-h.jpg",
+  "adultImg": ""
+}

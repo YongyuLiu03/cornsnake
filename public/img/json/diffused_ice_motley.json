@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ice Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Lava",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diffusedicemotley-h.jpg",
+  "hatchlingImg": "./pics/diffusedicemotley-h.jpg",
+  "adultImg": ""
+}

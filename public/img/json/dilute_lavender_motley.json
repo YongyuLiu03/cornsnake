@@ -1,0 +1,12 @@
+{
+  "name": "Dilute Lavender Motley",
+  "type": 3,
+  "traits": [
+    "Dilute",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/dilutelavendermotley-a.jpg",
+  "hatchlingImg": "./pics/dilutelavendermotley-h.jpg",
+  "adultImg": "./pics/dilutelavendermotley-a.jpg"
+}

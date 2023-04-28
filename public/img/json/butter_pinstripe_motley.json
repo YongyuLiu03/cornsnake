@@ -1,0 +1,12 @@
+{
+  "name": "Butter Pinstripe Motley",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/butterpinstripemotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/butterpinstripemotley-a.jpg"
+}

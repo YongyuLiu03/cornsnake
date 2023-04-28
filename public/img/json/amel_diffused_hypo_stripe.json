@@ -1,0 +1,13 @@
+{
+  "name": "Amel Diffused Hypo Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/ameldiffusedhypostripe-h.jpg",
+  "hatchlingImg": "./pics/ameldiffusedhypostripe-h.jpg",
+  "adultImg": ""
+}

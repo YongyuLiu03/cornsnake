@@ -1,0 +1,12 @@
+{
+  "name": "Lava Shatter",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Lava",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/lavashatter-h.jpg",
+  "hatchlingImg": "./pics/lavashatter-h.jpg",
+  "adultImg": ""
+}

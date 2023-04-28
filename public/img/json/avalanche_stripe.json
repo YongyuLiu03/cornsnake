@@ -1,0 +1,13 @@
+{
+  "name": "Avalanche Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/avalanchestripe-h.jpg",
+  "hatchlingImg": "./pics/avalanchestripe-h.jpg",
+  "adultImg": ""
+}

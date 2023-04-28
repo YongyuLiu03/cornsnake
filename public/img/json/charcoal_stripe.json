@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Stripe",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/charcoalstripe-a.jpg",
+  "hatchlingImg": "./pics/charcoalstripe-h.jpg",
+  "adultImg": "./pics/charcoalstripe-a.jpg"
+}

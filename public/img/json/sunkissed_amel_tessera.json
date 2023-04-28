@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Amel Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/sunkissedameltessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/sunkissedameltessera-a.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Christmas",
+  "type": 1,
+  "traits": [
+    "Christmas"
+  ],
+  "thumbnail": "./thumbnails/christmas-h.jpg",
+  "hatchlingImg": "./pics/christmas-h.jpg",
+  "adultImg": ""
+}

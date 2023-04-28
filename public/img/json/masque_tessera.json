@@ -1,0 +1,11 @@
+{
+  "name": "Masque Tessera",
+  "type": 2,
+  "traits": [
+    "Masque",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/masquetessera-h.jpg",
+  "hatchlingImg": "./pics/masquetessera-h.jpg",
+  "adultImg": ""
+}

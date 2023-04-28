@@ -1,0 +1,13 @@
+{
+  "name": "Butter Motley Masque",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Masque",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/buttermotleymasque-a.jpg",
+  "hatchlingImg": "./pics/buttermotleymasque-h.jpg",
+  "adultImg": "./pics/buttermotleymasque-a.jpg"
+}

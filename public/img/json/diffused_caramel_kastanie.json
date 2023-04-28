@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Caramel Kastanie",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/diffusedcaramelkastanie-h.jpg",
+  "hatchlingImg": "./pics/diffusedcaramelkastanie-h.jpg",
+  "adultImg": ""
+}

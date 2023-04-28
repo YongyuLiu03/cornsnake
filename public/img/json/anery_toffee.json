@@ -1,0 +1,11 @@
+{
+  "name": "Anery Toffee",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/anerytoffee-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/anerytoffee-a.jpg"
+}

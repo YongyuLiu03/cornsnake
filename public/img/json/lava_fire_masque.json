@@ -1,0 +1,13 @@
+{
+  "name": "Lava Fire Masque",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lava",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/lavafiremasque-h.jpg",
+  "hatchlingImg": "./pics/lavafiremasque-h.jpg",
+  "adultImg": ""
+}

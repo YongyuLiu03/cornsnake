@@ -1,0 +1,12 @@
+{
+  "name": "Lava Moonstone",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lava",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavamoonstone-h.jpg",
+  "hatchlingImg": "./pics/lavamoonstone-h.jpg",
+  "adultImg": ""
+}

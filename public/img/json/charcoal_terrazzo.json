@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Terrazzo",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/charcoalterrazzo-a.jpg",
+  "hatchlingImg": "./pics/charcoalterrazzo-h.jpg",
+  "adultImg": "./pics/charcoalterrazzo-a.jpg"
+}

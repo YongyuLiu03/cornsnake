@@ -1,0 +1,13 @@
+{
+  "name": "Fire Motley Masque",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Masque",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/firemotleymasque-h.jpg",
+  "hatchlingImg": "./pics/firemotleymasque-h.jpg",
+  "adultImg": ""
+}

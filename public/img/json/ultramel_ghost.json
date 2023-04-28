@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Ghost",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelghost-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/ultramelghost-a.jpg"
+}

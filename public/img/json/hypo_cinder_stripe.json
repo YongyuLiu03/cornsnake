@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Stripe",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypocinderstripe-h.jpg",
+  "hatchlingImg": "./pics/hypocinderstripe-h.jpg",
+  "adultImg": ""
+}

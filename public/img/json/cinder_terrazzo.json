@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Terrazzo",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/cinderterrazzo-h.jpg",
+  "hatchlingImg": "./pics/cinderterrazzo-h.jpg",
+  "adultImg": ""
+}

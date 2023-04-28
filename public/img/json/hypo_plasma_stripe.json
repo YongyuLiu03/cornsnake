@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Plasma Stripe",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypoplasmastripe-h.jpg",
+  "hatchlingImg": "./pics/hypoplasmastripe-h.jpg",
+  "adultImg": ""
+}

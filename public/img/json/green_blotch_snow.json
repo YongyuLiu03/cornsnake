@@ -1,0 +1,12 @@
+{
+  "name": "Green Blotch Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Green Blotch"
+  ],
+  "thumbnail": "./thumbnails/greenblotchsnow-a.jpg",
+  "hatchlingImg": "./pics/greenblotchsnow-h.jpg",
+  "adultImg": "./pics/greenblotchsnow-a.jpg"
+}

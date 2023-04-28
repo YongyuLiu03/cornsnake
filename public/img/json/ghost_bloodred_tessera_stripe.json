@@ -1,0 +1,14 @@
+{
+  "name": "Ghost Bloodred Tessera Stripe",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ghostbloodredtesserastripe-h.jpg",
+  "hatchlingImg": "./pics/ghostbloodredtesserastripe-h.jpg",
+  "adultImg": ""
+}

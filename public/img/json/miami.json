@@ -1,0 +1,10 @@
+{
+  "name": "Miami",
+  "type": 0,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/miami-a.jpg",
+  "hatchlingImg": "./pics/miami-h.jpg",
+  "adultImg": "./pics/miami-a.jpg"
+}

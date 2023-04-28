@@ -1,0 +1,13 @@
+{
+  "name": "Toffee Snow Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeesnowmotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/toffeesnowmotley-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Buf Caramel Stripe",
+  "type": 3,
+  "traits": [
+    "Buf",
+    "Caramel",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/bufcaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/bufcaramelstripe-h.jpg",
+  "adultImg": ""
+}

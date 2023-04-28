@@ -1,0 +1,12 @@
+{
+  "name": "Mandarin Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/mandarintessera-h.jpg",
+  "hatchlingImg": "./pics/mandarintessera-h.jpg",
+  "adultImg": ""
+}

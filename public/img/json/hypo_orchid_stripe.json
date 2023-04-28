@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Orchid Stripe",
+  "type": 4,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hypoorchidstripe-h.jpg",
+  "hatchlingImg": "./pics/hypoorchidstripe-h.jpg",
+  "adultImg": ""
+}

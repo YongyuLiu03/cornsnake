@@ -1,0 +1,12 @@
+{
+  "name": "Anery Lavender Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/anerylavendermotley-a.jpg",
+  "hatchlingImg": "./pics/anerylavendermotley-h.jpg",
+  "adultImg": "./pics/anerylavendermotley-a.jpg"
+}

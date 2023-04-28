@@ -1,0 +1,10 @@
+{
+  "name": "Keys",
+  "type": 0,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/keys-a.jpg",
+  "hatchlingImg": "./pics/keys-h.jpg",
+  "adultImg": "./pics/keys-a.jpg"
+}

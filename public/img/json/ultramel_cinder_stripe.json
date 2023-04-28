@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Cinder Stripe",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelcinderstripe-h.jpg",
+  "hatchlingImg": "./pics/ultramelcinderstripe-h.jpg",
+  "adultImg": ""
+}

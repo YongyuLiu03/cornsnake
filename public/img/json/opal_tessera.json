@@ -1,0 +1,12 @@
+{
+  "name": "Opal Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/opaltessera-h.jpg",
+  "hatchlingImg": "./pics/opaltessera-h.jpg",
+  "adultImg": ""
+}

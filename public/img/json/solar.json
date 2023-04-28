@@ -1,0 +1,11 @@
+{
+  "name": "Solar",
+  "type": 2,
+  "traits": [
+    "Sunkissed",
+    "Sunrise"
+  ],
+  "thumbnail": "./thumbnails/solar-h.jpg",
+  "hatchlingImg": "./pics/solar-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Opal Cube",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedopalcube-h.jpg",
+  "hatchlingImg": "./pics/diffusedopalcube-h.jpg",
+  "adultImg": ""
+}

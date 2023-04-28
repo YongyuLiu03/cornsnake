@@ -1,0 +1,12 @@
+{
+  "name": "Peppermint Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/peppermintstripe-a.jpg",
+  "hatchlingImg": "./pics/peppermintstripe-h.jpg",
+  "adultImg": "./pics/peppermintstripe-a.jpg"
+}

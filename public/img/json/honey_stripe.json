@@ -1,0 +1,12 @@
+{
+  "name": "Honey Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/honeystripe-a.jpg",
+  "hatchlingImg": "./pics/honeystripe-h.jpg",
+  "adultImg": "./pics/honeystripe-a.jpg"
+}

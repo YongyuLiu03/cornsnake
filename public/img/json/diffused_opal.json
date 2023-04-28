@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Opal",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/diffusedopal-a.jpg",
+  "hatchlingImg": "./pics/diffusedopal-h.jpg",
+  "adultImg": "./pics/diffusedopal-a.jpg"
+}

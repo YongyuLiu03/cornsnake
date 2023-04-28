@@ -1,0 +1,14 @@
+{
+  "name": "Pied Sided Hypo Diffused Tessera Stripe",
+  "type": 5,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/piedsidedhypodiffusedtesserastripe-h.jpg",
+  "hatchlingImg": "./pics/piedsidedhypodiffusedtesserastripe-h.jpg",
+  "adultImg": ""
+}

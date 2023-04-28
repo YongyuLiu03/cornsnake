@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Peppermint Stripe Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedpeppermintstripetessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedpeppermintstripetessera-h.jpg",
+  "adultImg": ""
+}

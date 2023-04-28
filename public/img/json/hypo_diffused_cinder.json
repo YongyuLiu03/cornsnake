@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Diffused Cinder",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedcinder-h.jpg",
+  "hatchlingImg": "./pics/hypodiffusedcinder-h.jpg",
+  "adultImg": ""
+}

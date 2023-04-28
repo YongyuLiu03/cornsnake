@@ -1,0 +1,12 @@
+{
+  "name": "Topaz Cinder",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/topazcinder-h.jpg",
+  "hatchlingImg": "./pics/topazcinder-h.jpg",
+  "adultImg": ""
+}

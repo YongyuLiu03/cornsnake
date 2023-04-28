@@ -1,0 +1,10 @@
+{
+  "name": "Candycane",
+  "type": 8,
+  "traits": [
+    "Amelanistic"
+  ],
+  "thumbnail": "./thumbnails/candycane-a.jpg",
+  "hatchlingImg": "./pics/candycane-h.jpg",
+  "adultImg": "./pics/candycane-a.jpg"
+}

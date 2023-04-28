@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Tessera",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/cindertessera-a.jpg",
+  "hatchlingImg": "./pics/cindertessera-h.jpg",
+  "adultImg": "./pics/cindertessera-a.jpg"
+}

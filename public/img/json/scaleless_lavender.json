@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Lavender",
+  "type": 2,
+  "traits": [
+    "Lavender",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesslavender-a.jpg",
+  "hatchlingImg": "./pics/scalelesslavender-h.jpg",
+  "adultImg": "./pics/scalelesslavender-a.jpg"
+}

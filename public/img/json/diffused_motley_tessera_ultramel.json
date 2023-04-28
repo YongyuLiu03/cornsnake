@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Motley Tessera Ultramel",
+  "type": 5,
+  "traits": [
+    "Diffused",
+    "Motley",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedmotleytesseraultramel-h.jpg",
+  "hatchlingImg": "./pics/diffusedmotleytesseraultramel-h.jpg",
+  "adultImg": ""
+}

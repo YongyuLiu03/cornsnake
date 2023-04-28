@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Avalanche",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedavalanche-h.jpg",
+  "hatchlingImg": "./pics/piedsidedavalanche-h.jpg",
+  "adultImg": ""
+}

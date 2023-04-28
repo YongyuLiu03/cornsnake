@@ -1,0 +1,14 @@
+{
+  "name": "Snow Motley Toffee Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Tessera",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/snowmotleytoffeetessera-a.jpg",
+  "hatchlingImg": "./pics/snowmotleytoffeetessera-h.jpg",
+  "adultImg": "./pics/snowmotleytoffeetessera-a.jpg"
+}

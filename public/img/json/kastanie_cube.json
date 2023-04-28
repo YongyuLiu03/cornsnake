@@ -1,0 +1,11 @@
+{
+  "name": "Kastanie Cube",
+  "type": 8,
+  "traits": [
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/kastaniecube-h.jpg",
+  "hatchlingImg": "./pics/kastaniecube-h.jpg",
+  "adultImg": ""
+}

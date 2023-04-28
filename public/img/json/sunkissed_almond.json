@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Almond",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedalmond-h.jpg",
+  "hatchlingImg": "./pics/sunkissedalmond-h.jpg",
+  "adultImg": ""
+}

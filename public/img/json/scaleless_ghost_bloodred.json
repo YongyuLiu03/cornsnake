@@ -1,0 +1,13 @@
+{
+  "name": "Scaleless Ghost Bloodred",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessghostbloodred-h.jpg",
+  "hatchlingImg": "./pics/scalelessghostbloodred-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Amel Orchid",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/amelorchid-h.jpg",
+  "hatchlingImg": "./pics/amelorchid-h.jpg",
+  "adultImg": ""
+}

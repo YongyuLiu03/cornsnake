@@ -1,0 +1,12 @@
+{
+  "name": "Dark Yellow",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/darkyellow-a.jpg",
+  "hatchlingImg": "./pics/darkyellow-h.jpg",
+  "adultImg": "./pics/darkyellow-a.jpg"
+}

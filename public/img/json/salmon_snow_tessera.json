@@ -1,0 +1,13 @@
+{
+  "name": "Salmon Snow Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Strawberry",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/salmonsnowtessera-a.jpg",
+  "hatchlingImg": "./pics/salmonsnowtessera-h.jpg",
+  "adultImg": "./pics/salmonsnowtessera-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Opal Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/opalstripe-a.jpg",
+  "hatchlingImg": "./pics/opalstripe-h.jpg",
+  "adultImg": "./pics/opalstripe-a.jpg"
+}

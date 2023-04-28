@@ -1,0 +1,11 @@
+{
+  "name": "Anery Charcoal",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Charcoal"
+  ],
+  "thumbnail": "./thumbnails/anerycharcoal-h.jpg",
+  "hatchlingImg": "./pics/anerycharcoal-h.jpg",
+  "adultImg": ""
+}

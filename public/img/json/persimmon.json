@@ -1,0 +1,11 @@
+{
+  "name": "Persimmon",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/persimmon-h.jpg",
+  "hatchlingImg": "./pics/persimmon-h.jpg",
+  "adultImg": ""
+}

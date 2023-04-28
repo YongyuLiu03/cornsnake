@@ -1,0 +1,12 @@
+{
+  "name": "Fire Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/firestripe-a.jpg",
+  "hatchlingImg": "./pics/firestripe-h.jpg",
+  "adultImg": "./pics/firestripe-a.jpg"
+}

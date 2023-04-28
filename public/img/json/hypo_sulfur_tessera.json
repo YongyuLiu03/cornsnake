@@ -1,0 +1,14 @@
+{
+  "name": "Hypo Sulfur Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hyposulfurtessera-h.jpg",
+  "hatchlingImg": "./pics/hyposulfurtessera-h.jpg",
+  "adultImg": ""
+}

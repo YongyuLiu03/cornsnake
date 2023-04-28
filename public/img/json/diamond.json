@@ -1,0 +1,11 @@
+{
+  "name": "Diamond",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/diamond-h.jpg",
+  "hatchlingImg": "./pics/diamond-h.jpg",
+  "adultImg": ""
+}

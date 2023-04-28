@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal Lavender Stripe",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/charcoallavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/charcoallavenderstripe-h.jpg",
+  "adultImg": ""
+}

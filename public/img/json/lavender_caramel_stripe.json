@@ -1,0 +1,12 @@
+{
+  "name": "Lavender Caramel Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavendercaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/lavendercaramelstripe-h.jpg",
+  "adultImg": ""
+}

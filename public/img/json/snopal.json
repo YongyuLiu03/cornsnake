@@ -1,0 +1,12 @@
+{
+  "name": "Snopal",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/snopal-a.jpg",
+  "hatchlingImg": "./pics/snopal-h.jpg",
+  "adultImg": "./pics/snopal-a.jpg"
+}

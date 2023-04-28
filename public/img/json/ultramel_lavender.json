@@ -1,0 +1,12 @@
+{
+  "name": "Ultramel Lavender",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramellavender-a.jpg",
+  "hatchlingImg": "./pics/ultramellavender-h.jpg",
+  "adultImg": "./pics/ultramellavender-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Lava Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavasnow-a.jpg",
+  "hatchlingImg": "./pics/lavasnow-h.jpg",
+  "adultImg": "./pics/lavasnow-a.jpg"
+}

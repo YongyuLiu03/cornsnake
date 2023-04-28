@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Opal",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hypoopal-a.jpg",
+  "hatchlingImg": "./pics/hypoopal-h.jpg",
+  "adultImg": "./pics/hypoopal-a.jpg"
+}

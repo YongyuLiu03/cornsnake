@@ -1,0 +1,11 @@
+{
+  "name": "Sunglow Motley",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/sunglowmotley-a.jpg",
+  "hatchlingImg": "./pics/sunglowmotley-h.jpg",
+  "adultImg": "./pics/sunglowmotley-a.jpg"
+}

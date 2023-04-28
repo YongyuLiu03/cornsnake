@@ -1,0 +1,13 @@
+{
+  "name": "Butter Cinder Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Cinder",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/buttercindermotley-a.jpg",
+  "hatchlingImg": "./pics/buttercindermotley-h.jpg",
+  "adultImg": "./pics/buttercindermotley-a.jpg"
+}

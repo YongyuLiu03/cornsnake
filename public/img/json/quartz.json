@@ -1,0 +1,13 @@
+{
+  "name": "Quartz",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/quartz-h.jpg",
+  "hatchlingImg": "./pics/quartz-h.jpg",
+  "adultImg": ""
+}

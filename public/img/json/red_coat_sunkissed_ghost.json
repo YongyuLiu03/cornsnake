@@ -1,0 +1,13 @@
+{
+  "name": "Red Coat Sunkissed Ghost",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Red Coat",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/redcoatsunkissedghost-a.jpg",
+  "hatchlingImg": "./pics/redcoatsunkissedghost-h.jpg",
+  "adultImg": "./pics/redcoatsunkissedghost-a.jpg"
+}

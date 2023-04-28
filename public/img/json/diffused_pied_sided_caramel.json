@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Pied Sided Caramel",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/diffusedpiedsidedcaramel-h.jpg",
+  "hatchlingImg": "./pics/diffusedpiedsidedcaramel-h.jpg",
+  "adultImg": ""
+}

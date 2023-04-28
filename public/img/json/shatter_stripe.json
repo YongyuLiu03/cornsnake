@@ -1,0 +1,12 @@
+{
+  "name": "Shatter Stripe",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/shatterstripe-h.jpg",
+  "hatchlingImg": "./pics/shatterstripe-h.jpg",
+  "adultImg": ""
+}

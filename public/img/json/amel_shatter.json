@@ -1,0 +1,12 @@
+{
+  "name": "Amel Shatter",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/amelshatter-h.jpg",
+  "hatchlingImg": "./pics/amelshatter-h.jpg",
+  "adultImg": ""
+}

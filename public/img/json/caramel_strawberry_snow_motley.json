@@ -1,0 +1,14 @@
+{
+  "name": "Caramel Strawberry Snow Motley",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Motley",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/caramelstrawberrysnowmotley-h.jpg",
+  "hatchlingImg": "./pics/caramelstrawberrysnowmotley-h.jpg",
+  "adultImg": ""
+}

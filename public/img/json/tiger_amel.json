@@ -1,0 +1,11 @@
+{
+  "name": "Tiger Amel",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Buf"
+  ],
+  "thumbnail": "./thumbnails/tigeramel-h.jpg",
+  "hatchlingImg": "./pics/tigeramel-h.jpg",
+  "adultImg": ""
+}

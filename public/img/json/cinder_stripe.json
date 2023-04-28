@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Stripe",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/cinderstripe-h.jpg",
+  "hatchlingImg": "./pics/cinderstripe-h.jpg",
+  "adultImg": ""
+}

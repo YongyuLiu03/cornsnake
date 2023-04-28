@@ -1,0 +1,11 @@
+{
+  "name": "Silver Queen",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/silverqueen-a.jpg",
+  "hatchlingImg": "./pics/silverqueen-h.jpg",
+  "adultImg": "./pics/silverqueen-a.jpg"
+}

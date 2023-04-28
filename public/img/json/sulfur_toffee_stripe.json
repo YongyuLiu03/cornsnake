@@ -1,0 +1,14 @@
+{
+  "name": "Sulfur Toffee Stripe",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Stripe",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/sulfurtoffeestripe-h.jpg",
+  "hatchlingImg": "./pics/sulfurtoffeestripe-h.jpg",
+  "adultImg": ""
+}

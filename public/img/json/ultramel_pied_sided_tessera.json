@@ -1,0 +1,14 @@
+{
+  "name": "Ultramel Pied Sided Tessera",
+  "type": 5,
+  "traits": [
+    "Diffused",
+    "Pied Sided",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelpiedsidedtessera-h.jpg",
+  "hatchlingImg": "./pics/ultramelpiedsidedtessera-h.jpg",
+  "adultImg": ""
+}

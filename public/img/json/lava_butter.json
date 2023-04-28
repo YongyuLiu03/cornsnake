@@ -1,0 +1,12 @@
+{
+  "name": "Lava Butter",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavabutter-h.jpg",
+  "hatchlingImg": "./pics/lavabutter-h.jpg",
+  "adultImg": ""
+}

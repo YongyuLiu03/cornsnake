@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Terrazzo",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/caramelterrazzo-h.jpg",
+  "hatchlingImg": "./pics/caramelterrazzo-h.jpg",
+  "adultImg": ""
+}

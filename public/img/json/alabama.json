@@ -1,0 +1,10 @@
+{
+  "name": "Alabama",
+  "type": 0,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/alabama-a.jpg",
+  "hatchlingImg": "./pics/alabama-h.jpg",
+  "adultImg": "./pics/alabama-a.jpg"
+}

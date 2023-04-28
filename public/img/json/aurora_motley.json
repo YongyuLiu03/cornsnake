@@ -1,0 +1,13 @@
+{
+  "name": "Aurora Motley",
+  "type": 4,
+  "traits": [
+    "Motley",
+    "Sunrise",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/auroramotley-h.jpg",
+  "hatchlingImg": "./pics/auroramotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Cinder Lavender Stripe",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypocinderlavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/hypocinderlavenderstripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aurora Tessera",
+  "type": 4,
+  "traits": [
+    "Sunrise",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/auroratessera-h.jpg",
+  "hatchlingImg": "./pics/auroratessera-h.jpg",
+  "adultImg": ""
+}

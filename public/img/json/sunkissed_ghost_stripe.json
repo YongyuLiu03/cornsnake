@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Ghost Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedghoststripe-h.jpg",
+  "hatchlingImg": "./pics/sunkissedghoststripe-h.jpg",
+  "adultImg": ""
+}

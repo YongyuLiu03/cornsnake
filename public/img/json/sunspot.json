@@ -1,0 +1,10 @@
+{
+  "name": "Sunspot",
+  "type": 8,
+  "traits": [
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/sunspot-h.jpg",
+  "hatchlingImg": "./pics/sunspot-h.jpg",
+  "adultImg": ""
+}

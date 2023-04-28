@@ -1,0 +1,10 @@
+{
+  "name": "Original Granite",
+  "type": 8,
+  "traits": [
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/originalgranite-a.jpg",
+  "hatchlingImg": "./pics/originalgranite-h.jpg",
+  "adultImg": "./pics/originalgranite-a.jpg"
+}

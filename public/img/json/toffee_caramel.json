@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Caramel",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeecaramel-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/toffeecaramel-a.jpg"
+}

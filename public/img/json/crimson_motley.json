@@ -1,0 +1,11 @@
+{
+  "name": "Crimson Motley",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/crimsonmotley-a.jpg",
+  "hatchlingImg": "./pics/crimsonmotley-h.jpg",
+  "adultImg": "./pics/crimsonmotley-a.jpg"
+}

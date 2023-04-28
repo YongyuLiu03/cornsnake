@@ -1,0 +1,12 @@
+{
+  "name": "Pied Sided Granite",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedgranite-a.jpg",
+  "hatchlingImg": "./pics/piedsidedgranite-h.jpg",
+  "adultImg": "./pics/piedsidedgranite-a.jpg"
+}

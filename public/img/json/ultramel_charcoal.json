@@ -1,0 +1,12 @@
+{
+  "name": "Ultramel Charcoal",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelcharcoal-a.jpg",
+  "hatchlingImg": "./pics/ultramelcharcoal-h.jpg",
+  "adultImg": "./pics/ultramelcharcoal-a.jpg"
+}

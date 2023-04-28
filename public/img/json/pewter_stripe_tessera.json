@@ -1,0 +1,13 @@
+{
+  "name": "Pewter Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/pewterstripetessera-h.jpg",
+  "hatchlingImg": "./pics/pewterstripetessera-h.jpg",
+  "adultImg": ""
+}

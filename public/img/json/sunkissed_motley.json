@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Motley",
+  "type": 2,
+  "traits": [
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedmotley-a.jpg",
+  "hatchlingImg": "./pics/sunkissedmotley-h.jpg",
+  "adultImg": "./pics/sunkissedmotley-a.jpg"
+}

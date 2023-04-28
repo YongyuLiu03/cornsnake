@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Anery Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelessanerytessera-h.jpg",
+  "hatchlingImg": "./pics/scalelessanerytessera-h.jpg",
+  "adultImg": ""
+}

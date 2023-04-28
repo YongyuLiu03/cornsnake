@@ -1,0 +1,14 @@
+{
+  "name": "Ghost Plasma Tessera",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ghostplasmatessera-h.jpg",
+  "hatchlingImg": "./pics/ghostplasmatessera-h.jpg",
+  "adultImg": ""
+}

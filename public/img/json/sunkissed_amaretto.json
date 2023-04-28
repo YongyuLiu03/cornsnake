@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Amaretto",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedamaretto-h.jpg",
+  "hatchlingImg": "./pics/sunkissedamaretto-h.jpg",
+  "adultImg": ""
+}

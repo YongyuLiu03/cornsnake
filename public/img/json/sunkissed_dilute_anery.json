@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Dilute Anery",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkisseddiluteanery-a.jpg",
+  "hatchlingImg": "./pics/sunkisseddiluteanery-h.jpg",
+  "adultImg": "./pics/sunkisseddiluteanery-a.jpg"
+}

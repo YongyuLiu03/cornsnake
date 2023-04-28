@@ -1,0 +1,14 @@
+{
+  "name": "Buttermint Masque Vanishing Stripe",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Cinder",
+    "Masque",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/buttermintmasquevanishingstripe-h.jpg",
+  "hatchlingImg": "./pics/buttermintmasquevanishingstripe-h.jpg",
+  "adultImg": ""
+}

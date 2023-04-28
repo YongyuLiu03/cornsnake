@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Diffused",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessdiffused-h.jpg",
+  "hatchlingImg": "./pics/scalelessdiffused-h.jpg",
+  "adultImg": ""
+}

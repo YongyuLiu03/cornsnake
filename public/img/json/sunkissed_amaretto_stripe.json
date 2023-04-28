@@ -1,0 +1,14 @@
+{
+  "name": "Sunkissed Amaretto Stripe",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedamarettostripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/sunkissedamarettostripe-a.jpg"
+}

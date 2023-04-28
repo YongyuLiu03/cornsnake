@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Plasma",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hypoplasma-a.jpg",
+  "hatchlingImg": "./pics/hypoplasma-h.jpg",
+  "adultImg": "./pics/hypoplasma-a.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Normal",
+  "type": 0,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/normal-a.jpg",
+  "hatchlingImg": "./pics/normal-h.jpg",
+  "adultImg": "./pics/normal-a.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hypo Snopal Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hyposnopaltessera-h.jpg",
+  "hatchlingImg": "./pics/hyposnopaltessera-h.jpg",
+  "adultImg": ""
+}

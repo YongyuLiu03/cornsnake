@@ -1,0 +1,10 @@
+{
+  "name": "Hypo Okeetee",
+  "type": 8,
+  "traits": [
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypookeetee-a.jpg",
+  "hatchlingImg": "./pics/hypookeetee-h.jpg",
+  "adultImg": "./pics/hypookeetee-a.jpg"
+}

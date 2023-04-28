@@ -1,0 +1,13 @@
+{
+  "name": "Powder",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Charcoal",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/powder-a.jpg",
+  "hatchlingImg": "./pics/powder-h.jpg",
+  "adultImg": "./pics/powder-a.jpg"
+}

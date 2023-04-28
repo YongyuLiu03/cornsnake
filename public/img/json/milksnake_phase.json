@@ -1,0 +1,10 @@
+{
+  "name": "Milksnake Phase",
+  "type": 8,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/milksnakephase-a.jpg",
+  "hatchlingImg": "./pics/milksnakephase-h.jpg",
+  "adultImg": "./pics/milksnakephase-a.jpg"
+}

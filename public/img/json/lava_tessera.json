@@ -1,0 +1,11 @@
+{
+  "name": "Lava Tessera",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/lavatessera-a.jpg",
+  "hatchlingImg": "./pics/lavatessera-h.jpg",
+  "adultImg": "./pics/lavatessera-a.jpg"
+}

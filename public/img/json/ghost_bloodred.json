@@ -1,0 +1,12 @@
+{
+  "name": "Ghost Bloodred",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/ghostbloodred-a.jpg",
+  "hatchlingImg": "./pics/ghostbloodred-h.jpg",
+  "adultImg": "./pics/ghostbloodred-a.jpg"
+}

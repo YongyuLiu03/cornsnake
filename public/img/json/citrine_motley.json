@@ -1,0 +1,14 @@
+{
+  "name": "Citrine Motley",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/citrinemotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/citrinemotley-a.jpg"
+}

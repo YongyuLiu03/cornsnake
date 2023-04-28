@@ -1,0 +1,15 @@
+{
+  "name": "Patternless Apricot Scaleless",
+  "type": 6,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Scaleless",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/patternlessapricotscaleless-h.jpg",
+  "hatchlingImg": "./pics/patternlessapricotscaleless-h.jpg",
+  "adultImg": ""
+}

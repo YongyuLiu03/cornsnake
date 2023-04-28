@@ -1,0 +1,10 @@
+{
+  "name": "Sunkissed Okeetee",
+  "type": 8,
+  "traits": [
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedokeetee-h.jpg",
+  "hatchlingImg": "./pics/sunkissedokeetee-h.jpg",
+  "adultImg": ""
+}

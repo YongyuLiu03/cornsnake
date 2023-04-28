@@ -1,0 +1,11 @@
+{
+  "name": "Strawberry Amel",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberryamel-h.jpg",
+  "hatchlingImg": "./pics/strawberryamel-h.jpg",
+  "adultImg": ""
+}

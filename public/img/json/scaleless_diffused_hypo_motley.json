@@ -1,0 +1,13 @@
+{
+  "name": "Scaleless Diffused Hypo Motley",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Motley",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessdiffusedhypomotley-h.jpg",
+  "hatchlingImg": "./pics/scalelessdiffusedhypomotley-h.jpg",
+  "adultImg": ""
+}

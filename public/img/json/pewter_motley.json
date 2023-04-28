@@ -1,0 +1,12 @@
+{
+  "name": "Pewter Motley",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/pewtermotley-h.jpg",
+  "hatchlingImg": "./pics/pewtermotley-h.jpg",
+  "adultImg": ""
+}

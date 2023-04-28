@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Peppermint",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/diffusedpeppermint-a.jpg",
+  "hatchlingImg": "./pics/diffusedpeppermint-h.jpg",
+  "adultImg": "./pics/diffusedpeppermint-a.jpg"
+}

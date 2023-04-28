@@ -1,0 +1,13 @@
+{
+  "name": "Whiteout Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/whiteouttessera-a.jpg",
+  "hatchlingImg": "./pics/whiteouttessera-h.jpg",
+  "adultImg": "./pics/whiteouttessera-a.jpg"
+}

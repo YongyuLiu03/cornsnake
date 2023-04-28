@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Lavender Masque",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/hypolavendermasque-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/hypolavendermasque-a.jpg"
+}

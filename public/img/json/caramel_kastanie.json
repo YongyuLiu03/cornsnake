@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Kastanie",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/caramelkastanie-a.jpg",
+  "hatchlingImg": "./pics/caramelkastanie-h.jpg",
+  "adultImg": "./pics/caramelkastanie-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lava Stripe",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavastripe-h.jpg",
+  "hatchlingImg": "./pics/lavastripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tessera",
+  "type": 7,
+  "traits": [
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/tessera-a.jpg",
+  "hatchlingImg": "./pics/tessera-h.jpg",
+  "adultImg": "./pics/tessera-a.jpg"
+}

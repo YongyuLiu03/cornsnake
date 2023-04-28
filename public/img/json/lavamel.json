@@ -1,0 +1,11 @@
+{
+  "name": "Lavamel",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavamel-h.jpg",
+  "hatchlingImg": "./pics/lavamel-h.jpg",
+  "adultImg": ""
+}

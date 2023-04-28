@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Kastanie Stripe",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypokastaniestripe-h.jpg",
+  "hatchlingImg": "./pics/hypokastaniestripe-h.jpg",
+  "adultImg": ""
+}

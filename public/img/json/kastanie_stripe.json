@@ -1,0 +1,11 @@
+{
+  "name": "Kastanie Stripe",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/kastaniestripe-h.jpg",
+  "hatchlingImg": "./pics/kastaniestripe-h.jpg",
+  "adultImg": ""
+}

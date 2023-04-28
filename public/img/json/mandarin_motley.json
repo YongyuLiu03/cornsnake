@@ -1,0 +1,12 @@
+{
+  "name": "Mandarin Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/mandarinmotley-a.jpg",
+  "hatchlingImg": "./pics/mandarinmotley-h.jpg",
+  "adultImg": "./pics/mandarinmotley-a.jpg"
+}

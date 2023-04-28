@@ -1,0 +1,13 @@
+{
+  "name": "Snopal Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/snopalstripe-h.jpg",
+  "hatchlingImg": "./pics/snopalstripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Okeetee Lava",
+  "type": 8,
+  "traits": [
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/okeeteelava-a.jpg",
+  "hatchlingImg": "./pics/okeeteelava-h.jpg",
+  "adultImg": "./pics/okeeteelava-a.jpg"
+}

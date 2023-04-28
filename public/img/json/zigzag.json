@@ -1,0 +1,10 @@
+{
+  "name": "ZigZag",
+  "type": 8,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/zigzag-a.jpg",
+  "hatchlingImg": "./pics/zigzag-h.jpg",
+  "adultImg": "./pics/zigzag-a.jpg"
+}

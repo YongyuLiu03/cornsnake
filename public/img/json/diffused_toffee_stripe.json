@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Toffee Stripe",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/diffusedtoffeestripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedtoffeestripe-h.jpg",
+  "adultImg": ""
+}

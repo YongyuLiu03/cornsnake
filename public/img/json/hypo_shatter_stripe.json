@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Shatter Stripe",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposhatterstripe-h.jpg",
+  "hatchlingImg": "./pics/hyposhatterstripe-h.jpg",
+  "adultImg": ""
+}

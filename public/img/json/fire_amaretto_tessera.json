@@ -1,0 +1,15 @@
+{
+  "name": "Fire Amaretto Tessera",
+  "type": 6,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/fireamarettotessera-h.jpg",
+  "hatchlingImg": "./pics/fireamarettotessera-h.jpg",
+  "adultImg": ""
+}

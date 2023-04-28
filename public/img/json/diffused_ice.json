@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Ice",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/diffusedice-a.jpg",
+  "hatchlingImg": "./pics/diffusedice-h.jpg",
+  "adultImg": "./pics/diffusedice-a.jpg"
+}

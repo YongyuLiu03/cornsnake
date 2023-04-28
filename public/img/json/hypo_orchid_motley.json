@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Orchid Motley",
+  "type": 4,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hypoorchidmotley-h.jpg",
+  "hatchlingImg": "./pics/hypoorchidmotley-h.jpg",
+  "adultImg": ""
+}

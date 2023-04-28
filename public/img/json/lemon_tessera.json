@@ -1,0 +1,13 @@
+{
+  "name": "Lemon Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/lemontessera-h.jpg",
+  "hatchlingImg": "./pics/lemontessera-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ultramel Okeetee",
+  "type": 8,
+  "traits": [
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelokeetee-a.jpg",
+  "hatchlingImg": "./pics/ultramelokeetee-h.jpg",
+  "adultImg": "./pics/ultramelokeetee-a.jpg"
+}

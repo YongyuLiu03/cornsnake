@@ -1,0 +1,12 @@
+{
+  "name": "Platinum",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/platinum-a.jpg",
+  "hatchlingImg": "./pics/platinum-h.jpg",
+  "adultImg": "./pics/platinum-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Xanthic Snow Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/xanthicsnowstripe-h.jpg",
+  "hatchlingImg": "./pics/xanthicsnowstripe-h.jpg",
+  "adultImg": ""
+}

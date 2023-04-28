@@ -1,0 +1,11 @@
+{
+  "name": "Ghost",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/ghost-a.jpg",
+  "hatchlingImg": "./pics/ghost-h.jpg",
+  "adultImg": "./pics/ghost-a.jpg"
+}

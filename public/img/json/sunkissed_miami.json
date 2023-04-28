@@ -1,0 +1,10 @@
+{
+  "name": "Sunkissed Miami",
+  "type": 8,
+  "traits": [
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedmiami-h.jpg",
+  "hatchlingImg": "./pics/sunkissedmiami-h.jpg",
+  "adultImg": ""
+}

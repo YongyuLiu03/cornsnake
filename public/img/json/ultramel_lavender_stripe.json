@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Lavender Stripe",
+  "type": 4,
+  "traits": [
+    "Lavender",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramellavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/ultramellavenderstripe-h.jpg",
+  "adultImg": ""
+}

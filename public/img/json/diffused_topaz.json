@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Topaz",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/diffusedtopaz-a.jpg",
+  "hatchlingImg": "./pics/diffusedtopaz-h.jpg",
+  "adultImg": "./pics/diffusedtopaz-a.jpg"
+}

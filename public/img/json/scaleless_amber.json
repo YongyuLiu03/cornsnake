@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Amber",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelessamber-h.jpg",
+  "hatchlingImg": "./pics/scalelessamber-h.jpg",
+  "adultImg": ""
+}

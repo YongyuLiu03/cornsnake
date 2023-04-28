@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Tessera Motley",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypotesseramotley-h.jpg",
+  "hatchlingImg": "./pics/hypotesseramotley-h.jpg",
+  "adultImg": ""
+}

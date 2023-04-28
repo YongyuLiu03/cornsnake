@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Diffused Tessera",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedtessera-h.jpg",
+  "hatchlingImg": "./pics/hypodiffusedtessera-h.jpg",
+  "adultImg": ""
+}

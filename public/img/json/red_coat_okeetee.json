@@ -1,0 +1,10 @@
+{
+  "name": "Red Coat Okeetee",
+  "type": 8,
+  "traits": [
+    "Red Coat"
+  ],
+  "thumbnail": "./thumbnails/redcoatokeetee-h.jpg",
+  "hatchlingImg": "./pics/redcoatokeetee-h.jpg",
+  "adultImg": ""
+}

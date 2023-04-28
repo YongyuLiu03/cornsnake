@@ -1,0 +1,11 @@
+{
+  "name": "Lavender Terrazzo",
+  "type": 2,
+  "traits": [
+    "Lavender",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/lavenderterrazzo-h.jpg",
+  "hatchlingImg": "./pics/lavenderterrazzo-h.jpg",
+  "adultImg": ""
+}

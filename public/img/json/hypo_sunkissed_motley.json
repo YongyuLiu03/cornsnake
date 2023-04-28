@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Sunkissed Motley",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissedmotley-h.jpg",
+  "hatchlingImg": "./pics/hyposunkissedmotley-h.jpg",
+  "adultImg": ""
+}

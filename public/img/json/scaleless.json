@@ -1,0 +1,10 @@
+{
+  "name": "Scaleless",
+  "type": 1,
+  "traits": [
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scaleless-a.jpg",
+  "hatchlingImg": "./pics/scaleless-h.jpg",
+  "adultImg": "./pics/scaleless-a.jpg"
+}

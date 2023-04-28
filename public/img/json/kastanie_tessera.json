@@ -1,0 +1,11 @@
+{
+  "name": "Kastanie Tessera",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/kastanietessera-a.jpg",
+  "hatchlingImg": "./pics/kastanietessera-h.jpg",
+  "adultImg": "./pics/kastanietessera-a.jpg"
+}

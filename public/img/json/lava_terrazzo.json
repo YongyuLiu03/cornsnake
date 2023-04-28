@@ -1,0 +1,11 @@
+{
+  "name": "Lava Terrazzo",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/lavaterrazzo-a.jpg",
+  "hatchlingImg": "./pics/lavaterrazzo-h.jpg",
+  "adultImg": "./pics/lavaterrazzo-a.jpg"
+}

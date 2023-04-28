@@ -1,0 +1,12 @@
+{
+  "name": "Cinder Lavender Motley",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/cinderlavendermotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/cinderlavendermotley-a.jpg"
+}

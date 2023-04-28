@@ -1,0 +1,13 @@
+{
+  "name": "Spettro Masque",
+  "type": 4,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Lava",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/spettromasque-h.jpg",
+  "hatchlingImg": "./pics/spettromasque-h.jpg",
+  "adultImg": ""
+}

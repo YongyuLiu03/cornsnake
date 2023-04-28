@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Granite",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/caramelgranite-h.jpg",
+  "hatchlingImg": "./pics/caramelgranite-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sunglow",
+  "type": 8,
+  "traits": [
+    "Amelanistic"
+  ],
+  "thumbnail": "./thumbnails/sunglow-a.jpg",
+  "hatchlingImg": "./pics/sunglow-h.jpg",
+  "adultImg": "./pics/sunglow-a.jpg"
+}

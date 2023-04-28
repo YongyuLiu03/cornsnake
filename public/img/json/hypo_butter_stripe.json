@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Butter Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypobutterstripe-h.jpg",
+  "hatchlingImg": "./pics/hypobutterstripe-h.jpg",
+  "adultImg": ""
+}

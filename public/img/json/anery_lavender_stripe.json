@@ -1,0 +1,12 @@
+{
+  "name": "Anery Lavender Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/anerylavenderstripe-a.jpg",
+  "hatchlingImg": "./pics/anerylavenderstripe-h.jpg",
+  "adultImg": "./pics/anerylavenderstripe-a.jpg"
+}

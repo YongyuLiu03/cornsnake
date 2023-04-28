@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Lava",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeelava-h.jpg",
+  "hatchlingImg": "./pics/toffeelava-h.jpg",
+  "adultImg": ""
+}

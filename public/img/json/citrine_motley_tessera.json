@@ -1,0 +1,15 @@
+{
+  "name": "Citrine Motley Tessera",
+  "type": 6,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/citrinemotleytessera-h.jpg",
+  "hatchlingImg": "./pics/citrinemotleytessera-h.jpg",
+  "adultImg": ""
+}

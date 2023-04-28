@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Terrazzo",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/hypoterrazzo-h.jpg",
+  "hatchlingImg": "./pics/hypoterrazzo-h.jpg",
+  "adultImg": ""
+}

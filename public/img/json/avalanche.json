@@ -1,0 +1,12 @@
+{
+  "name": "Avalanche",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/avalanche-a.jpg",
+  "hatchlingImg": "./pics/avalanche-h.jpg",
+  "adultImg": "./pics/avalanche-a.jpg"
+}

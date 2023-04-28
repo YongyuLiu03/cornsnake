@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Anery Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Scaleless",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/scalelessanerystripe-h.jpg",
+  "hatchlingImg": "./pics/scalelessanerystripe-h.jpg",
+  "adultImg": ""
+}

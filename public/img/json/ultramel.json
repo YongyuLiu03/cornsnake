@@ -1,0 +1,11 @@
+{
+  "name": "Ultramel",
+  "type": 2,
+  "traits": [
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramel-a.jpg",
+  "hatchlingImg": "./pics/ultramel-h.jpg",
+  "adultImg": "./pics/ultramel-a.jpg"
+}

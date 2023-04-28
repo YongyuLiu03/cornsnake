@@ -1,0 +1,12 @@
+{
+  "name": "Blue Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/bluetessera-a.jpg",
+  "hatchlingImg": "./pics/bluetessera-h.jpg",
+  "adultImg": "./pics/bluetessera-a.jpg"
+}

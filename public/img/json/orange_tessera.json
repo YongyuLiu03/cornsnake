@@ -1,0 +1,12 @@
+{
+  "name": "Orange Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/orangetessera-a.jpg",
+  "hatchlingImg": "./pics/orangetessera-h.jpg",
+  "adultImg": "./pics/orangetessera-a.jpg"
+}

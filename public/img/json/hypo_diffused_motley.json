@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Diffused Motley",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedmotley-a.jpg",
+  "hatchlingImg": "./pics/hypodiffusedmotley-h.jpg",
+  "adultImg": "./pics/hypodiffusedmotley-a.jpg"
+}

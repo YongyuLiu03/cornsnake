@@ -1,0 +1,12 @@
+{
+  "name": "Honey Tessera",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/honeytessera-a.jpg",
+  "hatchlingImg": "./pics/honeytessera-h.jpg",
+  "adultImg": "./pics/honeytessera-a.jpg"
+}

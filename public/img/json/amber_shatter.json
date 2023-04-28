@@ -1,0 +1,13 @@
+{
+  "name": "Amber Shatter",
+  "type": 4,
+  "traits": [
+    "Carame;",
+    "Cinder",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/ambershatter-h.jpg",
+  "hatchlingImg": "./pics/ambershatter-h.jpg",
+  "adultImg": ""
+}

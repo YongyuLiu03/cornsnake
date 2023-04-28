@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Tessera",
+  "type": 2,
+  "traits": [
+    "Tessera",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeetessera-h.jpg",
+  "hatchlingImg": "./pics/toffeetessera-h.jpg",
+  "adultImg": ""
+}

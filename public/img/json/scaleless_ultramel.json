@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Ultramel",
+  "type": 3,
+  "traits": [
+    "Scaleless",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/scalelessultramel-h.jpg",
+  "hatchlingImg": "./pics/scalelessultramel-h.jpg",
+  "adultImg": ""
+}

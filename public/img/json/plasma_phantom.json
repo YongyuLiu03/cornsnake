@@ -1,0 +1,13 @@
+{
+  "name": "Plasma Phantom",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/plasmaphantom-a.jpg",
+  "hatchlingImg": "./pics/plasmaphantom-h.jpg",
+  "adultImg": "./pics/plasmaphantom-a.jpg"
+}

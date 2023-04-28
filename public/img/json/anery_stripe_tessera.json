@@ -1,0 +1,12 @@
+{
+  "name": "Anery Stripe Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/anerystripetessera-a.jpg",
+  "hatchlingImg": "./pics/anerystripetessera-h.jpg",
+  "adultImg": "./pics/anerystripetessera-a.jpg"
+}

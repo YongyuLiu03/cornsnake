@@ -1,0 +1,12 @@
+{
+  "name": "Hypomelanistic Stripe Tessera",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypomelanisticstripetessera-h.jpg",
+  "hatchlingImg": "./pics/hypomelanisticstripetessera-h.jpg",
+  "adultImg": ""
+}

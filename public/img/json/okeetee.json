@@ -1,0 +1,10 @@
+{
+  "name": "Okeetee",
+  "type": 0,
+  "traits": [
+    "Wildtype"
+  ],
+  "thumbnail": "./thumbnails/okeetee-a.jpg",
+  "hatchlingImg": "./pics/okeetee-h.jpg",
+  "adultImg": "./pics/okeetee-a.jpg"
+}

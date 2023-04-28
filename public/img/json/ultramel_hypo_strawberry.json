@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Hypo Strawberry",
+  "type": 4,
+  "traits": [
+    "het Amelanistic",
+    "het Hypomelanistic",
+    "het Strawberry",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelhypostrawberry-h.jpg",
+  "hatchlingImg": "./pics/ultramelhypostrawberry-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Lavender",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/hypocinderlavender-h.jpg",
+  "hatchlingImg": "./pics/hypocinderlavender-h.jpg",
+  "adultImg": ""
+}

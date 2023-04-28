@@ -1,0 +1,13 @@
+{
+  "name": "Blizzard Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/blizzardstripetessera-h.jpg",
+  "hatchlingImg": "./pics/blizzardstripetessera-h.jpg",
+  "adultImg": ""
+}

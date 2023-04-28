@@ -1,0 +1,12 @@
+{
+  "name": "Opal Terrazzo",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lavender",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/opalterrazzo-h.jpg",
+  "hatchlingImg": "./pics/opalterrazzo-h.jpg",
+  "adultImg": ""
+}

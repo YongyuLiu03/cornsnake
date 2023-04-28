@@ -1,0 +1,13 @@
+{
+  "name": "Lavender Ghost Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavenderghoststripe-h.jpg",
+  "hatchlingImg": "./pics/lavenderghoststripe-h.jpg",
+  "adultImg": ""
+}

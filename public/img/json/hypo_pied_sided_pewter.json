@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Pied Sided Pewter",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/hypopiedsidedpewter-h.jpg",
+  "hatchlingImg": "./pics/hypopiedsidedpewter-h.jpg",
+  "adultImg": ""
+}

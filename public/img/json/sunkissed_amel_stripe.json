@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Amel Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Stipe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedamelstripe-a.jpg",
+  "hatchlingImg": "./pics/sunkissedamelstripe-h.jpg",
+  "adultImg": "./pics/sunkissedamelstripe-a.jpg"
+}

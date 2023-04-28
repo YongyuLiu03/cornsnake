@@ -1,0 +1,14 @@
+{
+  "name": "Pink Panther Motley",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Lava",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/pinkpanthermotley-h.jpg",
+  "hatchlingImg": "./pics/pinkpanthermotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Orange Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/orangemotley-h.jpg",
+  "hatchlingImg": "./pics/orangemotley-h.jpg",
+  "adultImg": ""
+}

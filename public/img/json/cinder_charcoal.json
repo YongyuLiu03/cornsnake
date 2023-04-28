@@ -1,0 +1,11 @@
+{
+  "name": "Cinder Charcoal",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Cinder"
+  ],
+  "thumbnail": "./thumbnails/cindercharcoal-v.jpg",
+  "hatchlingImg": "",
+  "adultImg": ""
+}

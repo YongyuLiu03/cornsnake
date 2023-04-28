@@ -1,0 +1,14 @@
+{
+  "name": "Caramel Snow Tessera Motley",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/caramelsnowtesseramotley-h.jpg",
+  "hatchlingImg": "./pics/caramelsnowtesseramotley-h.jpg",
+  "adultImg": ""
+}

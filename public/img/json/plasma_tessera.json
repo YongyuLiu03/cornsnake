@@ -1,0 +1,12 @@
+{
+  "name": "Plasma Tessera",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/plasmatessera-h.jpg",
+  "hatchlingImg": "./pics/plasmatessera-h.jpg",
+  "adultImg": ""
+}

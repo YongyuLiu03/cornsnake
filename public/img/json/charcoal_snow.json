@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Charcoal"
+  ],
+  "thumbnail": "./thumbnails/charcoalsnow-h.jpg",
+  "hatchlingImg": "./pics/charcoalsnow-h.jpg",
+  "adultImg": ""
+}

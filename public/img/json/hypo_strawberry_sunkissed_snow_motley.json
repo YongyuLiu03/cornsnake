@@ -1,0 +1,15 @@
+{
+  "name": "Hypo Strawberry Sunkissed Snow Motley",
+  "type": 6,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Sunkissed",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberrysunkissedsnowmotley-h.jpg",
+  "hatchlingImg": "./pics/hypostrawberrysunkissedsnowmotley-h.jpg",
+  "adultImg": ""
+}

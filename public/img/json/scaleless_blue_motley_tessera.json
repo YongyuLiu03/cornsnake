@@ -1,0 +1,14 @@
+{
+  "name": "Scaleless Blue Motley Tessera",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Motley",
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelessbluemotleytessera-h.jpg",
+  "hatchlingImg": "./pics/scalelessbluemotleytessera-h.jpg",
+  "adultImg": ""
+}

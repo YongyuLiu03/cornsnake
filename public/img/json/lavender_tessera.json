@@ -1,0 +1,11 @@
+{
+  "name": "Lavender Tessera",
+  "type": 2,
+  "traits": [
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/lavendertessera-a.jpg",
+  "hatchlingImg": "./pics/lavendertessera-h.jpg",
+  "adultImg": "./pics/lavendertessera-a.jpg"
+}

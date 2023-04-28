@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Tessera Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/carameltesserastripe-h.jpg",
+  "hatchlingImg": "./pics/carameltesserastripe-h.jpg",
+  "adultImg": ""
+}

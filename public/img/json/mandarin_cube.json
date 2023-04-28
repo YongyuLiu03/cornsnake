@@ -1,0 +1,12 @@
+{
+  "name": "Mandarin Cube",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/mandarincube-h.jpg",
+  "hatchlingImg": "./pics/mandarincube-h.jpg",
+  "adultImg": ""
+}

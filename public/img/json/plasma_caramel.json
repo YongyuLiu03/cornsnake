@@ -1,0 +1,12 @@
+{
+  "name": "Plasma Caramel",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/plasmacaramel-h.jpg",
+  "hatchlingImg": "./pics/plasmacaramel-h.jpg",
+  "adultImg": ""
+}

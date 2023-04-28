@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Amber",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/diffusedamber-a.jpg",
+  "hatchlingImg": "./pics/diffusedamber-h.jpg",
+  "adultImg": "./pics/diffusedamber-a.jpg"
+}

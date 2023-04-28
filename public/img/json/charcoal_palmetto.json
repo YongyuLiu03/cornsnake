@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Palmetto",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/charcoalpalmetto-h.jpg",
+  "hatchlingImg": "./pics/charcoalpalmetto-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Tessera",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypocindertessera-h.jpg",
+  "hatchlingImg": "./pics/hypocindertessera-h.jpg",
+  "adultImg": ""
+}

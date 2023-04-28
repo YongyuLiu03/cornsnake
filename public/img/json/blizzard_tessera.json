@@ -1,0 +1,12 @@
+{
+  "name": "Blizzard Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/blizzardtessera-h.jpg",
+  "hatchlingImg": "./pics/blizzardtessera-h.jpg",
+  "adultImg": ""
+}

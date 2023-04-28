@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Cinder Stripe",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedcinderstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedcinderstripe-h.jpg",
+  "adultImg": ""
+}

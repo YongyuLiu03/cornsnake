@@ -1,0 +1,12 @@
+{
+  "name": "Granite Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/granitestripe-a.jpg",
+  "hatchlingImg": "./pics/granitestripe-h.jpg",
+  "adultImg": "./pics/granitestripe-a.jpg"
+}

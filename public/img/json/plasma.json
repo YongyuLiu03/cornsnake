@@ -1,0 +1,11 @@
+{
+  "name": "Plasma",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/plasma-a.jpg",
+  "hatchlingImg": "./pics/plasma-h.jpg",
+  "adultImg": "./pics/plasma-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orange",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Buf"
+  ],
+  "thumbnail": "./thumbnails/orange-a.jpg",
+  "hatchlingImg": "./pics/orange-h.jpg",
+  "adultImg": "./pics/orange-a.jpg"
+}

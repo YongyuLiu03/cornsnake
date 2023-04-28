@@ -1,0 +1,11 @@
+{
+  "name": "Ultra Caramel",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultracaramel-a.jpg",
+  "hatchlingImg": "./pics/ultracaramel-h.jpg",
+  "adultImg": "./pics/ultracaramel-a.jpg"
+}

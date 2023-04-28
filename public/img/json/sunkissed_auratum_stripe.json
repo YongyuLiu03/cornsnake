@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Auratum Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Stripe",
+    "Sunkissed",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/sunkissedauratumstripe-h.jpg",
+  "hatchlingImg": "./pics/sunkissedauratumstripe-h.jpg",
+  "adultImg": ""
+}

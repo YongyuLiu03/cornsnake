@@ -1,0 +1,12 @@
+{
+  "name": "Lava Fire",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lava"
+  ],
+  "thumbnail": "./thumbnails/lavafire-h.jpg",
+  "hatchlingImg": "./pics/lavafire-h.jpg",
+  "adultImg": ""
+}

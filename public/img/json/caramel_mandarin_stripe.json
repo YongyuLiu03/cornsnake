@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Mandarin Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Kastanie",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/caramelmandarinstripe-h.jpg",
+  "hatchlingImg": "./pics/caramelmandarinstripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Lavender Tessera",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypolavendertessera-h.jpg",
+  "hatchlingImg": "./pics/hypolavendertessera-h.jpg",
+  "adultImg": ""
+}

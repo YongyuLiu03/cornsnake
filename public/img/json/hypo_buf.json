@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Buf",
+  "type": 2,
+  "traits": [
+    "Buf",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypobuf-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/hypobuf-a.jpg"
+}

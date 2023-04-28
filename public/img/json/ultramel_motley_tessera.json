@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Motley",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelmotleytessera-a.jpg",
+  "hatchlingImg": "./pics/ultramelmotleytessera-h.jpg",
+  "adultImg": "./pics/ultramelmotleytessera-a.jpg"
+}

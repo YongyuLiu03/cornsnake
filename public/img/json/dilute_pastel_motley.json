@@ -1,0 +1,12 @@
+{
+  "name": "Dilute Pastel Motley",
+  "type": 3,
+  "traits": [
+    "Dilute",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/dilutepastelmotley-a.jpg",
+  "hatchlingImg": "./pics/dilutepastelmotley-h.jpg",
+  "adultImg": "./pics/dilutepastelmotley-a.jpg"
+}

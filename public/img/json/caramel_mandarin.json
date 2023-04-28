@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Mandarin",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/caramelmandarin-h.jpg",
+  "hatchlingImg": "./pics/caramelmandarin-h.jpg",
+  "adultImg": ""
+}

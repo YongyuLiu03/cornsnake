@@ -1,0 +1,12 @@
+{
+  "name": "Ice Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lava",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/icemotley-h.jpg",
+  "hatchlingImg": "./pics/icemotley-h.jpg",
+  "adultImg": ""
+}

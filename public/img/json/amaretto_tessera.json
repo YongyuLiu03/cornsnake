@@ -1,0 +1,13 @@
+{
+  "name": "Amaretto Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/amarettotessera-a.jpg",
+  "hatchlingImg": "./pics/amarettotessera-h.jpg",
+  "adultImg": "./pics/amarettotessera-a.jpg"
+}

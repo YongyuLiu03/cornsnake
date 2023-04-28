@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Motley",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypocindermotley-h.jpg",
+  "hatchlingImg": "./pics/hypocindermotley-h.jpg",
+  "adultImg": ""
+}

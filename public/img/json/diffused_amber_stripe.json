@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Amber Stripe",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedamberstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedamberstripe-h.jpg",
+  "adultImg": ""
+}

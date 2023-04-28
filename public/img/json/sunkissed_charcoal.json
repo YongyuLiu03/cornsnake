@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Charcoal",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedcharcoal-a.jpg",
+  "hatchlingImg": "./pics/sunkissedcharcoal-h.jpg",
+  "adultImg": "./pics/sunkissedcharcoal-a.jpg"
+}

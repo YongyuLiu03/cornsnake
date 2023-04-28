@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Sunkissed Stripe",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissedstripe-h.jpg",
+  "hatchlingImg": "./pics/hyposunkissedstripe-h.jpg",
+  "adultImg": ""
+}

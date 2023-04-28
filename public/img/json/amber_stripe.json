@@ -1,0 +1,12 @@
+{
+  "name": "Amber Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/amberstripe-a.jpg",
+  "hatchlingImg": "./pics/amberstripe-h.jpg",
+  "adultImg": "./pics/amberstripe-a.jpg"
+}

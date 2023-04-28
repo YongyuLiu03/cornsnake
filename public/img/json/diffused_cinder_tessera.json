@@ -1,0 +1,12 @@
+{
+  "name": "Diffused Cinder Tessera",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedcindertessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedcindertessera-h.jpg",
+  "adultImg": ""
+}

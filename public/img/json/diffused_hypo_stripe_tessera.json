@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Hypo Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedhypostripetessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedhypostripetessera-h.jpg",
+  "adultImg": ""
+}

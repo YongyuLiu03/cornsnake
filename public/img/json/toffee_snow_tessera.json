@@ -1,0 +1,13 @@
+{
+  "name": "Toffee Snow Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Tessera",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeesnowtessera-h.jpg",
+  "hatchlingImg": "./pics/toffeesnowtessera-h.jpg",
+  "adultImg": ""
+}

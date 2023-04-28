@@ -1,0 +1,14 @@
+{
+  "name": "Hypo Diffused Opal Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypodiffusedopaltessera-e.jpg",
+  "hatchlingImg": "",
+  "adultImg": ""
+}

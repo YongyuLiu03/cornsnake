@@ -1,0 +1,12 @@
+{
+  "name": "Pastel Stripe",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/pastelstripe-a.jpg",
+  "hatchlingImg": "./pics/pastelstripe-h.jpg",
+  "adultImg": "./pics/pastelstripe-a.jpg"
+}

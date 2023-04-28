@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Snopal Tessera",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedsnopaltessera-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/diffusedsnopaltessera-a.jpg"
+}

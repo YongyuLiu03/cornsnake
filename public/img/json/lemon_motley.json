@@ -1,0 +1,13 @@
+{
+  "name": "Lemon Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/lemonmotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/lemonmotley-a.jpg"
+}

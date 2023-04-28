@@ -1,0 +1,12 @@
+{
+  "name": "Whiteout",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/whiteout-a.jpg",
+  "hatchlingImg": "./pics/whiteout-h.jpg",
+  "adultImg": "./pics/whiteout-a.jpg"
+}

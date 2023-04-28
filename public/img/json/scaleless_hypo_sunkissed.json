@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Hypo Sunkissed",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Scaleless",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/scalelesshyposunkissed-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/scalelesshyposunkissed-a.jpg"
+}

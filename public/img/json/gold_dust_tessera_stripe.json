@@ -1,0 +1,14 @@
+{
+  "name": "Gold Dust Tessera Stripe",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Stripe",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/golddusttesserastripe-h.jpg",
+  "hatchlingImg": "./pics/golddusttesserastripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Citrine",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/citrine-a.jpg",
+  "hatchlingImg": "./pics/citrine-h.jpg",
+  "adultImg": "./pics/citrine-a.jpg"
+}

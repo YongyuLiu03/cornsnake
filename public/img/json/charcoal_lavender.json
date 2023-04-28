@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Lavender",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/charcoallavender-h.jpg",
+  "hatchlingImg": "./pics/charcoallavender-h.jpg",
+  "adultImg": ""
+}

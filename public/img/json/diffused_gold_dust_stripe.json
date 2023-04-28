@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Gold Dust Stripe",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedgoldduststripe-a.jpg",
+  "hatchlingImg": "./pics/diffusedgoldduststripe-h.jpg",
+  "adultImg": "./pics/diffusedgoldduststripe-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Amaretto",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/diffusedamaretto-h.jpg",
+  "hatchlingImg": "./pics/diffusedamaretto-h.jpg",
+  "adultImg": ""
+}

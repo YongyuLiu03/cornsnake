@@ -1,0 +1,15 @@
+{
+  "name": "Lava Buttermint Motley Masque",
+  "type": 6,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Cinder",
+    "Lava",
+    "Masque",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/lavabuttermintmotleymasque-h.jpg",
+  "hatchlingImg": "./pics/lavabuttermintmotleymasque-h.jpg",
+  "adultImg": ""
+}

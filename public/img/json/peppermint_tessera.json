@@ -1,0 +1,12 @@
+{
+  "name": "Peppermint Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/pepperminttessera-h.jpg",
+  "hatchlingImg": "./pics/pepperminttessera-h.jpg",
+  "adultImg": ""
+}

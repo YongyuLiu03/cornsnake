@@ -1,0 +1,12 @@
+{
+  "name": "Dilute Anery Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diluteanerystripe-a.jpg",
+  "hatchlingImg": "./pics/diluteanerystripe-h.jpg",
+  "adultImg": "./pics/diluteanerystripe-a.jpg"
+}

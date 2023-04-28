@@ -1,0 +1,12 @@
+{
+  "name": "Strawberry Snow Stripe",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/strawberrysnowstripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/strawberrysnowstripe-a.jpg"
+}

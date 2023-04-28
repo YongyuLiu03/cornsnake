@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Amber Lavender Stripe",
+  "type": 5,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedamberlavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedamberlavenderstripe-h.jpg",
+  "adultImg": ""
+}

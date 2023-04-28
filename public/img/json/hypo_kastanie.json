@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Kastanie",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Kastanie"
+  ],
+  "thumbnail": "./thumbnails/hypokastanie-a.jpg",
+  "hatchlingImg": "./pics/hypokastanie-h.jpg",
+  "adultImg": "./pics/hypokastanie-a.jpg"
+}

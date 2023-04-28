@@ -1,0 +1,12 @@
+{
+  "name": "Fire Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/firemotley-a.jpg",
+  "hatchlingImg": "./pics/firemotley-h.jpg",
+  "adultImg": "./pics/firemotley-a.jpg"
+}

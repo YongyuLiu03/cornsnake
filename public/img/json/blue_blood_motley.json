@@ -1,0 +1,13 @@
+{
+  "name": "Blue Blood Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Dilute",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/bluebloodmotley-h.jpg",
+  "hatchlingImg": "./pics/bluebloodmotley-h.jpg",
+  "adultImg": ""
+}

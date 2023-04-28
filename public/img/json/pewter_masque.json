@@ -1,0 +1,12 @@
+{
+  "name": "Pewter Masque",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/pewtermasque-h.jpg",
+  "hatchlingImg": "./pics/pewtermasque-h.jpg",
+  "adultImg": ""
+}

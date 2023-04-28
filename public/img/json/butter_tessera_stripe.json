@@ -1,0 +1,13 @@
+{
+  "name": "Butter Tessera Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/buttertesserastripe-a.jpg",
+  "hatchlingImg": "./pics/buttertesserastripe-h.jpg",
+  "adultImg": "./pics/buttertesserastripe-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Coral Ghost Motley",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Motley",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/coralghostmotley-h.jpg",
+  "hatchlingImg": "./pics/coralghostmotley-h.jpg",
+  "adultImg": ""
+}

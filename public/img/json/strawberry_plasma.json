@@ -1,0 +1,12 @@
+{
+  "name": "Strawberry Plasma",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/strawberryplasma-h.jpg",
+  "hatchlingImg": "./pics/strawberryplasma-h.jpg",
+  "adultImg": ""
+}

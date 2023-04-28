@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Silver Queen",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedsilverqueen-a.jpg",
+  "hatchlingImg": "./pics/sunkissedsilverqueen-h.jpg",
+  "adultImg": "./pics/sunkissedsilverqueen-a.jpg"
+}

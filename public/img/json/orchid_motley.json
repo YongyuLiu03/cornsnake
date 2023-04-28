@@ -1,0 +1,12 @@
+{
+  "name": "Orchid Motley",
+  "type": 3,
+  "traits": [
+    "Lavender",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/orchidmotley-h.jpg",
+  "hatchlingImg": "./pics/orchidmotley-h.jpg",
+  "adultImg": ""
+}

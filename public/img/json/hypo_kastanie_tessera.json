@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Kastanie Tessera",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Kastanie",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypokastanietessera-h.jpg",
+  "hatchlingImg": "./pics/hypokastanietessera-h.jpg",
+  "adultImg": ""
+}

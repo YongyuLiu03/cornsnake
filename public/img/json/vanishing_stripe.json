@@ -1,0 +1,10 @@
+{
+  "name": "Vanishing Stripe",
+  "type": 8,
+  "traits": [
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/vanishingstripe-a.jpg",
+  "hatchlingImg": "./pics/vanishingstripe-h.jpg",
+  "adultImg": "./pics/vanishingstripe-a.jpg"
+}

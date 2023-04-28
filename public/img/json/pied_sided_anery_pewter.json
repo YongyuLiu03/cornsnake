@@ -1,0 +1,13 @@
+{
+  "name": "Pied Sided Anery Pewter",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedanerypewter-h.jpg",
+  "hatchlingImg": "./pics/piedsidedanerypewter-h.jpg",
+  "adultImg": ""
+}

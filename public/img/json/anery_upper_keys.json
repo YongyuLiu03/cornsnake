@@ -1,0 +1,10 @@
+{
+  "name": "Anery Upper Keys",
+  "type": 8,
+  "traits": [
+    "Anerythristic"
+  ],
+  "thumbnail": "./thumbnails/aneryupperkeys-a.jpg",
+  "hatchlingImg": "./pics/aneryupperkeys-h.jpg",
+  "adultImg": "./pics/aneryupperkeys-a.jpg"
+}

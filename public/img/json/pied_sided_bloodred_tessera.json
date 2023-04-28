@@ -1,0 +1,12 @@
+{
+  "name": "Pied Sided Bloodred Tessera",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Pied Sided",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/piedsidedbloodredtessera-h.jpg",
+  "hatchlingImg": "./pics/piedsidedbloodredtessera-h.jpg",
+  "adultImg": ""
+}

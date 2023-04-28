@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ghoststripetessera-a.jpg",
+  "hatchlingImg": "./pics/ghoststripetessera-h.jpg",
+  "adultImg": "./pics/ghoststripetessera-a.jpg"
+}

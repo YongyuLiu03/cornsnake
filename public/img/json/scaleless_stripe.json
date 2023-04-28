@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Stripe",
+  "type": 2,
+  "traits": [
+    "Scaleless",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/scalelessstripe-a.jpg",
+  "hatchlingImg": "./pics/scalelessstripe-h.jpg",
+  "adultImg": "./pics/scalelessstripe-a.jpg"
+}

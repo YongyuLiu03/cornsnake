@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Strawberry Granite",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "het Hypomelanistic",
+    "het Strawberry"
+  ],
+  "thumbnail": "./thumbnails/hypostrawberrygranite-h.jpg",
+  "hatchlingImg": "./pics/hypostrawberrygranite-h.jpg",
+  "adultImg": ""
+}

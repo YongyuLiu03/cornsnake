@@ -1,0 +1,10 @@
+{
+  "name": "Banded",
+  "type": 8,
+  "traits": [
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/banded-a.jpg",
+  "hatchlingImg": "./pics/banded-h.jpg",
+  "adultImg": "./pics/banded-a.jpg"
+}

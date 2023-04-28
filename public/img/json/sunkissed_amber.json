@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Amber",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedamber-a.jpg",
+  "hatchlingImg": "./pics/sunkissedamber-h.jpg",
+  "adultImg": "./pics/sunkissedamber-a.jpg"
+}

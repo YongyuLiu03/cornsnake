@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Cinder",
+  "type": 2,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypocinder-a.jpg",
+  "hatchlingImg": "./pics/hypocinder-h.jpg",
+  "adultImg": "./pics/hypocinder-a.jpg"
+}

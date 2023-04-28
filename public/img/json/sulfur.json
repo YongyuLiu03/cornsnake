@@ -1,0 +1,12 @@
+{
+  "name": "Sulfur",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/sulfur-a.jpg",
+  "hatchlingImg": "./pics/sulfur-h.jpg",
+  "adultImg": "./pics/sulfur-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bloodred Motley",
+  "type": 8,
+  "traits": [
+    "Diffused",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/bloodredmotley-a.jpg",
+  "hatchlingImg": "./pics/bloodredmotley-h.jpg",
+  "adultImg": "./pics/bloodredmotley-a.jpg"
+}

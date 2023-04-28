@@ -1,0 +1,11 @@
+{
+  "name": "Phantom",
+  "type": 2,
+  "traits": [
+    "Charcoal",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/phantom-a.jpg",
+  "hatchlingImg": "./pics/phantom-h.jpg",
+  "adultImg": "./pics/phantom-a.jpg"
+}

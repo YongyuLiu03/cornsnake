@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Kastanie Motley",
+  "type": 4,
+  "traits": [
+    "Kastanie",
+    "Motley",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelkastaniemotley-h.jpg",
+  "hatchlingImg": "./pics/ultramelkastaniemotley-h.jpg",
+  "adultImg": ""
+}

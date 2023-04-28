@@ -1,0 +1,14 @@
+{
+  "name": "Ultramel Granite Tessera",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelgranitetessera-h.jpg",
+  "hatchlingImg": "./pics/ultramelgranitetessera-h.jpg",
+  "adultImg": ""
+}

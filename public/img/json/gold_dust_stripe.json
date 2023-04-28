@@ -1,0 +1,13 @@
+{
+  "name": "Gold Dust Stripe",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/goldduststripe-h.jpg",
+  "hatchlingImg": "./pics/goldduststripe-h.jpg",
+  "adultImg": ""
+}

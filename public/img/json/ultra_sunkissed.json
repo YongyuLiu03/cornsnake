@@ -1,0 +1,11 @@
+{
+  "name": "Ultra Sunkissed",
+  "type": 2,
+  "traits": [
+    "Sunkissed",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultrasunkissed-a.jpg",
+  "hatchlingImg": "./pics/ultrasunkissed-h.jpg",
+  "adultImg": "./pics/ultrasunkissed-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ice Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Lava",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedicestripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedicestripe-h.jpg",
+  "adultImg": ""
+}

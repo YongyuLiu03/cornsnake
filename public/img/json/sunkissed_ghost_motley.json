@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Ghost Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedghostmotley-h.jpg",
+  "hatchlingImg": "./pics/sunkissedghostmotley-h.jpg",
+  "adultImg": ""
+}

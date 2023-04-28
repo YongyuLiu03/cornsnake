@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Fire",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypofire-h.jpg",
+  "hatchlingImg": "./pics/hypofire-h.jpg",
+  "adultImg": ""
+}

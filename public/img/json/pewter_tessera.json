@@ -1,0 +1,12 @@
+{
+  "name": "Pewter Tessera",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/pewtertessera-h.jpg",
+  "hatchlingImg": "./pics/pewtertessera-h.jpg",
+  "adultImg": ""
+}

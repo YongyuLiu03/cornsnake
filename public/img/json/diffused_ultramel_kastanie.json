@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ultramel Kastanie",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Kastanie",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramelkastanie-h.jpg",
+  "hatchlingImg": "./pics/diffusedultramelkastanie-h.jpg",
+  "adultImg": ""
+}

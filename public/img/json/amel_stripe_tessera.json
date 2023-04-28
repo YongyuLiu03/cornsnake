@@ -1,0 +1,12 @@
+{
+  "name": "Amel Stripe Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/amelstripetessera-h.jpg",
+  "hatchlingImg": "./pics/amelstripetessera-h.jpg",
+  "adultImg": ""
+}

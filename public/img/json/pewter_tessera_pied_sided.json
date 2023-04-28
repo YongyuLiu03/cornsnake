@@ -1,0 +1,13 @@
+{
+  "name": "Pewter Tessera Pied Sided",
+  "type": 4,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Pied Sided",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/pewtertesserapiedsided-h.jpg",
+  "hatchlingImg": "./pics/pewtertesserapiedsided-h.jpg",
+  "adultImg": ""
+}

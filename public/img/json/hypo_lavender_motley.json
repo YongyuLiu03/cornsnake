@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Lavender Motley",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypolavendermotley-h.jpg",
+  "hatchlingImg": "./pics/hypolavendermotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ultramel Motley Scaleless",
+  "type": 4,
+  "traits": [
+    "Motley",
+    "Scaleless",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultramelmotleyscaleless-h.jpg",
+  "hatchlingImg": "./pics/ultramelmotleyscaleless-h.jpg",
+  "adultImg": ""
+}

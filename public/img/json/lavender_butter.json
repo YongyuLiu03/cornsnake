@@ -1,0 +1,12 @@
+{
+  "name": "Lavender Butter",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavenderbutter-h.jpg",
+  "hatchlingImg": "./pics/lavenderbutter-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lava Masque",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/lavamasque-a.jpg",
+  "hatchlingImg": "./pics/lavamasque-h.jpg",
+  "adultImg": "./pics/lavamasque-a.jpg"
+}

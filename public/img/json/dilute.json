@@ -1,0 +1,10 @@
+{
+  "name": "Dilute",
+  "type": 1,
+  "traits": [
+    "Dilute"
+  ],
+  "thumbnail": "./thumbnails/dilute-a.jpg",
+  "hatchlingImg": "./pics/dilute-h.jpg",
+  "adultImg": "./pics/dilute-a.jpg"
+}

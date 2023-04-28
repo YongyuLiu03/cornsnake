@@ -1,0 +1,11 @@
+{
+  "name": "Orchid",
+  "type": 2,
+  "traits": [
+    "Lavender",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/orchid-a.jpg",
+  "hatchlingImg": "./pics/orchid-h.jpg",
+  "adultImg": "./pics/orchid-a.jpg"
+}

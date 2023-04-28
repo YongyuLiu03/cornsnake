@@ -1,0 +1,13 @@
+{
+  "name": "Amber Moonstone",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/ambermoonstone-h.jpg",
+  "hatchlingImg": "./pics/ambermoonstone-h.jpg",
+  "adultImg": ""
+}

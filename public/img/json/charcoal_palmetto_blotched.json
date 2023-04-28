@@ -1,0 +1,11 @@
+{
+  "name": "Charcoal Palmetto Blotched",
+  "type": 8,
+  "traits": [
+    "Charcoal",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/charcoalpalmettoblotched-h.jpg",
+  "hatchlingImg": "./pics/charcoalpalmettoblotched-h.jpg",
+  "adultImg": ""
+}

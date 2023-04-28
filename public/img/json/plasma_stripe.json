@@ -1,0 +1,12 @@
+{
+  "name": "Plasma Stripe",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/plasmastripe-a.jpg",
+  "hatchlingImg": "./pics/plasmastripe-h.jpg",
+  "adultImg": "./pics/plasmastripe-a.jpg"
+}

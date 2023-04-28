@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Platinum Motley",
+  "type": 5,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diffusedplatinummotley-h.jpg",
+  "hatchlingImg": "./pics/diffusedplatinummotley-h.jpg",
+  "adultImg": ""
+}

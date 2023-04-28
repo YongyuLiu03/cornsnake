@@ -1,0 +1,10 @@
+{
+  "name": "Upper Keys Bloodred",
+  "type": 8,
+  "traits": [
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/upperkeysbloodred-a.jpg",
+  "hatchlingImg": "./pics/upperkeysbloodred-h.jpg",
+  "adultImg": "./pics/upperkeysbloodred-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Caramel Stripe",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Scaleless",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/scalelesscaramelstripe-h.jpg",
+  "hatchlingImg": "./pics/scalelesscaramelstripe-h.jpg",
+  "adultImg": ""
+}

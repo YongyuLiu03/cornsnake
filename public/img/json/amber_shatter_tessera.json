@@ -1,0 +1,14 @@
+{
+  "name": "Amber Shatter Tessera",
+  "type": 5,
+  "traits": [
+    "Carame;",
+    "Cinder",
+    "Hypomelanistic",
+    "Sunkissed",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/ambershattertessera-h.jpg",
+  "hatchlingImg": "./pics/ambershattertessera-h.jpg",
+  "adultImg": ""
+}

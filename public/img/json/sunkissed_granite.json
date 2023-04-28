@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Granite",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedgranite-h.jpg",
+  "hatchlingImg": "./pics/sunkissedgranite-h.jpg",
+  "adultImg": ""
+}

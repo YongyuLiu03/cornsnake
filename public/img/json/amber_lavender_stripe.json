@@ -1,0 +1,13 @@
+{
+  "name": "Amber Lavender Stripe",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/amberlavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/amberlavenderstripe-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Cinder Palmetto",
+  "type": 3,
+  "traits": [
+    "Cinder",
+    "Hypomelanistic",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/hypocinderpalmetto-h.jpg",
+  "hatchlingImg": "./pics/hypocinderpalmetto-h.jpg",
+  "adultImg": ""
+}

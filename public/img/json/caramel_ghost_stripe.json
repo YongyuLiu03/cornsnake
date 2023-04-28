@@ -1,0 +1,13 @@
+{
+  "name": "Caramel Ghost Stripe",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Caramel",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/caramelghoststripe-a.jpg",
+  "hatchlingImg": "./pics/caramelghoststripe-h.jpg",
+  "adultImg": "./pics/caramelghoststripe-a.jpg"
+}

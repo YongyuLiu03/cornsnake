@@ -1,0 +1,13 @@
+{
+  "name": "Amber Lavender Masque",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/amberlavendermasque-h.jpg",
+  "hatchlingImg": "./pics/amberlavendermasque-h.jpg",
+  "adultImg": ""
+}

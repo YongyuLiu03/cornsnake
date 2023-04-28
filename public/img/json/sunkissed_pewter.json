@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Pewter",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Diffused",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedpewter-h.jpg",
+  "hatchlingImg": "./pics/sunkissedpewter-h.jpg",
+  "adultImg": ""
+}

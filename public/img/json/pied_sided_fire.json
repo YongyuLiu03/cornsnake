@@ -1,0 +1,12 @@
+{
+  "name": "Pied Sided Fire",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedfire-a.jpg",
+  "hatchlingImg": "./pics/piedsidedfire-h.jpg",
+  "adultImg": "./pics/piedsidedfire-a.jpg"
+}

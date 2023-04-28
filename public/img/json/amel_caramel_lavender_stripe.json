@@ -1,0 +1,13 @@
+{
+  "name": "Amel Caramel Lavender Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/amelcaramellavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/amelcaramellavenderstripe-h.jpg",
+  "adultImg": ""
+}

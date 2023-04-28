@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Butter Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypobuttermotley-a.jpg",
+  "hatchlingImg": "./pics/hypobuttermotley-h.jpg",
+  "adultImg": "./pics/hypobuttermotley-a.jpg"
+}

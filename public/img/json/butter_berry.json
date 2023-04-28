@@ -1,0 +1,12 @@
+{
+  "name": "Butter Berry",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Strawberry"
+  ],
+  "thumbnail": "./thumbnails/butterberry-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/butterberry-a.jpg"
+}

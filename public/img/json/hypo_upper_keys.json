@@ -1,0 +1,10 @@
+{
+  "name": "Hypo Upper Keys",
+  "type": 8,
+  "traits": [
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypoupperkeys-h.jpg",
+  "hatchlingImg": "./pics/hypoupperkeys-h.jpg",
+  "adultImg": ""
+}

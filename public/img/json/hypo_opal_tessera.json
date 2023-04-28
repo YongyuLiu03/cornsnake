@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Opal Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypoopaltessera-h.jpg",
+  "hatchlingImg": "./pics/hypoopaltessera-h.jpg",
+  "adultImg": ""
+}

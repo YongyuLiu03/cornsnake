@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Amel Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypoamelstripe-a.jpg",
+  "hatchlingImg": "./pics/hypoamelstripe-h.jpg",
+  "adultImg": "./pics/hypoamelstripe-a.jpg"
+}

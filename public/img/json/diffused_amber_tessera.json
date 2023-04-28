@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Amber Tessera",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedambertessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedambertessera-h.jpg",
+  "adultImg": ""
+}

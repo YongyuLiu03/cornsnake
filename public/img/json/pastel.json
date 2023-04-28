@@ -1,0 +1,11 @@
+{
+  "name": "Pastel",
+  "type": 8,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/pastel-a.jpg",
+  "hatchlingImg": "./pics/pastel-h.jpg",
+  "adultImg": "./pics/pastel-a.jpg"
+}

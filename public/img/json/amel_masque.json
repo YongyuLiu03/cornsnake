@@ -1,0 +1,11 @@
+{
+  "name": "Amel Masque",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/amelmasque-h.jpg",
+  "hatchlingImg": "./pics/amelmasque-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Scaleless Amel Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Scaleless",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/scalelessamelstripe-h.jpg",
+  "hatchlingImg": "./pics/scalelessamelstripe-h.jpg",
+  "adultImg": ""
+}

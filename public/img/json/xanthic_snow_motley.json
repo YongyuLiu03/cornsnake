@@ -1,0 +1,13 @@
+{
+  "name": "Xanthic Snow Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/xanthicsnowmotley-h.jpg",
+  "hatchlingImg": "./pics/xanthicsnowmotley-h.jpg",
+  "adultImg": ""
+}

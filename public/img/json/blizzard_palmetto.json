@@ -1,0 +1,12 @@
+{
+  "name": "Blizzard Palmetto",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/blizzardpalmetto-h.jpg",
+  "hatchlingImg": "./pics/blizzardpalmetto-h.jpg",
+  "adultImg": ""
+}

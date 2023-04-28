@@ -1,0 +1,11 @@
+{
+  "name": "Fire",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/fire-a.jpg",
+  "hatchlingImg": "./pics/fire-h.jpg",
+  "adultImg": "./pics/fire-a.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Snow Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hyposnowtessera-h.jpg",
+  "hatchlingImg": "./pics/hyposnowtessera-h.jpg",
+  "adultImg": ""
+}

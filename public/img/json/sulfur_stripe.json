@@ -1,0 +1,13 @@
+{
+  "name": "Sulfur Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/sulfurstripe-a.jpg",
+  "hatchlingImg": "./pics/sulfurstripe-h.jpg",
+  "adultImg": "./pics/sulfurstripe-a.jpg"
+}

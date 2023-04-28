@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Fire Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/hypofirestripe-h.jpg",
+  "hatchlingImg": "./pics/hypofirestripe-h.jpg",
+  "adultImg": ""
+}

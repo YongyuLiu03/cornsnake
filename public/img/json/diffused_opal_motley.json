@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Opal Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diffusedopalmotley-h.jpg",
+  "hatchlingImg": "./pics/diffusedopalmotley-h.jpg",
+  "adultImg": ""
+}

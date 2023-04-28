@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Cinder Motley",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Cinder",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/caramelcindermotley-h.jpg",
+  "hatchlingImg": "./pics/caramelcindermotley-h.jpg",
+  "adultImg": ""
+}

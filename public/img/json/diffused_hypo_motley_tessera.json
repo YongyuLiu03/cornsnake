@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Hypo Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedhypomotleytessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedhypomotleytessera-h.jpg",
+  "adultImg": ""
+}

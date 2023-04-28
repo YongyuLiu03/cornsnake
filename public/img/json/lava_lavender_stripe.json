@@ -1,0 +1,12 @@
+{
+  "name": "Lava Lavender Stripe",
+  "type": 3,
+  "traits": [
+    "Lava",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/lavalavenderstripe-h.jpg",
+  "hatchlingImg": "./pics/lavalavenderstripe-h.jpg",
+  "adultImg": ""
+}

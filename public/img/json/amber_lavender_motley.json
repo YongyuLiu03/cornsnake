@@ -1,0 +1,13 @@
+{
+  "name": "Amber Lavender Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Hypomelanistic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/amberlavendermotley-h.jpg",
+  "hatchlingImg": "./pics/amberlavendermotley-h.jpg",
+  "adultImg": ""
+}

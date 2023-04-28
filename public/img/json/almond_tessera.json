@@ -1,0 +1,12 @@
+{
+  "name": "Almond Tessera",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/almondtessera-h.jpg",
+  "hatchlingImg": "./pics/almondtessera-h.jpg",
+  "adultImg": ""
+}

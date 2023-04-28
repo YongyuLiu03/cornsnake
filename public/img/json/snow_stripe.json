@@ -1,0 +1,12 @@
+{
+  "name": "Snow Stripe",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/snowstripe-a.jpg",
+  "hatchlingImg": "./pics/snowstripe-h.jpg",
+  "adultImg": "./pics/snowstripe-a.jpg"
+}

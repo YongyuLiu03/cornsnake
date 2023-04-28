@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hyposnow-a.jpg",
+  "hatchlingImg": "./pics/hyposnow-h.jpg",
+  "adultImg": "./pics/hyposnow-a.jpg"
+}

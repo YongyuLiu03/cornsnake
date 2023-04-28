@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Palmetto",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Palmetto"
+  ],
+  "thumbnail": "./thumbnails/caramelpalmetto-a.jpg",
+  "hatchlingImg": "./pics/caramelpalmetto-h.jpg",
+  "adultImg": "./pics/caramelpalmetto-a.jpg"
+}

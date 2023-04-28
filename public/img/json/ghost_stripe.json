@@ -1,0 +1,12 @@
+{
+  "name": "Ghost Stripe",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/ghoststripe-a.jpg",
+  "hatchlingImg": "./pics/ghoststripe-h.jpg",
+  "adultImg": "./pics/ghoststripe-a.jpg"
+}

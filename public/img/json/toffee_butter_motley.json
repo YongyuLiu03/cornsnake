@@ -1,0 +1,13 @@
+{
+  "name": "Toffee Butter Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Motley",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeebuttermotley-h.jpg",
+  "hatchlingImg": "./pics/toffeebuttermotley-h.jpg",
+  "adultImg": ""
+}

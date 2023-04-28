@@ -1,0 +1,13 @@
+{
+  "name": "Tessera Ultramel Scaleless Okeetee",
+  "type": 8,
+  "traits": [
+    "Scaleless",
+    "Tessera",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/tesseraultramelscalelessokeetee-h.jpg",
+  "hatchlingImg": "./pics/tesseraultramelscalelessokeetee-h.jpg",
+  "adultImg": ""
+}

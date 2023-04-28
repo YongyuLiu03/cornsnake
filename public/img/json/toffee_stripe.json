@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Stripe",
+  "type": 2,
+  "traits": [
+    "Stripe",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeestripe-a.jpg",
+  "hatchlingImg": "./pics/toffeestripe-h.jpg",
+  "adultImg": "./pics/toffeestripe-a.jpg"
+}

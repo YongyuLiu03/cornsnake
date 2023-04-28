@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Bloodred Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Diffused",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/ghostbloodredmotley-h.jpg",
+  "hatchlingImg": "./pics/ghostbloodredmotley-h.jpg",
+  "adultImg": ""
+}

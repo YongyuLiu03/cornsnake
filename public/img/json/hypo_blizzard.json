@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Blizzard",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Charcoal",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/hypoblizzard-a.jpg",
+  "hatchlingImg": "./pics/hypoblizzard-h.jpg",
+  "adultImg": "./pics/hypoblizzard-a.jpg"
+}

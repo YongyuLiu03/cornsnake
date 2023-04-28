@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Kastanie",
+  "type": 2,
+  "traits": [
+    "Kastanie",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedkastanie-h.jpg",
+  "hatchlingImg": "./pics/sunkissedkastanie-h.jpg",
+  "adultImg": ""
+}

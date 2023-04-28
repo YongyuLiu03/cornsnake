@@ -1,0 +1,10 @@
+{
+  "name": "Bloodred",
+  "type": 8,
+  "traits": [
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/bloodred-a.jpg",
+  "hatchlingImg": "./pics/bloodred-h.jpg",
+  "adultImg": "./pics/bloodred-a.jpg"
+}

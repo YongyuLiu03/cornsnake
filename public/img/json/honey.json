@@ -1,0 +1,11 @@
+{
+  "name": "Honey",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/honey-a.jpg",
+  "hatchlingImg": "./pics/honey-h.jpg",
+  "adultImg": "./pics/honey-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Scaleless Tessera",
+  "type": 2,
+  "traits": [
+    "Scaleless",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/scalelesstessera-h.jpg",
+  "hatchlingImg": "./pics/scalelesstessera-h.jpg",
+  "adultImg": ""
+}

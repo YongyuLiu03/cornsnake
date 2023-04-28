@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Pied Sided Bloodred",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/hypopiedsidedbloodred-h.jpg",
+  "hatchlingImg": "./pics/hypopiedsidedbloodred-h.jpg",
+  "adultImg": ""
+}

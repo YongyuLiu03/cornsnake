@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Amel Stripe Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypoamelstripetessera-h.jpg",
+  "hatchlingImg": "./pics/hypoamelstripetessera-h.jpg",
+  "adultImg": ""
+}

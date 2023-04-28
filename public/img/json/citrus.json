@@ -1,0 +1,12 @@
+{
+  "name": "Citrus",
+  "type": 8,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Caramel"
+  ],
+  "thumbnail": "./thumbnails/citrus-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/citrus-a.jpg"
+}

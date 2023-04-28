@@ -1,0 +1,11 @@
+{
+  "name": "Diffused Stripe",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedstripe-a.jpg",
+  "hatchlingImg": "./pics/diffusedstripe-h.jpg",
+  "adultImg": "./pics/diffusedstripe-a.jpg"
+}

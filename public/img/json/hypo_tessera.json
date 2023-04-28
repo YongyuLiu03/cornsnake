@@ -1,0 +1,11 @@
+{
+  "name": "Hypo Tessera",
+  "type": 2,
+  "traits": [
+    "Hypomelanistic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypotessera-a.jpg",
+  "hatchlingImg": "./pics/hypotessera-h.jpg",
+  "adultImg": "./pics/hypotessera-a.jpg"
+}

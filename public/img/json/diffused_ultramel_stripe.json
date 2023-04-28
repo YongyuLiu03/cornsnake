@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Ultramel Stripe",
+  "type": 4,
+  "traits": [
+    "Diffused",
+    "Stripe",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedultramelstripe-h.jpg",
+  "hatchlingImg": "./pics/diffusedultramelstripe-h.jpg",
+  "adultImg": ""
+}

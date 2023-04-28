@@ -1,0 +1,11 @@
+{
+  "name": "Auratum",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/auratum-a.jpg",
+  "hatchlingImg": "./pics/auratum-h.jpg",
+  "adultImg": "./pics/auratum-a.jpg"
+}

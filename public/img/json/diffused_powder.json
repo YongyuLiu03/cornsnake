@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Powder",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/diffusedpowder-h.jpg",
+  "hatchlingImg": "./pics/diffusedpowder-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Snow Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedsnowmotley-h.jpg",
+  "hatchlingImg": "./pics/sunkissedsnowmotley-h.jpg",
+  "adultImg": ""
+}

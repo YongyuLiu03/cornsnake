@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Gold Dust",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/diffusedgolddust-a.jpg",
+  "hatchlingImg": "./pics/diffusedgolddust-h.jpg",
+  "adultImg": "./pics/diffusedgolddust-a.jpg"
+}

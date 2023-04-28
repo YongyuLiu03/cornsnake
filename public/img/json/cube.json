@@ -1,0 +1,10 @@
+{
+  "name": "Cube",
+  "type": 8,
+  "traits": [
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/cube-a.jpg",
+  "hatchlingImg": "./pics/cube-h.jpg",
+  "adultImg": "./pics/cube-a.jpg"
+}

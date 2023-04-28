@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed Butter Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedbutterstripe-a.jpg",
+  "hatchlingImg": "./pics/sunkissedbutterstripe-h.jpg",
+  "adultImg": "./pics/sunkissedbutterstripe-a.jpg"
+}

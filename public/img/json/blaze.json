@@ -1,0 +1,12 @@
+{
+  "name": "Blaze",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Sunkissed",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/blaze-h.jpg",
+  "hatchlingImg": "./pics/blaze-h.jpg",
+  "adultImg": ""
+}

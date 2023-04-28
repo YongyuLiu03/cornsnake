@@ -1,0 +1,13 @@
+{
+  "name": "Diffused Platinum",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Diffused",
+    "Hypomelanistic"
+  ],
+  "thumbnail": "./thumbnails/diffusedplatinum-a.jpg",
+  "hatchlingImg": "./pics/diffusedplatinum-h.jpg",
+  "adultImg": "./pics/diffusedplatinum-a.jpg"
+}

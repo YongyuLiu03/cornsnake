@@ -1,0 +1,11 @@
+{
+  "name": "Sunkissed Amel",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedamel-a.jpg",
+  "hatchlingImg": "./pics/sunkissedamel-h.jpg",
+  "adultImg": "./pics/sunkissedamel-a.jpg"
+}

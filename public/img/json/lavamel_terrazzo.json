@@ -1,0 +1,12 @@
+{
+  "name": "Lavamel Terrazzo",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Lava",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/lavamelterrazzo-h.jpg",
+  "hatchlingImg": "./pics/lavamelterrazzo-h.jpg",
+  "adultImg": ""
+}

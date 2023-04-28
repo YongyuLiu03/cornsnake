@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Terrazzo Motley",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Motley",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/caramelterrazzomotley-h.jpg",
+  "hatchlingImg": "./pics/caramelterrazzomotley-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Diffused Snopal Stripe",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Diffused",
+    "Lavender",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/diffusedsnopalstripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/diffusedsnopalstripe-a.jpg"
+}

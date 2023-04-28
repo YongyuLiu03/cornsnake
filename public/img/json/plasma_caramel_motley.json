@@ -1,0 +1,13 @@
+{
+  "name": "Plasma Caramel Motley",
+  "type": 4,
+  "traits": [
+    "Caramel",
+    "Diffused",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/plasmacaramelmotley-a.jpg",
+  "hatchlingImg": "./pics/plasmacaramelmotley-h.jpg",
+  "adultImg": "./pics/plasmacaramelmotley-a.jpg"
+}

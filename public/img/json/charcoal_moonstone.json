@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal Moonstone",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Charcoal",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/charcoalmoonstone-a.jpg",
+  "hatchlingImg": "./pics/charcoalmoonstone-h.jpg",
+  "adultImg": "./pics/charcoalmoonstone-a.jpg"
+}

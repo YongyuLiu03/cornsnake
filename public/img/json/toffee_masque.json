@@ -1,0 +1,11 @@
+{
+  "name": "Toffee Masque",
+  "type": 2,
+  "traits": [
+    "Masque",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeemasque-h.jpg",
+  "hatchlingImg": "./pics/toffeemasque-h.jpg",
+  "adultImg": ""
+}

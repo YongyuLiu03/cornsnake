@@ -1,0 +1,12 @@
+{
+  "name": "Cinder Pewter",
+  "type": 3,
+  "traits": [
+    "Charcoal",
+    "Cinder",
+    "Diffused"
+  ],
+  "thumbnail": "./thumbnails/cinderpewter-h.jpg",
+  "hatchlingImg": "./pics/cinderpewter-h.jpg",
+  "adultImg": ""
+}

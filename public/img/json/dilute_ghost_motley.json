@@ -1,0 +1,13 @@
+{
+  "name": "Dilute Ghost Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Dilute",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/diluteghostmotley-a.jpg",
+  "hatchlingImg": "./pics/diluteghostmotley-h.jpg",
+  "adultImg": "./pics/diluteghostmotley-a.jpg"
+}

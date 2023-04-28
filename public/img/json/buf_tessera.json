@@ -1,0 +1,11 @@
+{
+  "name": "Buf Tessera",
+  "type": 2,
+  "traits": [
+    "Buf",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/buftessera-h.jpg",
+  "hatchlingImg": "./pics/buftessera-h.jpg",
+  "adultImg": ""
+}

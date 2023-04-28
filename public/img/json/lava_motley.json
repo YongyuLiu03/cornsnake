@@ -1,0 +1,11 @@
+{
+  "name": "Lava Motley",
+  "type": 2,
+  "traits": [
+    "Lava",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/lavamotley-h.jpg",
+  "hatchlingImg": "./pics/lavamotley-h.jpg",
+  "adultImg": ""
+}

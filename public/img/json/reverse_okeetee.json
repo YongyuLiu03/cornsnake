@@ -1,0 +1,10 @@
+{
+  "name": "Reverse Okeetee",
+  "type": 8,
+  "traits": [
+    "Amelanistic"
+  ],
+  "thumbnail": "./thumbnails/reverseokeetee-a.jpg",
+  "hatchlingImg": "./pics/reverseokeetee-h.jpg",
+  "adultImg": "./pics/reverseokeetee-a.jpg"
+}

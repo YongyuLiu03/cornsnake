@@ -1,0 +1,12 @@
+{
+  "name": "Lavender Ghost",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender"
+  ],
+  "thumbnail": "./thumbnails/lavenderghost-h.jpg",
+  "hatchlingImg": "./pics/lavenderghost-h.jpg",
+  "adultImg": ""
+}

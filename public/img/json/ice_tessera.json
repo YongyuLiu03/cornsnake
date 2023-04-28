@@ -1,0 +1,12 @@
+{
+  "name": "Ice Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Lava",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/icetessera-h.jpg",
+  "hatchlingImg": "./pics/icetessera-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diffused Tessera",
+  "type": 2,
+  "traits": [
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/diffusedtessera-h.jpg",
+  "hatchlingImg": "./pics/diffusedtessera-h.jpg",
+  "adultImg": ""
+}

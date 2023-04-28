@@ -1,0 +1,13 @@
+{
+  "name": "Amel Shatter Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Cinder",
+    "Stripe",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/amelshatterstripe-h.jpg",
+  "hatchlingImg": "./pics/amelshatterstripe-h.jpg",
+  "adultImg": ""
+}

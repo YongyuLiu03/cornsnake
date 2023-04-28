@@ -1,0 +1,12 @@
+{
+  "name": "Topaz Masque",
+  "type": 3,
+  "traits": [
+    "Caramel",
+    "Lava",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/topazmasque-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/topazmasque-a.jpg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Masque",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Masque"
+  ],
+  "thumbnail": "./thumbnails/caramelmasque-h.jpg",
+  "hatchlingImg": "./pics/caramelmasque-h.jpg",
+  "adultImg": ""
+}

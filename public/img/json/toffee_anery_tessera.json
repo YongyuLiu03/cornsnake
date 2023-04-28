@@ -1,0 +1,12 @@
+{
+  "name": "Toffee Anery Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Tessera",
+    "Toffee"
+  ],
+  "thumbnail": "./thumbnails/toffeeanerytessera-h.jpg",
+  "hatchlingImg": "./pics/toffeeanerytessera-h.jpg",
+  "adultImg": ""
+}

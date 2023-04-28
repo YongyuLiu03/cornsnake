@@ -1,0 +1,11 @@
+{
+  "name": "Caramel Tessera",
+  "type": 2,
+  "traits": [
+    "Caramel",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/carameltessera-h.jpg",
+  "hatchlingImg": "./pics/carameltessera-h.jpg",
+  "adultImg": ""
+}

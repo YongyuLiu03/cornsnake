@@ -1,0 +1,13 @@
+{
+  "name": "Salmon Snow Stripe",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Strawberry",
+    "Stripe"
+  ],
+  "thumbnail": "./thumbnails/salmonsnowstripe-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/salmonsnowstripe-a.jpg"
+}

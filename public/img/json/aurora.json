@@ -1,0 +1,12 @@
+{
+  "name": "Aurora",
+  "type": 3,
+  "traits": [
+    "Sunrise",
+    "het Amelanistic",
+    "het Ultra"
+  ],
+  "thumbnail": "./thumbnails/aurora-h.jpg",
+  "hatchlingImg": "./pics/aurora-h.jpg",
+  "adultImg": ""
+}

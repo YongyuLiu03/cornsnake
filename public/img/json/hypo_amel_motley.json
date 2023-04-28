@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Amel Motley",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Hypomelanistic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypoamelmotley-h.jpg",
+  "hatchlingImg": "./pics/hypoamelmotley-h.jpg",
+  "adultImg": ""
+}

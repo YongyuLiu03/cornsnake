@@ -1,0 +1,12 @@
+{
+  "name": "Sunkissed Snow",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Sunkissed"
+  ],
+  "thumbnail": "./thumbnails/sunkissedsnow-h.jpg",
+  "hatchlingImg": "./pics/sunkissedsnow-h.jpg",
+  "adultImg": ""
+}

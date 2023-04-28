@@ -1,0 +1,13 @@
+{
+  "name": "Buf Butter Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Buf",
+    "Caramel",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/bufbuttermotley-a.jpg",
+  "hatchlingImg": "",
+  "adultImg": "./pics/bufbuttermotley-a.jpg"
+}

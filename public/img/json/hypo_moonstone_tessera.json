@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Moonstone Tessera",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/hypomoonstonetessera-h.jpg",
+  "hatchlingImg": "./pics/hypomoonstonetessera-h.jpg",
+  "adultImg": ""
+}

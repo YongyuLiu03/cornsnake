@@ -1,0 +1,10 @@
+{
+  "name": "Sunrise",
+  "type": 1,
+  "traits": [
+    "Sunrise"
+  ],
+  "thumbnail": "./thumbnails/sunrise-h.jpg",
+  "hatchlingImg": "./pics/sunrise-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mandarin Motley Tessera",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Kastanie",
+    "Motley",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/mandarinmotleytessera-h.jpg",
+  "hatchlingImg": "./pics/mandarinmotleytessera-h.jpg",
+  "adultImg": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Pied Sided Hypo Sulfur",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Caramel",
+    "Diffused",
+    "Hypomelanistic",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/piedsidedhyposulfur-h.jpg",
+  "hatchlingImg": "./pics/piedsidedhyposulfur-h.jpg",
+  "adultImg": ""
+}

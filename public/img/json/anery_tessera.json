@@ -1,0 +1,11 @@
+{
+  "name": "Anery Tessera",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/anerytessera-h.jpg",
+  "hatchlingImg": "./pics/anerytessera-h.jpg",
+  "adultImg": ""
+}

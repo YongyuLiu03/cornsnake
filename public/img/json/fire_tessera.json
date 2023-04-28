@@ -1,0 +1,12 @@
+{
+  "name": "Fire Tessera",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Diffused",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/firetessera-a.jpg",
+  "hatchlingImg": "./pics/firetessera-h.jpg",
+  "adultImg": "./pics/firetessera-a.jpg"
+}

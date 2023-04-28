@@ -1,0 +1,13 @@
+{
+  "name": "Scaleless Snow Motley",
+  "type": 4,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Motley",
+    "Scaleless"
+  ],
+  "thumbnail": "./thumbnails/scalelesssnowmotley-a.jpg",
+  "hatchlingImg": "./pics/scalelesssnowmotley-h.jpg",
+  "adultImg": "./pics/scalelesssnowmotley-a.jpg"
+}

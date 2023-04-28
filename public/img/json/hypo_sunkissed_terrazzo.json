@@ -1,0 +1,12 @@
+{
+  "name": "Hypo Sunkissed Terrazzo",
+  "type": 3,
+  "traits": [
+    "Hypomelanistic",
+    "Sunkissed",
+    "Terrazzo"
+  ],
+  "thumbnail": "./thumbnails/hyposunkissedterrazzo-h.jpg",
+  "hatchlingImg": "./pics/hyposunkissedterrazzo-h.jpg",
+  "adultImg": ""
+}

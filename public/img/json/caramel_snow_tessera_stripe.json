@@ -1,0 +1,14 @@
+{
+  "name": "Caramel Snow Tessera Stripe",
+  "type": 5,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Caramel",
+    "Stripe",
+    "Tessera"
+  ],
+  "thumbnail": "./thumbnails/caramelsnowtesserastripe-h.jpg",
+  "hatchlingImg": "./pics/caramelsnowtesserastripe-h.jpg",
+  "adultImg": ""
+}

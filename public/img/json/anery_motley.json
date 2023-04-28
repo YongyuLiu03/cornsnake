@@ -1,0 +1,11 @@
+{
+  "name": "Anery Motley",
+  "type": 2,
+  "traits": [
+    "Anerythristic",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/anerymotley-a.jpg",
+  "hatchlingImg": "./pics/anerymotley-h.jpg",
+  "adultImg": "./pics/anerymotley-a.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Lava Pied Sided Bloodred",
+  "type": 3,
+  "traits": [
+    "Diffused",
+    "Lava",
+    "Pied Sided"
+  ],
+  "thumbnail": "./thumbnails/lavapiedsidedbloodred-h.jpg",
+  "hatchlingImg": "./pics/lavapiedsidedbloodred-h.jpg",
+  "adultImg": ""
+}

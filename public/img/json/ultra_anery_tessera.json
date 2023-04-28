@@ -1,0 +1,12 @@
+{
+  "name": "Ultra Anery Tessera",
+  "type": 3,
+  "traits": [
+    "Anerythristic",
+    "Tessera",
+    "Ultra"
+  ],
+  "thumbnail": "./thumbnails/ultraanerytessera-h.jpg",
+  "hatchlingImg": "./pics/ultraanerytessera-h.jpg",
+  "adultImg": ""
+}

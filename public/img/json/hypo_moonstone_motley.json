@@ -1,0 +1,13 @@
+{
+  "name": "Hypo Moonstone Motley",
+  "type": 4,
+  "traits": [
+    "Anerythristic",
+    "Hypomelanistic",
+    "Lavender",
+    "Motley"
+  ],
+  "thumbnail": "./thumbnails/hypomoonstonemotley-h.jpg",
+  "hatchlingImg": "./pics/hypomoonstonemotley-h.jpg",
+  "adultImg": ""
+}

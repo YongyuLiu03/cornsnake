@@ -1,0 +1,12 @@
+{
+  "name": "Candyfloss",
+  "type": 3,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic",
+    "Cinder"
+  ],
+  "thumbnail": "./thumbnails/candyfloss-h.jpg",
+  "hatchlingImg": "./pics/candyfloss-h.jpg",
+  "adultImg": ""
+}

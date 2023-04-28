@@ -1,0 +1,11 @@
+{
+  "name": "Snow",
+  "type": 2,
+  "traits": [
+    "Amelanistic",
+    "Anerythristic"
+  ],
+  "thumbnail": "./thumbnails/snow-a.jpg",
+  "hatchlingImg": "./pics/snow-h.jpg",
+  "adultImg": "./pics/snow-a.jpg"
+}
